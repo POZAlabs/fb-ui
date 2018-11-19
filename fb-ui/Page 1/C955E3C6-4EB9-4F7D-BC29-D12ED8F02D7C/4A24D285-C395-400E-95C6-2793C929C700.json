@@ -1,10 +1,11 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "a4c50730-e9ad-11e8-b1d4-11a83ff57a14",
+  "do_objectID": "4A24D285-C395-400E-95C6-2793C929C700",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7B3DE5C5-FE03-4B9D-8C38-AF585587FD22",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,62 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "do_objectID": "6503F218-E84C-496D-87B0-755B7222DFE8",
+    "height": 60,
+    "width": 1280,
+    "x": 80,
     "y": 0
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "28E9809F-26E1-4899-A56F-965D8B9FDED3"
-    },
-    {
-      "class": "artboard",
-      "id": "C955E3C6-4EB9-4F7D-BC29-D12ED8F02D7C"
-    },
-    {
-      "class": "bitmap",
-      "id": "D1425BE0-16AB-4F39-9E8C-06B8B4C0D1DB"
-    }
-  ],
-  "name": "Page 1",
+  "name": "header/--default",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0D39B117-B112-47EB-AA55-BBC8D45B95D3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "1806B784-AB42-4238-A653-C545DBEC4921",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+      "kModelPropertiesKey": {
+      }
     }
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "verticalSpacing": 0
 }

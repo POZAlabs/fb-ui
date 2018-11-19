@@ -28,14 +28,18 @@
     ]
   },
   "meta": {
-    "appVersion": "52.3",
-    "build": 67297,
+    "appVersion": "52.4",
+    "build": 67378,
     "version": 112
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ],
   "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"865866986\",\"layerId\":\"3682287E-6A67-4FBB-9BDB-CC90DE519482\"}]"
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

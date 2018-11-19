@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "a4c50730-e9ad-11e8-b1d4-11a83ff57a14",
+  "do_objectID": "94E58CE6-899C-4694-ABA6-27C466342DF4",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "20C3D4DA-7909-4CDB-9F33-56CFF374F135",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,62 +16,53 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "do_objectID": "4B81D312-64B9-42E6-8A9F-575C0046B61A",
+    "height": 16,
+    "width": 16,
+    "x": 8,
+    "y": 8
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "28E9809F-26E1-4899-A56F-965D8B9FDED3"
-    },
-    {
-      "class": "artboard",
-      "id": "C955E3C6-4EB9-4F7D-BC29-D12ED8F02D7C"
-    },
-    {
-      "class": "bitmap",
-      "id": "D1425BE0-16AB-4F39-9E8C-06B8B4C0D1DB"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Icon/Dark/Text",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CDEF44F2-E586-48C8-A553-DBC66727FABF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E3B482FB-FAF1-4E99-8892-3BD3D79C919E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "55F9C35C-78A7-4655-B917-112949663D6B",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+      "kModelPropertiesKey": {
+      }
     }
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "verticalSpacing": 0
 }

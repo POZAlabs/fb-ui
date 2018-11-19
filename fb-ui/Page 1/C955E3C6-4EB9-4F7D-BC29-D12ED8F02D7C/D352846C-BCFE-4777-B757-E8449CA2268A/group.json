@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "a4c50730-e9ad-11e8-b1d4-11a83ff57a14",
+  "do_objectID": "D352846C-BCFE-4777-B757-E8449CA2268A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 704,
+    "width": 1440,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,19 +30,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "28E9809F-26E1-4899-A56F-965D8B9FDED3"
-    },
-    {
-      "class": "artboard",
-      "id": "C955E3C6-4EB9-4F7D-BC29-D12ED8F02D7C"
+      "class": "rectangle",
+      "id": "3682287E-6A67-4FBB-9BDB-CC90DE519482"
     },
     {
       "class": "bitmap",
-      "id": "D1425BE0-16AB-4F39-9E8C-06B8B4C0D1DB"
+      "id": "D69DB378-0AAA-4AB0-8B84-92008EEB87BE"
     }
   ],
-  "name": "Page 1",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,13 +53,8 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+      "kModelPropertiesKey": {
+      }
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }

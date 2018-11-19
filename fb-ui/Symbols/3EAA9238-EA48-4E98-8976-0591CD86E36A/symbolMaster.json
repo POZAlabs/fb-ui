@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,9 +7,10 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
+  "booleanOperation": 0,
+  "changeIdentifier": 125,
   "clippingMaskMode": 0,
-  "do_objectID": "28E9809F-26E1-4899-A56F-965D8B9FDED3",
+  "do_objectID": "3EAA9238-EA48-4E98-8976-0591CD86E36A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": 15,
-    "y": -25
+    "height": 16,
+    "width": 16,
+    "x": 108,
+    "y": 1031
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 2,
+    "isEnabled": false,
+    "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -37,6 +44,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,18 +52,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "469555A9-CBEB-4E5F-9433-13B6DA29A703"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F00E8D4B-D7E1-4D5D-9339-AC1F3F7DD40C"
+    }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
-  },
+  "name": "Icon/Dark/Image",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,10 +72,26 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "symbolID": "89906612-F50F-47FB-875C-04A53F447CB8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

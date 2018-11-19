@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "a4c50730-e9ad-11e8-b1d4-11a83ff57a14",
+  "do_objectID": "17BC087D-2103-4859-8A41-99685425848D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 32,
+    "width": 32,
+    "x": 1216,
+    "y": 14
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "28E9809F-26E1-4899-A56F-965D8B9FDED3"
-    },
-    {
-      "class": "artboard",
-      "id": "C955E3C6-4EB9-4F7D-BC29-D12ED8F02D7C"
-    },
-    {
-      "class": "bitmap",
-      "id": "D1425BE0-16AB-4F39-9E8C-06B8B4C0D1DB"
-    }
-  ],
-  "name": "Page 1",
+  "name": "user/__avatar",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -62,15 +44,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "6FE5192F-8170-4CAD-A039-6DCCA14F2641",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+      "kModelPropertiesKey": {
+      }
     }
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "verticalSpacing": 0
 }
