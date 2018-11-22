@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
-              "size": 14
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 24
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 2,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "가사"
+    "string": "가사를 작성해주세요"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD71801E-7168-49A3-804E-85C6B80E2E34",
+  "do_objectID": "23609128-A66C-4109-817D-C0795D277D38",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "288A2F83-2B94-4F36-BC01-F1AA141609B5",
+    "do_objectID": "09FBE6B3-DF31-4A7E-930C-2A08C66601AB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7329F1CD-8E6A-4579-BCE6-C7016D3129BB",
-    "height": 20,
-    "width": 26,
-    "x": 444,
-    "y": 292
+    "do_objectID": "0227A080-7A0A-446D-B58F-8DC054273437",
+    "height": 29,
+    "width": 194,
+    "x": 296,
+    "y": 347
   },
-  "glyphBounds": "{{0, 4}, {26, 14}}",
+  "glyphBounds": "{{1, 2}, {192, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "가사",
+  "name": "가사를 작성해주세요",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8E86A4C9-CA72-4642-851E-962D169CF8BC",
+    "do_objectID": "A63E47AC-1040-4765-B7F1-0C61E53EF744",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C6E9FC23-9FA2-4F9C-94EA-00023A384646",
+      "do_objectID": "EA228150-4D85-4630-9174-5C407D3D8696",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Bold",
-            "size": 14
+            "name": "AppleSDGothicNeo-Regular",
+            "size": 24
           }
         },
         "paragraphStyle": {
@@ -105,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

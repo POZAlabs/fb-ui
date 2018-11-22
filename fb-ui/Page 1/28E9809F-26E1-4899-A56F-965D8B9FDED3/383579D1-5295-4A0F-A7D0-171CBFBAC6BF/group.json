@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7D2C2CAD-819E-481E-9A93-5D7B95B8E189",
+  "do_objectID": "383579D1-5295-4A0F-A7D0-171CBFBAC6BF",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3D001F3A-0360-448D-921C-F4EEBDB02A5A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,9 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "3282EEFC-1888-4143-9C4F-EC5944240D9D",
     "height": 36,
-    "width": 58,
-    "x": 978,
+    "width": 142,
+    "x": 828,
     "y": 140
   },
   "hasClickThrough": false,
@@ -31,14 +33,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "4E75222C-A4EB-449E-BAA4-CFEE0E99C079"
+      "id": "E1B368AB-F089-427B-A21F-CF98A9DD8CDB"
     },
     {
       "class": "text",
-      "id": "96ED9257-224A-4E73-9E14-1433A887C473"
+      "id": "7BAB5E02-1A1E-4E92-9AFF-399A7C0B5F24"
     }
   ],
-  "name": "Padding Group 2",
+  "name": "Padding Group 2 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,6 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "101DF53C-B096-4715-86B6-A5836EFDBAB1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

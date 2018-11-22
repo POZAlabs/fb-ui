@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7D2C2CAD-819E-481E-9A93-5D7B95B8E189",
+  "do_objectID": "367AD0B3-AABB-464D-A4C8-E242D31286E7",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9D1B59A3-5FEB-49A6-883F-5B940A80239B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,6 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "FABCAD29-919A-40F7-B091-7109DC605A55",
     "height": 36,
     "width": 58,
     "x": 978,
@@ -31,11 +33,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "4E75222C-A4EB-449E-BAA4-CFEE0E99C079"
+      "id": "3C648A7C-8670-4907-872A-4C728C8C4457"
     },
     {
       "class": "text",
-      "id": "96ED9257-224A-4E73-9E14-1433A887C473"
+      "id": "13512E4C-34E3-4891-B7B4-B79CD980E5B3"
     }
   ],
   "name": "Padding Group 2",
@@ -46,6 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "801F118F-7721-4649-9365-8CA7A8D39C97",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

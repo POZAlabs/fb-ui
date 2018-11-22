@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.16,
+            "alpha": 0.72,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 2,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "가사"
+    "string": "다른 이름으로 저장"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD71801E-7168-49A3-804E-85C6B80E2E34",
+  "do_objectID": "7BAB5E02-1A1E-4E92-9AFF-399A7C0B5F24",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "288A2F83-2B94-4F36-BC01-F1AA141609B5",
+    "do_objectID": "EEC57F48-C05F-40A0-AA07-69032FA848B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7329F1CD-8E6A-4579-BCE6-C7016D3129BB",
+    "do_objectID": "18C88B71-CB98-4811-8E96-08110F3736B3",
     "height": 20,
-    "width": 26,
-    "x": 444,
-    "y": 292
+    "width": 110,
+    "x": 16,
+    "y": 8
   },
-  "glyphBounds": "{{0, 4}, {26, 14}}",
+  "glyphBounds": "{{1, 4}, {108, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "가사",
+  "name": "다른 이름으로 저장",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,17 +73,17 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8E86A4C9-CA72-4642-851E-962D169CF8BC",
+    "do_objectID": "A2CE7DC6-87D4-4442-89FF-FF9FCEEB5DC0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C6E9FC23-9FA2-4F9C-94EA-00023A384646",
+      "do_objectID": "71862ECE-6692-476D-B1BF-DB61A09885DD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.16,
+          "alpha": 0.72,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -105,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

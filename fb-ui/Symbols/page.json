@@ -127,6 +127,10 @@
     {
       "class": "symbolMaster",
       "id": "33B136D9-4FD6-4B11-B302-AEEF3AAC9F3A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "45E37856-34D8-49EA-AB70-E63033B6751B"
     }
   ],
   "name": "Symbols",
@@ -141,6 +145,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

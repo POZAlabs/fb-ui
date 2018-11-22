@@ -27,7 +27,7 @@
     "x": 15,
     "y": -25
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -47,16 +47,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E5726FA9-8CCE-4BEE-B458-98C5D47C69A5"
-    },
-    {
       "class": "rectangle",
-      "id": "2804572B-E6B8-4F3C-A26B-374254BCD402"
+      "id": "DAF865C4-E04F-4D2F-B39E-F9193037D1AA"
     },
     {
-      "class": "group",
-      "id": "5AFBE905-1E6C-4998-A70E-D5FE2776842B"
+      "class": "shapePath",
+      "id": "0EA35546-CDE0-4D78-9D7E-E479CD2E5672"
+    },
+    {
+      "class": "text",
+      "id": "91D6942E-64A7-45A7-AD55-F67909A0BE4C"
+    },
+    {
+      "class": "text",
+      "id": "B0DA0037-CCEC-4196-B05A-3048F7388E98"
     },
     {
       "class": "text",
@@ -69,6 +73,14 @@
     {
       "class": "group",
       "id": "7D2C2CAD-819E-481E-9A93-5D7B95B8E189"
+    },
+    {
+      "class": "group",
+      "id": "383579D1-5295-4A0F-A7D0-171CBFBAC6BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "725C86F6-D10C-4CC7-AEBA-139634B45827"
     }
   ],
   "layout": {
@@ -106,6 +118,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDxk33dlF8SpSycTj05BpxPEWcZqOL5rVS9kYQOsPxY="
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

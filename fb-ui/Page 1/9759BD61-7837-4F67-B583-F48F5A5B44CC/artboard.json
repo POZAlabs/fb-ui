@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "086F4CAA-7322-49C0-AEFF-0EB6F1FBAB92",
+    "do_objectID": "D9261E3A-7B1B-4322-AEA7-ECD6E0549A3D",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C955E3C6-4EB9-4F7D-BC29-D12ED8F02D7C",
+  "do_objectID": "9759BD61-7837-4F67-B583-F48F5A5B44CC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F21E5130-9AD3-4B55-B160-7162A8CC0B37",
+    "do_objectID": "428E8349-D387-4D9A-8A62-05DEB7B7A352",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,19 +24,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1C3288E-E175-43E3-8802-663AF5AE2731",
-    "height": 2101,
+    "do_objectID": "482B506D-4CAB-496C-99CA-3710084A67F5",
+    "height": 2309,
     "width": 1440,
-    "x": -1453,
-    "y": -25
+    "x": 2355,
+    "y": -2658
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "78B78C3A-BB57-4E05-A18D-A351F5A16DE5",
+    "do_objectID": "E3C6FA90-66B8-4317-AD76-678ACD897DAD",
     "guides": [
     ]
   },
@@ -51,45 +51,46 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "3C370DEA-74B9-41AB-9BBA-0C5BE4483071"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4A24D285-C395-400E-95C6-2793C929C700"
-    },
-    {
-      "class": "group",
-      "id": "4E378A9D-068A-4B9B-A975-77D5C13BFA08"
-    },
-    {
-      "class": "rectangle",
-      "id": "F38F7E0B-2CB7-4F80-AF38-53EC13C9EAC2"
+      "class": "shapePath",
+      "id": "94CE9AC7-5E44-4987-BE67-AD33DAB65EA9"
     },
     {
       "class": "text",
-      "id": "26B066A6-AB6B-4D74-B60B-F32D3C2AA1CA"
+      "id": "A7739F9D-A848-499C-A4CD-7B17526354AC"
+    },
+    {
+      "class": "text",
+      "id": "FDCF9E6C-7055-41E7-AB18-06A81A817582"
+    },
+    {
+      "class": "oval",
+      "id": "97C7AB96-BBB4-4A25-A885-AFC3D83E52A9"
     },
     {
       "class": "rectangle",
-      "id": "6CBFF329-5FF0-4F48-ADAC-D228E4798FB8"
+      "id": "A8079E20-BB1E-4C3C-A461-3C61FA57A16D"
     },
     {
       "class": "rectangle",
-      "id": "08FE62A3-9E8E-4793-ACEF-55856BD9329D"
+      "id": "0502F884-DCA7-42B2-A05B-5509441F2B35"
     },
     {
-      "class": "rectangle",
-      "id": "483C893D-7152-4C21-A17D-6FCDB4CDBD2E"
+      "class": "text",
+      "id": "F228782A-B82B-4790-8CE1-51740E48FE46"
     },
     {
-      "class": "rectangle",
-      "id": "DE252DB9-BE76-4452-851A-5CAE72190B54"
+      "class": "text",
+      "id": "67605283-623B-4C03-8191-CD9ADF1A5AFE"
+    },
+    {
+      "class": "oval",
+      "id": "4B2C32A0-749D-4698-B841-2AE0A935CB07"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
+    "do_objectID": "9C9896D6-FE72-40ED-9731-D1A9DE43ED64",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -102,8 +103,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "landing",
-  "nameIsFixed": true,
+  "name": "Desktop HD Copy 4",
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
@@ -118,16 +119,23 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "E06C909D-9F58-473E-A882-77C39E52559B",
+    "do_objectID": "DBF4D795-F630-43DA-A71D-6C546B13B0FF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDxk33dlF8SpSycTj05BpxPEWcZqOL5rVS9kYQOsPxY="
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E252302F-1B52-4747-B9A5-8954C0BF3552",
+    "do_objectID": "32E1F2F8-1C1D-4E01-8F83-D1701F17F0D9",
     "guides": [
     ]
   }

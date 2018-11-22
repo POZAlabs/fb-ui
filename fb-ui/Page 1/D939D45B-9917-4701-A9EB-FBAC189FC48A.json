@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "D1425BE0-16AB-4F39-9E8C-06B8B4C0D1DB",
+  "do_objectID": "D939D45B-9917-4701-A9EB-FBAC189FC48A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,18 +17,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 423,
-    "width": 564,
-    "x": 1513,
-    "y": -522
+    "height": 780,
+    "width": 1436,
+    "x": -4619,
+    "y": -1511
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/b80dab05ca28a5af56b8b8b6e343830b68cc025f.png",
+    "_ref": "images/7ad6144e84a2863f5f35a34c1e6eedfe128dcf97.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 72,
+  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -53,15 +53,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 423,
+            "constant": 780,
             "enabled": 1,
-            "modelID": "constraint_ededd3b8-fe48-44d6-901f-2c6261ee3eb9",
+            "modelID": "constraint_2489011f-bd59-4d15-b1de-b58f4f29e586",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 564
+            "multiplier": 1436
           },
           "automatic": 1,
-          "modelID": "viewConstraints_ebef0225-d51e-4879-a178-74ede31461a4",
+          "modelID": "viewConstraints_aad8ff0f-10d9-4737-829f-0c0d0cbac464",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

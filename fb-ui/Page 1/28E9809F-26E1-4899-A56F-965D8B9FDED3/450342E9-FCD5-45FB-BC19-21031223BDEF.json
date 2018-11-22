@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 10,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "제목을 작성해주세요"
+    "string": "제목"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 205,
-    "x": 423,
-    "y": 219
+    "width": 45,
+    "x": 444,
+    "y": 232
   },
-  "glyphBounds": "{{0, 7}, {204, 24}}",
+  "glyphBounds": "{{0, 7}, {44, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "제목을 작성해주세요",
+  "name": "제목",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

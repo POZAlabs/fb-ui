@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 14
+              "size": 8
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 2,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "가사"
+    "string": "1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD71801E-7168-49A3-804E-85C6B80E2E34",
+  "do_objectID": "48081583-315F-438C-81F2-8ACB6F29E823",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "288A2F83-2B94-4F36-BC01-F1AA141609B5",
+    "do_objectID": "0787DDA9-F9B3-4CB5-9AFC-2C8B39891F3E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7329F1CD-8E6A-4579-BCE6-C7016D3129BB",
-    "height": 20,
-    "width": 26,
-    "x": 444,
-    "y": 292
+    "do_objectID": "314AE2CF-12BE-45D5-AEDA-B09CEC511CAF",
+    "height": 12,
+    "width": 5,
+    "x": 422,
+    "y": 296
   },
-  "glyphBounds": "{{0, 4}, {26, 14}}",
+  "glyphBounds": "{{0, 3}, {5, 6}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "가사",
+  "name": "1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8E86A4C9-CA72-4642-851E-962D169CF8BC",
+    "do_objectID": "2FBD34A1-D574-4AD2-9C81-78D5E1BBE95E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C6E9FC23-9FA2-4F9C-94EA-00023A384646",
+      "do_objectID": "83EDB501-36AC-4293-8EA1-527D0B7E38AA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Bold",
-            "size": 14
+            "size": 8
           }
         },
         "paragraphStyle": {
@@ -105,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

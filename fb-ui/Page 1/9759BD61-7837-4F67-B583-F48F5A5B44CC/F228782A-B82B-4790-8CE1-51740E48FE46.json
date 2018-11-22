@@ -8,38 +8,38 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.16,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "alpha": 1,
+            "blue": 0.5607843137254902,
+            "green": 0.8549019607843137,
+            "red": 0.02352941176470588
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 14
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
         "location": 0
       }
     ],
-    "string": "가사"
+    "string": "1절"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD71801E-7168-49A3-804E-85C6B80E2E34",
+  "do_objectID": "F228782A-B82B-4790-8CE1-51740E48FE46",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "288A2F83-2B94-4F36-BC01-F1AA141609B5",
+    "do_objectID": "42F5451A-0A97-4C8A-8C3C-352D6DEC5BFE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7329F1CD-8E6A-4579-BCE6-C7016D3129BB",
-    "height": 20,
-    "width": 26,
-    "x": 444,
-    "y": 292
+    "do_objectID": "BA729EA2-DFC1-405C-B654-6EE0E4213DBE",
+    "height": 24,
+    "width": 25,
+    "x": 404,
+    "y": 339
   },
-  "glyphBounds": "{{0, 4}, {26, 14}}",
+  "glyphBounds": "{{1, 5}, {22, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "가사",
+  "name": "1절",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,43 +73,43 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8E86A4C9-CA72-4642-851E-962D169CF8BC",
+    "do_objectID": "D0B61CB5-860B-4829-8A0E-7A64A9E92898",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C6E9FC23-9FA2-4F9C-94EA-00023A384646",
+      "do_objectID": "4B8B1E97-E03A-46B2-9EC9-56827633AF77",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.16,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.5607843137254902,
+          "green": 0.8549019607843137,
+          "red": 0.02352941176470588
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Bold",
-            "size": 14
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

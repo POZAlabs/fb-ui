@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "086F4CAA-7322-49C0-AEFF-0EB6F1FBAB92",
+    "do_objectID": "A1606CFF-F8C4-4007-90F7-EE279D4D0F77",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C955E3C6-4EB9-4F7D-BC29-D12ED8F02D7C",
+  "do_objectID": "8503D303-7007-4039-9AF9-07FC8FB57A8C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F21E5130-9AD3-4B55-B160-7162A8CC0B37",
+    "do_objectID": "8D2C1426-EC7E-44B9-A71F-587D96D7D056",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,19 +24,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1C3288E-E175-43E3-8802-663AF5AE2731",
-    "height": 2101,
+    "do_objectID": "47B9DA77-526C-42E6-8D41-6756D7FCDFC9",
+    "height": 1024,
     "width": 1440,
-    "x": -1453,
-    "y": -25
+    "x": 1568,
+    "y": 1112
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "78B78C3A-BB57-4E05-A18D-A351F5A16DE5",
+    "do_objectID": "04FF3422-C52E-4839-BC86-2EFA57C09A97",
     "guides": [
     ]
   },
@@ -51,45 +51,62 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "3C370DEA-74B9-41AB-9BBA-0C5BE4483071"
+      "class": "rectangle",
+      "id": "0A643A3F-9C62-4C58-8131-EDED2B8D698B"
     },
     {
-      "class": "symbolInstance",
-      "id": "4A24D285-C395-400E-95C6-2793C929C700"
+      "class": "text",
+      "id": "48081583-315F-438C-81F2-8ACB6F29E823"
+    },
+    {
+      "class": "text",
+      "id": "4B112831-1476-4442-9F48-26EA0C8EB353"
+    },
+    {
+      "class": "text",
+      "id": "64F22458-9A5D-4BD4-A89E-63A1A13AB4D4"
+    },
+    {
+      "class": "text",
+      "id": "3658230E-2EB6-4DAB-9072-918F3489C41B"
     },
     {
       "class": "group",
-      "id": "4E378A9D-068A-4B9B-A975-77D5C13BFA08"
+      "id": "367AD0B3-AABB-464D-A4C8-E242D31286E7"
+    },
+    {
+      "class": "group",
+      "id": "73ED9882-6427-4D7D-9665-B85BBE6F0F6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0C0F173-8502-45CC-A5DD-3EF0D5321FD5"
     },
     {
       "class": "rectangle",
-      "id": "F38F7E0B-2CB7-4F80-AF38-53EC13C9EAC2"
+      "id": "19B0A10A-1965-481C-891A-D740F8DDDADE"
+    },
+    {
+      "class": "rectangle",
+      "id": "5F78091E-640A-428A-A84F-2CC71CA6F467"
     },
     {
       "class": "text",
-      "id": "26B066A6-AB6B-4D74-B60B-F32D3C2AA1CA"
+      "id": "50F977E0-DEBE-4D4B-B7DC-CDE4508E9C40"
     },
     {
-      "class": "rectangle",
-      "id": "6CBFF329-5FF0-4F48-ADAC-D228E4798FB8"
+      "class": "text",
+      "id": "7E517D59-2CF1-4094-8B03-60D1CCFF7713"
     },
     {
-      "class": "rectangle",
-      "id": "08FE62A3-9E8E-4793-ACEF-55856BD9329D"
-    },
-    {
-      "class": "rectangle",
-      "id": "483C893D-7152-4C21-A17D-6FCDB4CDBD2E"
-    },
-    {
-      "class": "rectangle",
-      "id": "DE252DB9-BE76-4452-851A-5CAE72190B54"
+      "class": "text",
+      "id": "1992D660-EEBE-4B60-AE5C-EEC74BF482A5"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
+    "do_objectID": "E3276534-2FE8-494D-B8A3-CB0B16EF94F0",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -102,8 +119,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "landing",
-  "nameIsFixed": true,
+  "name": "Desktop HD Copy 3",
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
@@ -118,16 +135,23 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "E06C909D-9F58-473E-A882-77C39E52559B",
+    "do_objectID": "3D7F108E-D46D-4832-AC6E-9196211BD378",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDxk33dlF8SpSycTj05BpxPEWcZqOL5rVS9kYQOsPxY="
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E252302F-1B52-4747-B9A5-8954C0BF3552",
+    "do_objectID": "D6F8C1D1-0EFD-4055-8C9A-60867490F356",
     "guides": [
     ]
   }
