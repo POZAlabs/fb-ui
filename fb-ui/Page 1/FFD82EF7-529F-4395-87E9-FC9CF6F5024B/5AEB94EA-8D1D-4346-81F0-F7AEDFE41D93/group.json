@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5AEB94EA-8D1D-4346-81F0-F7AEDFE41D93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 365,
+    "x": 133,
+    "y": 135
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "429136A8-F78D-45AF-BE19-5BF60B483717"
+    },
+    {
+      "class": "rectangle",
+      "id": "18EFE9D8-BF6C-4FD8-8584-61C7BC9ABEBB"
+    },
+    {
+      "class": "rectangle",
+      "id": "FD9CC2F6-3263-4759-82EF-3BBA15BF483F"
+    },
+    {
+      "class": "rectangle",
+      "id": "B41A6253-CE98-4F32-914B-B2484FE33A5E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B226E7B3-735B-4846-9EE5-C45844605CF6"
+    },
+    {
+      "class": "rectangle",
+      "id": "0BE23D83-2AF0-4702-A22B-A18A78001300"
+    },
+    {
+      "class": "rectangle",
+      "id": "53D9D006-1716-4FF7-BF5C-C8A09E090F00"
+    },
+    {
+      "class": "rectangle",
+      "id": "BEFF3DEA-CF87-473A-9A15-31099156E053"
+    }
+  ],
+  "name": "Stacked Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 51,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
