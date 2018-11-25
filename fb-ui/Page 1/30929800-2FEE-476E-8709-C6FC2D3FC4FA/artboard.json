@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +68,10 @@
     {
       "class": "rectangle",
       "id": "A2D0971F-1869-493B-8E93-A42ED53DDFA2"
+    },
+    {
+      "class": "oval",
+      "id": "85E1868B-145D-48DC-9B2D-08EA8349734A"
     },
     {
       "class": "text",
@@ -168,6 +172,14 @@
     {
       "class": "group",
       "id": "35209AB9-96EE-42D9-A43A-132D8FC84996"
+    },
+    {
+      "class": "rectangle",
+      "id": "108782A0-4A9A-4061-AEF7-E7C9F85CE73C"
+    },
+    {
+      "class": "text",
+      "id": "AE840EE7-9FDD-4144-BA25-0E0201EB15DE"
     }
   ],
   "layout": {
@@ -181,7 +193,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280

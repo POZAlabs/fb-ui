@@ -27,8 +27,8 @@
     "do_objectID": "ABF9AD5C-755A-44B3-87D7-1CED569EDAE5",
     "height": 900,
     "width": 1440,
-    "x": -10491,
-    "y": 9329
+    "x": -10210,
+    "y": 9683
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -199,7 +199,15 @@
     },
     {
       "class": "rectangle",
+      "id": "DEEEB15A-9D57-4424-A5C4-82AD966D427A"
+    },
+    {
+      "class": "rectangle",
       "id": "9059A314-48B6-42A3-BB8C-588BDE24F815"
+    },
+    {
+      "class": "rectangle",
+      "id": "BD7F4770-5504-4BDB-AEF2-490A824ACABB"
     },
     {
       "class": "text",
@@ -207,11 +215,23 @@
     },
     {
       "class": "text",
-      "id": "5BDCE519-D23D-49CC-9FD1-88E48FA2B3A8"
+      "id": "FC208B96-14CC-41CD-A7B2-2B732252A09E"
+    },
+    {
+      "class": "text",
+      "id": "9F2C716A-C74D-4443-A129-3ED091B0CDA9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9459A15D-1A3D-4273-B1DA-69CF1ED2B0F2"
     },
     {
       "class": "text",
       "id": "A9AEE0CA-13EF-40AB-9C8D-707ADD31C6B9"
+    },
+    {
+      "class": "text",
+      "id": "5BDCE519-D23D-49CC-9FD1-88E48FA2B3A8"
     }
   ],
   "layout": {
