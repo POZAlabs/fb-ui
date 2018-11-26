@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Light",
+              "name": "AppleSDGothicNeo-Bold",
               "size": 16
             }
           },
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "A8A3FDF1-ABB8-4601-BC7A-930A9A2CDE8F",
     "height": 19,
-    "width": 60,
+    "width": 64,
     "x": 804,
     "y": 251
   },
-  "glyphBounds": "{{0, 1}, {59, 13}}",
+  "glyphBounds": "{{0, 1}, {63, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Light",
+            "name": "AppleSDGothicNeo-Bold",
             "size": 16
           }
         },
