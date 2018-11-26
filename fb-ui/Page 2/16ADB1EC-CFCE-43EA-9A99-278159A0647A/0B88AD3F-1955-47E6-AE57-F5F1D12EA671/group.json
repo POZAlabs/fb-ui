@@ -18,9 +18,9 @@
     "constrainProportions": false,
     "do_objectID": "96C20269-5099-473D-95ED-A706CC3F1565",
     "height": 30,
-    "width": 105,
-    "x": 731,
-    "y": 201
+    "width": 173,
+    "x": 156,
+    "y": 352
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -40,12 +40,20 @@
       "id": "8C55759D-09C3-4887-B9A7-3D87522CDC27"
     },
     {
+      "class": "rectangle",
+      "id": "057BF25D-3CDF-4599-ABB8-CEF3A4ED65BC"
+    },
+    {
       "class": "text",
       "id": "61A84FE8-921A-4D7E-BDEE-DA89C164ACD1"
     },
     {
       "class": "text",
       "id": "4F6EB94B-B728-49DA-B828-CECF2CA64FCE"
+    },
+    {
+      "class": "text",
+      "id": "6A02A98A-FD1C-48FD-B1F1-A67EF04F4CFA"
     }
   ],
   "name": "Group 3 Copy 5",

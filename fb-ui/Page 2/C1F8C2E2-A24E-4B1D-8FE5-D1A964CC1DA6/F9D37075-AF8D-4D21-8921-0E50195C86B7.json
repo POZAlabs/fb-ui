@@ -20,6 +20,7 @@
               "size": 14
             }
           },
+          "kerning": 0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,8 +29,37 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 276,
+        "length": 275,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.64,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleSDGothicNeo-Light",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 275
       }
     ],
     "string": "천진난만 청순가련\n새침한 척 이젠 지쳐 나\n귀찮아\n\n매일 뭐 해 어디야 밥은 잘 자\nBaby 자기 여보 보고 싶어\n다 부질없어\nYou got me like\n\n이건 아무 감동 없는\nLove Story\n어떤 설렘도 어떤 의미도\n네겐 미안하지만\nI’m not sorry\n오늘부터 난 난 난\n\n빛이 나는 솔로\n빛이 나는 솔로\nI’m going solo lo lo lo lo lo\nI’m going solo lo lo lo lo lo\n\n\nUsed to be your girl\nNow I’m used to"
@@ -54,11 +84,11 @@
     "constrainProportions": false,
     "do_objectID": "FA420CC3-9130-4751-B001-B272C85C04F6",
     "height": 480,
-    "width": 156,
+    "width": 165,
     "x": 112,
     "y": 311
   },
-  "glyphBounds": "{{0, 2}, {156, 472}}",
+  "glyphBounds": "{{0, 2}, {164, 472}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -97,6 +127,7 @@
             "size": 14
           }
         },
+        "kerning": 0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

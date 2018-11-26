@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5CE696D2-09C8-4E9C-B6DE-7F0208D2CA87",
-    "height": 900,
-    "width": 1440,
-    "x": 0,
-    "y": 0
+    "height": 836,
+    "width": 1278,
+    "x": 81,
+    "y": 64
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -30,7 +30,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Rectangle",
@@ -107,10 +107,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.88,
-          "blue": 0.1956579506802721,
-          "green": 0.1207328556543708,
-          "red": 0.1162606892467471
+          "alpha": 0.849807518115942,
+          "blue": 0.00351144809915562,
+          "green": 0.01510119421054207,
+          "red": 0.09313881802721088
         },
         "fillType": 0,
         "isEnabled": true,

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5450980392156862,
-            "green": 0.7411764705882353,
-            "red": 0.1372549019607843
+            "blue": 0.007843137254901959,
+            "green": 0.01176470588235294,
+            "red": 0.02352941176470588
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "즐겨찾기"
+    "string": "현재단어"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "즐겨찾기",
+  "name": "현재단어",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,20 +72,18 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "36FEDF1D-B0EC-426F-AFA8-8765FEF6E133",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5763B2E1-A5E5-49FD-8802-3CF24078F068",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5450980392156862,
-          "green": 0.7411764705882353,
-          "red": 0.1372549019607843
+          "blue": 0.007843137254901959,
+          "green": 0.01176470588235294,
+          "red": 0.02352941176470588
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

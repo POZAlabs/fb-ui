@@ -58,16 +58,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "FB444286-05AF-422C-9B58-3EB43ADDA53C"
+      "class": "rectangle",
+      "id": "C3900B69-E032-4051-B4D9-611C088493EF"
     },
     {
       "class": "rectangle",
       "id": "14847EAE-B660-4B55-9C24-922FC7C15D2C"
-    },
-    {
-      "class": "rectangle",
-      "id": "C3900B69-E032-4051-B4D9-611C088493EF"
     },
     {
       "class": "rectangle",
@@ -149,7 +145,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280

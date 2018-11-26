@@ -22,14 +22,14 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           }
         },
-        "length": 2,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "삭제"
+    "string": "다음단어"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "3EFDD979-1824-40A2-AE3A-5A3D6E2C448A",
     "height": 18,
-    "width": 23,
+    "width": 45,
     "x": 72,
     "y": 2.999999999999948
   },
-  "glyphBounds": "{{0, 4}, {21, 11}}",
+  "glyphBounds": "{{1, 4}, {42, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "삭제",
+  "name": "다음단어",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -96,7 +96,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         }
       },
       "verticalAlignment": 0

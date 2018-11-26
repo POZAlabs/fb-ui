@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-BlackItalic",
+              "name": "AppleSDGothicNeo-ExtraBold",
               "size": 32
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Style Book"
+    "string": "노ㅎ미"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6B7A1E10-73EE-4DE3-B6B8-6D349E03F74B",
-    "height": 38,
-    "width": 153,
+    "height": 39,
+    "width": 84,
     "x": 100,
-    "y": 191
+    "y": 192
   },
-  "glyphBounds": "{{0, 5}, {155, 32}}",
+  "glyphBounds": "{{0, 3}, {81, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Style Book",
+  "name": "노ㅎ미",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-BlackItalic",
+            "name": "AppleSDGothicNeo-ExtraBold",
             "size": 32
           }
         },

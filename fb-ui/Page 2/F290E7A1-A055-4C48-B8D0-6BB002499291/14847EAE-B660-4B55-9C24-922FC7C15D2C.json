@@ -30,7 +30,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Rectangle",
@@ -118,7 +118,12 @@
           "green": 0.0711319480022396,
           "red": 0.2661033163265306
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/b4ed90a51ed1fbae65239399e16cb098f3fb40a5.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -133,6 +138,15 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Nature",
+        "icon": "leaf",
+        "index": 2,
+        "mode": "unsplash",
+        "title": "Nature"
       }
     }
   }
