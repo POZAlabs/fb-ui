@@ -17,20 +17,22 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Heavy",
-              "size": 48
+              "size": 40
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 64,
+            "minimumLineHeight": 64
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Write Your Favioirte Music"
+    "string": "땡벌"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D8C2AFA3-C7CF-436A-9965-2DFD16471946",
-    "height": 114,
+    "height": 64,
     "width": 368,
-    "x": 108,
-    "y": 95
+    "x": 104,
+    "y": 85
   },
-  "glyphBounds": "{{0, 7}, {341, 92}}",
+  "glyphBounds": "{{1, 11}, {66, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Write Your Favioirte",
+  "name": "땡벌",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,12 +94,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Heavy",
-            "size": 48
+            "size": 40
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 64,
+          "minimumLineHeight": 64
         },
         "textStyleVerticalAlignmentKey": 0
       },

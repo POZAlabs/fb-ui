@@ -27,8 +27,8 @@
     "do_objectID": "84DC4BB1-32B4-4BFC-B918-D9AED2BC540B",
     "height": 900,
     "width": 1440,
-    "x": 14780,
-    "y": 1624
+    "x": 12682,
+    "y": 2661
   },
   "grid": {
     "_class": "simpleGrid",
@@ -224,6 +224,14 @@
     {
       "class": "text",
       "id": "B627CEA0-959B-48E6-808D-018AF1B88955"
+    },
+    {
+      "class": "rectangle",
+      "id": "61F077EF-1C3F-452D-85C1-4F4BCAF837BE"
+    },
+    {
+      "class": "text",
+      "id": "F4607F98-3F1A-42A0-B970-A8DCAE9178C7"
     }
   ],
   "layout": {
