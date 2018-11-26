@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.32,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,32 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Light",
-              "size": 14
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "가사를 입력해주세요"
+    "string": "345자"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A98FEC8C-C042-4437-BA40-804EE5D947D8",
+  "do_objectID": "8A1BEA2E-C5F2-4ECB-BD31-A2213BB8589B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F50D7D27-7711-4E3D-9B88-87F1BA81D7AA",
+    "do_objectID": "A7EE089A-F67B-454B-99A4-F89714D142F6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B25CE0F1-952C-42C3-A832-F21C7C7D0A66",
-    "height": 20,
-    "width": 113,
-    "x": 112,
-    "y": 311
+    "do_objectID": "738F439F-C34A-42F6-AE7A-7C15D6C4DE80",
+    "height": 15,
+    "width": 30,
+    "x": 96,
+    "y": 794
   },
-  "glyphBounds": "{{0, 2}, {113, 14}}",
+  "glyphBounds": "{{0, 1}, {30, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "가사를 입력해주세요",
+  "name": "345자",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,17 +73,17 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2239F818-7224-4985-B4F2-CB86B2DEF0A9",
+    "do_objectID": "C4B4619C-32CE-4F0C-BD30-E8D295F8D267",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4027B5A4-F8B4-4997-B5CC-D53F0228E433",
+      "do_objectID": "9A4E8253-4DEC-4130-874E-0711C3D6BB20",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.32,
+          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -93,15 +91,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Light",
-            "size": 14
+            "name": "AppleSDGothicNeo-Regular",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
