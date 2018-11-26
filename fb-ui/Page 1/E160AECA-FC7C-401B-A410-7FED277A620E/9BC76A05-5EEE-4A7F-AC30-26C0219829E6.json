@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Regular",
+              "name": "AppleSDGothicNeo-Bold",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "작사가 노혜미"
+    "string": "노혜미"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "E7FDF4DD-D32A-4A89-A0D8-6BBB31D3487B",
     "height": 17,
-    "width": 77,
+    "width": 37,
     "x": 112,
     "y": 168
   },
-  "glyphBounds": "{{0, 1}, {75, 14}}",
+  "glyphBounds": "{{0, 1}, {35, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "작사가 노혜미",
+  "name": "노혜미",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Regular",
+            "name": "AppleSDGothicNeo-Bold",
             "size": 14
           }
         },
