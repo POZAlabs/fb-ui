@@ -27,8 +27,8 @@
     "do_objectID": "EBBA9D9A-527D-48C5-8989-538FC6003079",
     "height": 900,
     "width": 1440,
-    "x": 10273,
-    "y": 1624
+    "x": 14166,
+    "y": 1303
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,10 +75,6 @@
     },
     {
       "class": "rectangle",
-      "id": "BE6A866E-C45D-4AC8-AE78-EB73EFFDEA22"
-    },
-    {
-      "class": "rectangle",
       "id": "42877402-EB47-4C11-BC90-FB3CCA68C6F5"
     },
     {
@@ -110,14 +106,6 @@
       "id": "11871344-7CC5-4A20-B3FB-61045E149636"
     },
     {
-      "class": "group",
-      "id": "47B4E30A-C0F8-4144-A809-CA255A2A45D1"
-    },
-    {
-      "class": "text",
-      "id": "F200B694-91F9-4A7D-BA8A-F7FABB7E4BDA"
-    },
-    {
       "class": "text",
       "id": "CC5F72F2-20CA-4A06-A55D-A2E1BFFE715B"
     },
@@ -132,14 +120,6 @@
     {
       "class": "group",
       "id": "6D919B23-9191-4F42-9B1B-0585193DF33D"
-    },
-    {
-      "class": "text",
-      "id": "5EB90A36-CADD-4BAF-BCE1-7934DA720794"
-    },
-    {
-      "class": "text",
-      "id": "4F88B141-DED3-477B-9D06-6C104C48E34A"
     },
     {
       "class": "group",
@@ -166,8 +146,36 @@
       "id": "08AF2181-02B2-4779-A9A9-8B3EBD3430BB"
     },
     {
-      "class": "rectangle",
-      "id": "82183127-6242-41BA-A499-716991E06C1C"
+      "class": "group",
+      "id": "9DE8741A-DC9F-4281-9DB2-C3DDA7C552A4"
+    },
+    {
+      "class": "text",
+      "id": "F371BEDF-F63A-45A2-A8BD-102421AF2FB1"
+    },
+    {
+      "class": "text",
+      "id": "D2BE4E40-6409-485E-9BE6-0A8390683489"
+    },
+    {
+      "class": "text",
+      "id": "09673426-3A5B-4AEC-B4B3-B6A0E52F89FE"
+    },
+    {
+      "class": "group",
+      "id": "F3D8E459-3452-47C0-97BC-44197A52C525"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCEA1C05-7F9C-49CF-9DDD-166E3FBB9784"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05B2294C-1ED8-4979-815D-2A5F888BB282"
+    },
+    {
+      "class": "group",
+      "id": "E53DD8E1-6F7C-49B6-9792-A888DF1DB0C1"
     }
   ],
   "layout": {
