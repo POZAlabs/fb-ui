@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.72,
+            "alpha": 0.56,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 178,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "천진난만 청순가련\n새침한 척 이젠 지쳐 나\n귀찮아\n\n매일 뭐 해 어디야 밥은 잘 자\nBaby 자기 여보 보고 싶어\n다 부질없어\nYou got me like\n\n이건 아무 감동 없는\nLove Story\n어떤 설렘도 어떤 의미도\n네겐 미안하지만\nI’m not sorry\n오늘부터 난 난 난\n\n빛이 나는 솔로\n빛이 나는 솔로\n"
+    "string": "가사를 입력해주세요."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AB379DCA-3CF4-4C1F-9973-AF5BB703287D",
-    "height": 380,
-    "width": 156,
+    "height": 20,
+    "width": 116,
     "x": 32,
     "y": 248
   },
-  "glyphBounds": "{{0, 2}, {156, 354}}",
+  "glyphBounds": "{{0, 2}, {115, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "천진난만 청순가련 새침한 척 이젠 지",
+  "name": "가사를 입력해주세요.",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -85,7 +85,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.72,
+          "alpha": 0.56,
           "blue": 1,
           "green": 1,
           "red": 1

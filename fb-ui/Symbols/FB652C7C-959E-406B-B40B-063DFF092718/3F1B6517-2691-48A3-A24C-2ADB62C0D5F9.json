@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Black",
-              "size": 32
+              "size": 28
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0F3CD846-3582-421B-A8BC-3A8EFB30FA03",
-    "height": 38,
-    "width": 68,
+    "height": 33,
+    "width": 60,
     "x": 112,
-    "y": 13
+    "y": 12
   },
-  "glyphBounds": "{{1, 6}, {67, 25}}",
+  "glyphBounds": "{{1, 5}, {58, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Black",
-            "size": 32
+            "size": 28
           }
         },
         "paragraphStyle": {
