@@ -16,30 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-ThinItalic",
-              "size": 28
+              "name": "AppleSDGothicNeo-ExtraBold",
+              "size": 40
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Box"
+    "string": "Lyrics"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E4B2F862-93CD-4AB1-99C3-E8115204B90D",
+  "do_objectID": "BC968D15-3C02-41C5-9DC0-4AD8EC224558",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "057B074C-0853-4F1D-8C08-3B83465B349E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E3C42AE0-01EB-47AE-9F0A-97B006A7C9CF",
-    "height": 33,
-    "width": 45,
-    "x": 142,
-    "y": 12
+    "height": 48,
+    "width": 104,
+    "x": 104,
+    "y": 113
   },
-  "glyphBounds": "{{1, 6}, {44, 21}}",
+  "glyphBounds": "{{2, 6}, {100, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Box",
+  "name": "Lyrics",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,13 +71,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "956BDB6E-52F8-4283-9AB9-09EEF1F1242B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8677718A-C464-4B19-AB3D-02C85D986530",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,17 +87,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-ThinItalic",
-            "size": 28
+            "name": "AppleSDGothicNeo-ExtraBold",
+            "size": 40
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },

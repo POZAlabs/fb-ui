@@ -16,30 +16,25 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-ThinItalic",
-              "size": 28
+              "name": "simple-line-icons",
+              "size": 20
             }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 1
+          }
         },
-        "length": 3,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "Box"
+    "string": ""
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E4B2F862-93CD-4AB1-99C3-E8115204B90D",
+  "do_objectID": "8A4EAD4C-C7F8-4E1F-BAA9-6714480129C5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "057B074C-0853-4F1D-8C08-3B83465B349E",
+    "do_objectID": "624672E9-82DF-4269-9DE4-190BF6A26CC8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +45,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E3C42AE0-01EB-47AE-9F0A-97B006A7C9CF",
-    "height": 33,
-    "width": 45,
-    "x": 142,
-    "y": 12
+    "do_objectID": "3482A461-5888-4BCB-BA18-9194B920676A",
+    "height": 20,
+    "width": 20,
+    "x": 108,
+    "y": 257
   },
-  "glyphBounds": "{{1, 6}, {44, 21}}",
+  "glyphBounds": "{{0, 2}, {20, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +60,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Box",
+  "name": "Folder - simple-line-icons",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,13 +68,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "956BDB6E-52F8-4283-9AB9-09EEF1F1242B",
+    "do_objectID": "887933B3-DF0A-4EA4-AFFC-F6ECB88F1DB5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8677718A-C464-4B19-AB3D-02C85D986530",
+      "do_objectID": "0576B9EC-AD57-42D1-A570-66B51B52F0E2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,17 +86,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-ThinItalic",
-            "size": 28
+            "name": "simple-line-icons",
+            "size": 20
           }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
-        },
-        "textStyleVerticalAlignmentKey": 1
+        }
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
