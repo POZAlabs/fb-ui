@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-ExtraBold",
-              "size": 48
+              "size": 36
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3892E85E-CFCF-48E0-925D-23B4B3E2DF1F",
-    "height": 57,
-    "width": 123,
-    "x": 219,
-    "y": 104
+    "height": 43,
+    "width": 93,
+    "x": 229,
+    "y": 125
   },
-  "glyphBounds": "{{3, 7}, {119, 35}}",
+  "glyphBounds": "{{2, 5}, {90, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,16 +76,13 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "8D2373EE-03DE-482F-ADFE-BE413B64EF71",
       "opacity": 0.2000000029802322
     },
-    "do_objectID": "70C63FCC-1F89-4D13-95C5-6FA0BFB72A61",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8571DD27-6FD1-4D3C-B0F4-CA8DB2765ED2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -98,7 +95,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-ExtraBold",
-            "size": 48
+            "size": 36
           }
         },
         "paragraphStyle": {
