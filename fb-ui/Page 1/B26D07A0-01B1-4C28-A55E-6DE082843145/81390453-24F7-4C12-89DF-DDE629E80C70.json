@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3C7A195A-C956-4FB6-B199-EED3248588A6",
-    "height": 771,
-    "width": 524,
+    "height": 78,
+    "width": 1280,
     "x": 80,
-    "y": 93
+    "y": 80
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -100,12 +100,6 @@
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "D328C149-C742-413F-AD20-37F293153C1E",
-      "opacity": 0.5600000023841858
-    },
     "do_objectID": "7BB3FA8F-F1E8-48F0-89C7-5F5DABB28258",
     "endMarkerType": 0,
     "fills": [
@@ -113,7 +107,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.32,
           "blue": 0,
           "green": 0,
           "red": 0
