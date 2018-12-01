@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-LightItalic",
+              "name": "Roboto-Light",
               "size": 20
             }
           },
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "155E803C-1200-4882-8C7D-972F59C60458",
     "height": 24,
-    "width": 56,
+    "width": 57,
     "x": 104,
     "y": 96
   },
-  "glyphBounds": "{{1, 4}, {54, 16}}",
+  "glyphBounds": "{{0, 4}, {56, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,6 +73,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.2000000029802322
+    },
     "do_objectID": "411CFC7A-365B-4D49-8F67-34BC2B85D52D",
     "endMarkerType": 0,
     "miterLimit": 10,
@@ -91,7 +96,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-LightItalic",
+            "name": "Roboto-Light",
             "size": 20
           }
         },
