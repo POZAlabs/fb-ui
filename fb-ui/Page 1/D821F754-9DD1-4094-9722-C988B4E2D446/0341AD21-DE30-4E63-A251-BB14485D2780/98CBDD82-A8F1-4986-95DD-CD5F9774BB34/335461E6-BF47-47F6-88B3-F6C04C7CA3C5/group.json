@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "335461E6-BF47-47F6-88B3-F6C04C7CA3C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9477FAE-1C9D-4B6C-B08E-A2AEAD224E27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3A48849-C312-4BEA-B25F-A8394529CFEE",
+    "height": 25,
+    "width": 726,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "86F0506C-D11E-4634-BB89-48B41FE774B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15DDF1D7-2058-4406-93E8-F2EE06DC1320"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F51E5029-6AD5-4CBE-A38F-CE5C2378A561"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "530F4EE3-9E46-4839-BD47-74526DC8952E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26D24063-98F0-445D-A57A-4AAB173A900E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E07BE52-7479-4AE6-A045-289064AAADA6"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C283332C-5AF6-4A4C-8D89-7842FBA3CDBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 4,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
