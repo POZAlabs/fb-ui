@@ -27,8 +27,8 @@
     "do_objectID": "A50509CB-CF23-4D3D-ADEE-91AA1557CEFE",
     "height": 900,
     "width": 1440,
-    "x": 12726,
-    "y": -775
+    "x": 14265,
+    "y": -1952
   },
   "grid": {
     "_class": "simpleGrid",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -196,14 +196,6 @@
     {
       "class": "text",
       "id": "CA22C9A4-E09C-445D-8432-AC55ECC23F0F"
-    },
-    {
-      "class": "group",
-      "id": "D2E88248-1ED7-46F5-8B3D-BF130275E11F"
-    },
-    {
-      "class": "bitmap",
-      "id": "C63BBBD5-6AD5-45DC-A1AB-9081C2D797FB"
     }
   ],
   "layout": {
