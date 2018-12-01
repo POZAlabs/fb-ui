@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Heavy",
-              "size": 40
+              "size": 32
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4A397F4E-B32B-445C-83E5-CF7B683C7CE0",
-    "height": 48,
-    "width": 445,
-    "x": 424,
-    "y": 112
+    "height": 39,
+    "width": 356,
+    "x": 416,
+    "y": 96
   },
-  "glyphBounds": "{{2, 5}, {442, 36}}",
+  "glyphBounds": "{{2, 4}, {353, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Heavy",
-            "size": 40
+            "size": 32
           }
         },
         "paragraphStyle": {

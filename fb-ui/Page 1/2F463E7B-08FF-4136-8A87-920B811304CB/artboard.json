@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -76,6 +76,26 @@
     {
       "class": "rectangle",
       "id": "5F69620F-E461-4E39-A1F9-BBB88FE965E5"
+    },
+    {
+      "class": "group",
+      "id": "145E8A15-D16D-4F51-B334-C3ED6EE25735"
+    },
+    {
+      "class": "text",
+      "id": "941D4A34-3AF4-4987-83D5-716BD8126918"
+    },
+    {
+      "class": "text",
+      "id": "C53CFFEC-96C2-458A-94D2-0066AA4E1928"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDB9CA8D-10F2-4DC1-ACD2-995BCC5829C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B999B36-7209-4714-B8BD-DCC7A0D8FE41"
     },
     {
       "class": "rectangle",
@@ -126,20 +146,8 @@
       "id": "79D09301-BA38-4887-B077-D383EC6D2990"
     },
     {
-      "class": "rectangle",
-      "id": "16E2DBE5-D0F0-4804-A492-4DB5666E2C22"
-    },
-    {
-      "class": "group",
-      "id": "E52E3D03-569B-4A5D-BD63-C097DE7149DC"
-    },
-    {
       "class": "text",
-      "id": "62CD3A7E-591C-4965-9305-F1559D4B1A45"
-    },
-    {
-      "class": "text",
-      "id": "6359A0A6-DD9B-48B6-8B8D-FE94F0BF8548"
+      "id": "B0A6082B-CAF1-4691-8A74-AF05614D4EEA"
     }
   ],
   "layout": {
