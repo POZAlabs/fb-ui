@@ -27,8 +27,8 @@
     "do_objectID": "34949356-0402-4D38-8BDC-28CBE3240E88",
     "height": 900,
     "width": 1440,
-    "x": 5718,
-    "y": 6532
+    "x": 3778,
+    "y": 6853
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,10 +60,6 @@
     {
       "class": "bitmap",
       "id": "13B0E49A-7886-4989-B402-2A773DEE7E06"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DEF32C04-390E-4445-BE80-55D0F39A195E"
     },
     {
       "class": "rectangle",
@@ -136,6 +132,10 @@
     {
       "class": "rectangle",
       "id": "F13F6345-45B7-4152-8BDB-3647DADCF00A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEF32C04-390E-4445-BE80-55D0F39A195E"
     }
   ],
   "layout": {

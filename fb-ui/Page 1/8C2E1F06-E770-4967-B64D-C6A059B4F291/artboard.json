@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -63,15 +63,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "853EB8DD-FF86-47BD-BF07-366332559ADF"
+      "id": "91A23EFB-6BC6-4E2B-BE6D-C734CF7B644D"
     },
     {
-      "class": "rectangle",
-      "id": "FC486FBF-D0CB-4A22-B90A-A5178825E7AE"
-    },
-    {
-      "class": "rectangle",
-      "id": "6ABC3EC7-C2EF-4F62-BAA3-3D5301D0195F"
+      "class": "symbolInstance",
+      "id": "32C13CAC-1A70-4444-BAAA-181804ED42FD"
     },
     {
       "class": "rectangle",
@@ -98,18 +94,6 @@
       "id": "CD1BD312-9CAB-423E-94E3-772C007EDC77"
     },
     {
-      "class": "text",
-      "id": "25188265-B307-471E-90BD-6C7145BD6134"
-    },
-    {
-      "class": "text",
-      "id": "1E374514-68A2-488A-9B0C-7371C1714DFA"
-    },
-    {
-      "class": "text",
-      "id": "7D244CD5-8315-443B-976C-962AA72BB141"
-    },
-    {
       "class": "group",
       "id": "35B4B1BC-CDDE-4558-A79B-A42EBB957811"
     },
@@ -128,6 +112,10 @@
     {
       "class": "group",
       "id": "BC282A6C-8A39-4D0A-BE5C-1F10D3A96BC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "853EB8DD-FF86-47BD-BF07-366332559ADF"
     }
   ],
   "layout": {

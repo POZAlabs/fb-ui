@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,10 +60,6 @@
     {
       "class": "bitmap",
       "id": "F4789B10-F79F-4EA6-B389-E8C200C2D0DB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "64CB7F44-DD97-4404-9ABC-EB60F3D56E5E"
     },
     {
       "class": "rectangle",
@@ -220,6 +216,10 @@
     {
       "class": "text",
       "id": "9725709C-9D95-42E1-B20A-5DA494DAF597"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64CB7F44-DD97-4404-9ABC-EB60F3D56E5E"
     }
   ],
   "layout": {
