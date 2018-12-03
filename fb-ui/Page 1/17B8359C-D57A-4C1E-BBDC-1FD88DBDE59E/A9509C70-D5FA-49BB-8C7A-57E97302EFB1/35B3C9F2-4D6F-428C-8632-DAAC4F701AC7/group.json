@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5DB5BCD4-1E78-4015-A331-8EE1FF8EE1B2",
-    "height": 25,
-    "width": 248,
+    "height": 112,
+    "width": 65,
     "x": 0,
     "y": 0
   },
@@ -65,10 +65,11 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "align": 2,
         "isCollapsing": 1,
         "resizesContainer": 1,
         "spacing": 4,
-        "stackType": 1
+        "stackType": 0
       },
       "kViewTypeKey": "ADModelStackView"
     }
