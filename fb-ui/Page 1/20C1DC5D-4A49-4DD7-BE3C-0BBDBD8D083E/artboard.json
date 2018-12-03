@@ -27,8 +27,8 @@
     "do_objectID": "A3368550-E1B9-4BC3-B2B4-CC71A386EE7D",
     "height": 900,
     "width": 1440,
-    "x": 9664,
-    "y": -775
+    "x": 575,
+    "y": 1847
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",

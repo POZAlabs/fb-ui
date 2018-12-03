@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.007843137254901959,
-            "green": 0.01176470588235294,
-            "red": 0.02352941176470588
+            "blue": 0.5450980392156862,
+            "green": 0.7411764705882353,
+            "red": 0.1372549019607843
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
-              "size": 12
+              "name": "AppleSDGothicNeo-Heavy",
+              "size": 400
             }
           },
           "paragraphStyle": {
@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "설정"
+    "string": "Feature"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17ABE6A4-026E-4D8A-8B7A-3FC4891F6E7E",
+  "do_objectID": "F13F846A-567C-4B07-8C0B-855B6384CFD5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 23,
-    "x": 430,
-    "y": 351
+    "height": 480,
+    "width": 1436,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {21, 11}}",
+  "glyphBounds": "{{25, 74}, {1399, 274}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "설정",
+  "name": "Feature",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,15 +80,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.007843137254901959,
-          "green": 0.01176470588235294,
-          "red": 0.02352941176470588
+          "blue": 0.5450980392156862,
+          "green": 0.7411764705882353,
+          "red": 0.1372549019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
-            "size": 12
+            "name": "AppleSDGothicNeo-Heavy",
+            "size": 400
           }
         },
         "paragraphStyle": {
