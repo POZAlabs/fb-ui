@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F91C55FA-8DC0-41B2-8D3C-AF93BC1A965E",
+  "do_objectID": "E05E6CC3-4819-4824-B930-9AAC5F57F739",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6ED1F581-755B-442B-94A7-AA9828AEBCA6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D7491C05-6453-4380-8EDC-EA3C25982562",
-    "height": 1,
-    "width": 384,
-    "x": 16,
-    "y": 101
+    "height": 33,
+    "width": 110,
+    "x": 910,
+    "y": 270
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,27 +28,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "../divider",
+  "name": "button/__line",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3371D0C7-DAA0-4AFF-B1B9-AEF52F1FC944",
+      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
+      "value": "가사 수정하기"
+    }
   ],
-  "resizingConstraint": 34,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AB3017C7-CA62-41A0-9CDB-F2C14EE46B16",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6B7D37D0-8B54-4713-B443-0857280DBBAB",
+  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "size.update": 1543829550.25603
       }
     }
   },
