@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2,
+    "do_objectID": "393584C2-C5F4-4FC9-967A-2F27007C3C76",
+    "green": 0.2,
+    "red": 0.2
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 110,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA0D98B4-6FF9-4FB0-8E76-9411F62A9A7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "910D313B-3884-4EB1-B4BE-F0274C3D1861",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5ECB60DC-F1DE-4AF2-B7F8-FE578FCF2FA8",
+    "height": 24,
+    "width": 24,
+    "x": 136,
+    "y": 2005
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64771210-A53E-4101-B369-4C4EE464E524",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F3BD6809-C4AF-41CD-B969-D3DCC3863C7E"
+    }
+  ],
+  "name": "icon/__plane copy 5",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F92000E-FD2D-4B9C-B4F1-66D623D9325C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8B02F71-8C55-4EF7-9E22-02A3C5418025",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EA66275E-E975-45C9-863F-2388ED824844",
+    "guides": [
+    ]
+  }
+}
