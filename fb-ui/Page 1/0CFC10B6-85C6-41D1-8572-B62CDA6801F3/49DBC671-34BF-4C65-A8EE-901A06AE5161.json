@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "AppleSDGothicNeo-Light",
               "size": 20
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Sentences"
+    "string": "태그관리"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "1320D250-65F6-4B98-92AA-A5AF183C9198",
     "height": 24,
-    "width": 92,
+    "width": 70,
     "x": 191,
-    "y": 96
+    "y": 97
   },
-  "glyphBounds": "{{0, 4}, {91, 16}}",
+  "glyphBounds": "{{1, 1}, {66, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sentences",
+  "name": "태그관리",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,12 +73,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "0D75B757-6EF4-4228-A0E7-775A701523ED",
-      "opacity": 0.2000000029802322
-    },
     "do_objectID": "1D04CED0-6F91-42A1-9D01-51FF86671BB7",
     "endMarkerType": 0,
     "miterLimit": 10,
@@ -97,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "AppleSDGothicNeo-Light",
             "size": 20
           }
         },

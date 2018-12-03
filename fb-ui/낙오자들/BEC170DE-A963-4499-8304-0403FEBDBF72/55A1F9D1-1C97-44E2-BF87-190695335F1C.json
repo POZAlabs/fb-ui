@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55A1F9D1-1C97-44E2-BF87-190695335F1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FB79080-1B25-4F88-AE24-DCD179799320",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE49B036-4F0B-4E8D-95B2-7817E14AFABD",
+    "height": 138,
+    "width": 648,
+    "x": 80,
+    "y": 63
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Editor/__header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09709505-77EA-4271-A023-C4DD327646BA",
+      "overrideName": "A65CC992-DAA9-47C1-80DA-CCE5FBD6A5FD_stringValue",
+      "value": "제목을 입력해주세요."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4782A55-0B28-4010-9FC0-A273D1AD03C8",
+      "overrideName": "A65CC992-DAA9-47C1-80DA-CCE5FBD6A5FD_textStyle",
+      "value": "4D2A2F83-C035-48D3-A23E-C7B2BA4C488A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2B55C67-16D3-49F3-838B-9A7676741E01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E2EB0895-FE6E-4013-B58C-DA34B9904FE6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

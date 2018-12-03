@@ -9,7 +9,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1751,
+  "changeIdentifier": 1850,
   "clippingMaskMode": 0,
   "do_objectID": "7C9CFDB9-23E9-49C3-8EDF-F91B7F7A6462",
   "exportOptions": {
@@ -29,10 +29,10 @@
     "height": 128,
     "width": 416,
     "x": 9869,
-    "y": 898
+    "y": 752
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,6 +70,10 @@
     },
     {
       "class": "text",
+      "id": "47D1D5CD-9F24-458C-A3D9-4DE3E03918D9"
+    },
+    {
+      "class": "text",
       "id": "9FC2F318-A3E9-47CA-BC38-1404F74C98ED"
     },
     {
@@ -85,8 +89,8 @@
       "id": "BCE06DCC-7FD1-45F4-BE91-F059408E724A"
     }
   ],
-  "name": "list/__lyrics copy 6",
-  "nameIsFixed": false,
+  "name": "list/__music",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

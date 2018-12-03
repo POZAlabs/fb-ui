@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.64,
+            "alpha": 0.72,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,16 +16,15 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Light",
+              "name": "AppleSDGothicNeo-Regular",
               "size": 14
             }
           },
-          "kerning": 0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -54,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "492A595B-A5DA-43DF-80B9-A0FE3A3AB216",
-    "height": 400,
-    "width": 165,
+    "height": 480,
+    "width": 156,
     "x": 520,
     "y": 270
   },
-  "glyphBounds": "{{0, 2}, {164, 394}}",
+  "glyphBounds": "{{0, 4}, {156, 470}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,20 +72,20 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "938144DB-2A2B-49E5-BA6B-482D1BB0C81F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "94173EEA-9365-4171-AE01-51F0F469A8D7",
+    "do_objectID": "17249B84-2A5C-4E48-949F-8E408DB06D53",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "725AED79-37B3-400C-96F4-B8F057E9A0E4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.64,
+          "alpha": 0.72,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -94,16 +93,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Light",
+            "name": "AppleSDGothicNeo-Regular",
             "size": 14
           }
         },
-        "kerning": 0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -27,8 +27,8 @@
     "do_objectID": "F65598F0-B2A6-4E36-BADA-33D409DA4DEF",
     "height": 900,
     "width": 1440,
-    "x": 1495,
-    "y": 6882
+    "x": 1018,
+    "y": 4487
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -220,6 +220,22 @@
     {
       "class": "symbolInstance",
       "id": "64CB7F44-DD97-4404-9ABC-EB60F3D56E5E"
+    },
+    {
+      "class": "group",
+      "id": "3FCB7526-4783-40D3-8823-0ECCFB2EF165"
+    },
+    {
+      "class": "rectangle",
+      "id": "E57D0691-40BE-4878-9F3A-AE3710424391"
+    },
+    {
+      "class": "rectangle",
+      "id": "25E4513F-A627-4C73-BF47-F0B96097F46B"
+    },
+    {
+      "class": "text",
+      "id": "5A44AAE9-956A-4EAC-A1B6-A421E7E9EFCD"
     }
   ],
   "layout": {
@@ -238,8 +254,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "Desktop HD Copy 42",
-  "nameIsFixed": false,
+  "name": "라임노트 작업중",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
