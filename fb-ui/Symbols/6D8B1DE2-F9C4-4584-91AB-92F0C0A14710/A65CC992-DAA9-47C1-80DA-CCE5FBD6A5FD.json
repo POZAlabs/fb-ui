@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Title"
+    "string": "Heading/__1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "BDE4BD36-35B3-4459-9461-5A62770D4C4F",
     "height": 39,
-    "width": 68,
+    "width": 171,
     "x": 24,
     "y": 24
   },
-  "glyphBounds": "{{0, 4}, {67, 24}}",
+  "glyphBounds": "{{2, 4}, {167, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,11 +65,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title",
+  "name": "Heading/__1",
   "nameIsFixed": false,
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6AFFE99D-D2F7-4B82-B605-29784872FEF7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "95550772-4273-4E92-A5E3-DC665E66BB12",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

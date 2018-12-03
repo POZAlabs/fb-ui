@@ -52,7 +52,7 @@
     "constrainProportions": false,
     "do_objectID": "215B11D6-5211-425D-887F-F8C189049225",
     "height": 39,
-    "width": 616,
+    "width": 356,
     "x": 416,
     "y": 96
   },
@@ -70,6 +70,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6AFFE99D-D2F7-4B82-B605-29784872FEF7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BC47206A-2C64-43D3-AFE0-5A535C5225EC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -105,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

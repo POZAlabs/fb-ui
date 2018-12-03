@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Heading 16"
+    "string": "Heading 6"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "CC178D08-D3FD-4DB6-B40E-CF46013D5785",
     "height": 19,
-    "width": 79,
+    "width": 73,
     "x": 24,
     "y": 16
   },
-  "glyphBounds": "{{1, 1}, {77, 15}}",
+  "glyphBounds": "{{1, 1}, {71, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,11 +65,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Heading 16",
+  "name": "Heading 6",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "F1AF0867-B0FD-4701-902E-DD84DA0C8CD9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D1EB32DA-C839-4323-A242-2537378C9996",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

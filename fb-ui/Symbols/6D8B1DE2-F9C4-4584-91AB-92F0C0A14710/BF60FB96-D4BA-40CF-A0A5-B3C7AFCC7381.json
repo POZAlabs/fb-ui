@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "노혜미"
+    "string": "Heading/__5"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "77C3F383-E48E-405C-A36C-CEB525C96E4F",
     "height": 17,
-    "width": 37,
+    "width": 74,
     "x": 24,
     "y": 79
   },
-  "glyphBounds": "{{0, 1}, {35, 14}}",
+  "glyphBounds": "{{1, 1}, {72, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,11 +65,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "노혜미",
+  "name": "Heading/__5",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6B959FB0-07E2-40D0-9DC3-DF338433769A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EDDF7211-2218-4176-8A03-592346EA2F77",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

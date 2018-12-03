@@ -58,12 +58,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "175AEE01-D3BA-4780-B1B3-DC77C87D4E63"
+      "class": "symbolInstance",
+      "id": "BD0E3158-D324-403C-8803-823B36A2B549"
     },
     {
-      "class": "rectangle",
-      "id": "C4BB03FE-F819-4FE3-BCFE-D08C6FBD56CE"
+      "class": "symbolInstance",
+      "id": "5A4885CD-3934-43CE-8BF7-66532B4BD077"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFDBA07C-7BFD-4102-A087-B6E5BFCFBD66"
     },
     {
       "class": "text",
@@ -102,10 +106,6 @@
       "id": "D1EC0A37-CFFE-45DA-9495-5FF0E6FE1931"
     },
     {
-      "class": "rectangle",
-      "id": "8064312D-B3DF-43B1-96F1-1C69114BC79B"
-    },
-    {
       "class": "text",
       "id": "7B8B7A1E-2386-4081-A39E-41A41E0D5D84"
     },
@@ -130,44 +130,20 @@
       "id": "7F8548F4-E239-4E36-ACC8-D3F33DD7CE6E"
     },
     {
+      "class": "text",
+      "id": "9E601ADB-A066-4179-9BB5-88D4575F1DA9"
+    },
+    {
       "class": "rectangle",
-      "id": "92913245-1722-4717-8F2E-2C10A8B9FEC1"
-    },
-    {
-      "class": "group",
-      "id": "A69253F2-CE8F-43F5-A608-7BBC39A4D222"
-    },
-    {
-      "class": "group",
-      "id": "D522618E-22F5-4543-B0DC-69C47B070745"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BE0EF723-3DD3-4B99-AB81-09807D5DE6C3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "78AB46E8-45F2-4181-9E4E-975263608423"
-    },
-    {
-      "class": "text",
-      "id": "6EC2E3E6-B190-415D-B21F-AEAEE0B96F6B"
-    },
-    {
-      "class": "text",
-      "id": "ED47E51F-DC4B-4A00-9317-F11A762073F3"
+      "id": "8064312D-B3DF-43B1-96F1-1C69114BC79B"
     },
     {
       "class": "text",
       "id": "C4BE4126-F948-4785-BA03-9AEC222D5211"
     },
     {
-      "class": "text",
-      "id": "D5616DFC-EBE9-4C57-B164-E9CAA4142286"
-    },
-    {
-      "class": "group",
-      "id": "A3201B69-37AB-438A-8619-C651B2F31002"
+      "class": "symbolInstance",
+      "id": "54A38EEB-24D6-4BED-AB9E-96800395B533"
     },
     {
       "class": "bitmap",
@@ -176,6 +152,18 @@
     {
       "class": "symbolInstance",
       "id": "8AB43D21-D89D-4194-B826-1BFA64F05F45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E71F8E9-7761-458A-9C0A-7658F1078966"
+    },
+    {
+      "class": "group",
+      "id": "7761A6A3-1A95-4A6E-9434-1355156371E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BBB6FCF-BBBE-4BFA-9968-82511C707FC0"
     }
   ],
   "layout": {
