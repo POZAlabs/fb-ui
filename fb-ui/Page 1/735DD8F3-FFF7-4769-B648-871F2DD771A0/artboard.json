@@ -27,8 +27,8 @@
     "do_objectID": "921A09BE-6FA7-4E09-BA9E-660D535DFA87",
     "height": 900,
     "width": 1440,
-    "x": -478,
-    "y": 6431
+    "x": -454,
+    "y": 4390
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,8 +58,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "02CA0567-D1DF-47E1-88ED-5D09000A01E7"
+      "class": "bitmap",
+      "id": "AF53B8A6-B52B-43A6-B12B-59DBCB303D62"
     },
     {
       "class": "group",
@@ -70,16 +70,20 @@
       "id": "B49D8E9C-0056-49EB-B748-FDD021B7966D"
     },
     {
+      "class": "symbolInstance",
+      "id": "D2A5FEBF-A659-4280-908B-C3CB782D3370"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "976D29F1-F969-4E9A-A116-453BED989D37"
+    },
+    {
       "class": "text",
       "id": "49F27F1E-1669-4414-AEC9-6C3F9F70DACF"
     },
     {
       "class": "group",
       "id": "72731498-C867-41AC-8EB1-0C0E4BF0BF31"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3A29A25E-E833-4C71-841E-74933B4B8C10"
     },
     {
       "class": "text",
@@ -111,31 +115,15 @@
     },
     {
       "class": "group",
-      "id": "B601DE10-D3FF-4F06-A8E9-FF14E2FAE819"
-    },
-    {
-      "class": "group",
-      "id": "1C53AA29-2FE2-40D1-BB7D-8CA8C12C5208"
-    },
-    {
-      "class": "rectangle",
-      "id": "8DF2F061-151E-41F5-B115-3C085FF0D1BA"
-    },
-    {
-      "class": "oval",
-      "id": "30842F01-D77D-4FC1-9639-8D1AE5442C1E"
-    },
-    {
-      "class": "rectangle",
-      "id": "D1BCD27A-5999-421E-B128-656A2B769148"
-    },
-    {
-      "class": "text",
-      "id": "92B49198-4988-4F0A-ADB2-8D3921337AE9"
+      "id": "FFE32F94-5E5C-49DE-81DC-A8AF046BE25E"
     },
     {
       "class": "group",
       "id": "F313C81A-5F6D-4B5C-A634-BAEF0F4AA9B7"
+    },
+    {
+      "class": "text",
+      "id": "ADAE6757-ED24-487B-A0D0-1A467AB61D07"
     }
   ],
   "layout": {

@@ -24,7 +24,8 @@
             "_class": "paragraphStyle",
             "alignment": 1
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 1,
+          "underlineStyle": 1
         },
         "length": 36,
         "location": 0
@@ -53,7 +54,7 @@
     "do_objectID": "AF1690E2-3120-4EBB-A59C-BF812A070FD9",
     "height": 34,
     "width": 151,
-    "x": 109,
+    "x": 125,
     "y": 0
   },
   "glyphBounds": "{{25, 2}, {126, 28}}",
@@ -73,13 +74,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D9512757-4E57-495B-938A-400915D465D9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "02144276-07DA-456D-8C4A-3AC33705B802",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -99,7 +98,8 @@
           "_class": "paragraphStyle",
           "alignment": 1
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 1,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

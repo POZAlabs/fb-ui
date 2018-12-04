@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63B6BB78-F310-4A82-AA90-A7C0486B39DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "440954F2-B152-4EC0-9E73-2469B8B147C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A757FDA7-3F4A-4386-B6C1-AF62E855E510",
+    "height": 25,
+    "width": 131,
+    "x": 0,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "16A3B5BC-42F1-4794-89B6-169535B27F0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F71A6389-0183-412A-9F71-FB8635288CFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64CC88AC-CC5D-41B9-9A1C-4F90FD1862FC"
+    }
+  ],
+  "name": "Stacked Group Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4424B32A-2E85-4116-B2CC-8C36D3762CF1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 4,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

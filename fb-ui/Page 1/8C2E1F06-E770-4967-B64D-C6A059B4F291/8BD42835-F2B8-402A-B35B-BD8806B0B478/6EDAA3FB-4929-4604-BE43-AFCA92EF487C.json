@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 102,
+    "height": 119,
     "width": 416,
     "x": 0,
     "y": 0
@@ -31,6 +31,24 @@
   "name": "list/__lyrics copy 4",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FE713C8-1BAA-42DC-B02D-CFBE959E1356",
+      "overrideName": "50ACCB0B-1F77-40ED-A19E-CB6DAAD75A1E_stringValue",
+      "value": "Noell Blue"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93F56E0E-322B-4032-9C37-71C61AD54207",
+      "overrideName": "C6F4B869-0819-4850-B3C5-073E99F90A78_stringValue",
+      "value": "Kong Yijun"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0319C75F-34A3-46FD-BDD6-7C7048B97886",
+      "overrideName": "ACA4A1CB-6349-4755-AA36-3D907A36DAEE_stringValue",
+      "value": "Carolien Bloeme"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

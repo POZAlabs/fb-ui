@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 49,
-    "width": 433,
+    "width": 416,
     "x": 80,
-    "y": 80
+    "y": 141
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,24 @@
   "name": "tab/__list",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5559E584-20EB-43E1-9524-2BA1A650A901",
+      "overrideName": "20F91B7C-A410-4527-852C-26E152588FC8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF52BEDF-E8B3-4930-A937-A96CF5A1A88F",
+      "overrideName": "5093511E-E80E-435C-8807-8FD6B51830B4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82B26771-E968-455B-884A-CF17029F4F61",
+      "overrideName": "CF73664C-EA0B-4825-866B-A09232035B15_symbolID",
+      "value": "224363CC-879C-4F48-BFCA-4617DC335483"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

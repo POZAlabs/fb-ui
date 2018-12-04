@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1762DC9-EC4C-42F7-9374-85ECF02DEDB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11D60CC9-D397-4694-ADEF-11FFBC4233D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7ED94E61-5897-41AF-8DF0-BE2BE6153CBB",
+    "height": 25,
+    "width": 173,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Editor/__Rec/__card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC0D865E-9B0C-4C2B-9FA6-5C26C2ED41C6",
+      "overrideName": "CB0C4998-9C53-49D0-B023-CAE971CFDCF7_stringValue",
+      "value": "생일잔치에 가고 싶은 날이야"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C265BA09-C468-4BF5-9ECA-511C5C86F348",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B52A62E7-9D4C-4D56-8EFE-CD6E7466B3DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1543478419.130927,
+        "stashedSizeH": [
+          {
+            "constant": 173,
+            "enabled": 0,
+            "modelID": "constraint_cc457271-6770-4782-ba76-7eb9ede4a795",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 25,
+            "enabled": 0,
+            "modelID": "constraint_b39ad4f7-e5c2-4c60-b53d-bca432c4d170",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

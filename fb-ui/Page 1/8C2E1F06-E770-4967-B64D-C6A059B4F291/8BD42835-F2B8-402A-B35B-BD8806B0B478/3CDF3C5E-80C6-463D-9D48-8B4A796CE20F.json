@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 102,
+    "height": 119,
     "width": 416,
     "x": 0,
-    "y": 330
+    "y": 357
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,24 @@
   "name": "list/__lyrics copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2CD648A-73F3-480C-8DE2-59CC9FBAECC6",
+      "overrideName": "50ACCB0B-1F77-40ED-A19E-CB6DAAD75A1E_stringValue",
+      "value": "Luvleen Lawrence"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5525A60-BF2F-4D84-9B38-8EA5A6223900",
+      "overrideName": "C6F4B869-0819-4850-B3C5-073E99F90A78_stringValue",
+      "value": "Asaka Chimako"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34C7471D-30B7-42F3-90D3-AFB39D43452C",
+      "overrideName": "ACA4A1CB-6349-4755-AA36-3D907A36DAEE_stringValue",
+      "value": "Ashley Graham"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

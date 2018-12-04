@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0D0F0EEC-FD70-4966-8252-80F7966F3235",
-    "height": 542,
+    "height": 476,
     "width": 416,
-    "x": 80,
-    "y": 145
+    "x": 81,
+    "y": 190
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,10 +31,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "7E0A1E01-42DD-44FB-A49C-FB6636F2D3A0"
-    },
     {
       "class": "symbolInstance",
       "id": "3CDF3C5E-80C6-463D-9D48-8B4A796CE20F"
@@ -72,7 +68,7 @@
         "align": 0,
         "isCollapsing": 1,
         "resizesContainer": 1,
-        "spacing": 8,
+        "spacing": 0,
         "stackType": 0
       },
       "kViewTypeKey": "ADModelStackView"

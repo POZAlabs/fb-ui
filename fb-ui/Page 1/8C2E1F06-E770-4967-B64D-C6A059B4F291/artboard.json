@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3D16A39B-1A26-41A7-97A6-F5D37EF9E311",
-    "height": 900,
+    "height": 768,
     "width": 1440,
-    "x": -470,
-    "y": 830
+    "x": -462,
+    "y": 694
   },
   "grid": {
     "_class": "simpleGrid",
@@ -67,7 +67,15 @@
     },
     {
       "class": "symbolInstance",
+      "id": "A95D1B7F-111D-4E40-A259-A32DB1ACE1F2"
+    },
+    {
+      "class": "symbolInstance",
       "id": "32C13CAC-1A70-4444-BAAA-181804ED42FD"
+    },
+    {
+      "class": "text",
+      "id": "F8D1BFF6-C489-4BFF-9275-18F9F6340EC8"
     },
     {
       "class": "rectangle",
@@ -110,8 +118,12 @@
       "id": "853EB8DD-FF86-47BD-BF07-366332559ADF"
     },
     {
-      "class": "symbolInstance",
-      "id": "E05E6CC3-4819-4824-B930-9AAC5F57F739"
+      "class": "group",
+      "id": "1F72C8F9-FDA7-4C3C-AE85-2FDCDD58DAE9"
+    },
+    {
+      "class": "text",
+      "id": "ABA8BB63-C6D4-4059-9B7E-6EECA1AC8564"
     }
   ],
   "layout": {
@@ -130,8 +142,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "Desktop HD Copy 29",
-  "nameIsFixed": false,
+  "name": "lyrics",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
