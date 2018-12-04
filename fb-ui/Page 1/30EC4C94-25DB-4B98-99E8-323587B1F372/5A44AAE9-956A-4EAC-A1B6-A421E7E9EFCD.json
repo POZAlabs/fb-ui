@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Regular",
-              "size": 10
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -42,7 +42,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LucidaGrande",
-              "size": 10
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -67,7 +67,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Regular",
-              "size": 10
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -98,12 +98,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 13,
-    "width": 58,
-    "x": 918,
-    "y": 448
+    "height": 16,
+    "width": 70,
+    "x": 921,
+    "y": 451
   },
-  "glyphBounds": "{{0, 1}, {57, 10}}",
+  "glyphBounds": "{{0, 2}, {69, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -137,7 +137,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Regular",
-            "size": 10
+            "size": 12
           }
         },
         "paragraphStyle": {
