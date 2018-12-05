@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.24,
             "blue": 0.5450980392156861,
             "green": 0.7411764705882353,
             "red": 0.1372549019607843
@@ -70,26 +70,20 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "C9330D6D-5FF8-4E4D-A320-862191C284EA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "C30D53A3-A7E1-4357-BA56-3EF59DEFBBDF",
-      "opacity": 0.2000000029802322
-    },
-    "do_objectID": "0DB515D9-5543-4B0D-B6DA-3F5D921F14CF",
+    "do_objectID": "484787FE-2D6F-4BD3-A8D0-DC68E6D5EE25",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AA9C7919-CEE7-4FD2-ABC7-137A2B72DA8F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.24,
           "blue": 0.5450980392156861,
           "green": 0.7411764705882353,
           "red": 0.1372549019607843
