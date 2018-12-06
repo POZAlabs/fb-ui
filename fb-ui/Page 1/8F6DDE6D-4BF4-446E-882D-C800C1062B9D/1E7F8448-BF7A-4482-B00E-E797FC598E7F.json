@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 11,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "검색어를 입력해주세요"
+    "string": "추가할 단어 또는 구, 문장을 입력해주세요."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "662EAC28-AEFF-4E88-82E3-62A768C1368A",
     "height": 19,
-    "width": 143,
+    "width": 264,
     "x": 96,
     "y": 160
   },
-  "glyphBounds": "{{0, 1}, {143, 15}}",
+  "glyphBounds": "{{0, 1}, {263, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "검색어를 입력해주세요",
+  "name": "추가할 단어 또는 구, 문장을 입력해",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
