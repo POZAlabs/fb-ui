@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -114,6 +114,10 @@
       "id": "FA01C0C4-8D66-4437-9709-4B1C4CE231C8"
     },
     {
+      "class": "group",
+      "id": "BBC965EE-7712-44F7-8499-AD67E76C79CD"
+    },
+    {
       "class": "symbolInstance",
       "id": "8F4064F2-36C8-45EA-8928-CDC32E031C96"
     }
@@ -129,7 +133,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280

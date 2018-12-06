@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1E3F8C49-0352-4E63-9763-ED7629A05695",
+  "do_objectID": "B394B2C9-ABDE-436A-B418-28B6023E46E8",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A9225793-3079-433F-A382-08322F73B9E3",
+    "do_objectID": "591366C7-23E3-46BC-AEE3-08BF91E755A3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "EA5127C9-EEE6-469D-A977-9C90B8B2399C",
-    "height": 16,
-    "width": 16,
-    "x": 488,
-    "y": 249
+    "constrainProportions": false,
+    "do_objectID": "C3BA3F1C-5607-4ADA-A0C7-DA220313E36F",
+    "height": 13,
+    "width": 2,
+    "x": 228,
+    "y": 12
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 42",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -100,7 +100,13 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "F0E7F048-6D77-492F-997A-8408F23E82B4",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6F88A13E-E24E-4E86-9DDE-54B05FD3F3A6",
+      "opacity": 0.239999994635582
+    },
+    "do_objectID": "A7C63EE2-4C01-4FE6-B55B-029ACF253A31",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +114,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.07556577929023173,
-          "green": 0.07556577929023173,
-          "red": 0.4998405612244898
+          "blue": 0.5450980392156861,
+          "green": 0.7411764705882353,
+          "red": 0.1372549019607843
         },
         "fillType": 0,
         "isEnabled": true,
@@ -127,21 +133,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 16,
-            "enabled": 1,
-            "modelID": "constraint_49579846-a5a4-469a-907e-1d3e4adbd729",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 16
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_cf0cc0e3-64ef-4eb1-8621-d67edf1ace36",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   }
