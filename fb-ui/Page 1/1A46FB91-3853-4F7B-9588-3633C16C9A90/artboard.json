@@ -27,8 +27,8 @@
     "do_objectID": "55E864DC-B9F0-4A7C-A673-D011C7357352",
     "height": 900,
     "width": 1440,
-    "x": -2642,
-    "y": 5501
+    "x": 4253,
+    "y": 6610
   },
   "grid": {
     "_class": "simpleGrid",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
@@ -74,18 +74,6 @@
       "id": "AE405CCB-5653-410D-89CC-6F074BBDE6ED"
     },
     {
-      "class": "symbolInstance",
-      "id": "846C2B90-EE2A-4ABA-B3CA-A70BFA0B3BBE"
-    },
-    {
-      "class": "text",
-      "id": "A72A508C-EEED-4A49-92DF-D53B99CFA495"
-    },
-    {
-      "class": "group",
-      "id": "60799A9F-BE52-48C4-AB1E-F6B43D8205AB"
-    },
-    {
       "class": "text",
       "id": "4D386910-39CD-4BDD-95BA-4CA096C82D07"
     },
@@ -100,10 +88,6 @@
     {
       "class": "symbolInstance",
       "id": "8A459862-4292-4751-B58C-42FC033AFD9F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "74F5F7B5-B9A5-4B4C-AF79-89032824F26D"
     },
     {
       "class": "symbolInstance",
@@ -127,15 +111,19 @@
     },
     {
       "class": "text",
-      "id": "EEB764A7-8BFE-4E41-8FF9-1FC0DC491336"
+      "id": "C8AE65ED-A825-4AFE-B963-0888B86DCD80"
+    },
+    {
+      "class": "text",
+      "id": "C7FE4287-B82F-47B6-9F6E-5FC462E3286F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD106023-6B4E-41F9-896B-E401AD2FDF7B"
     },
     {
       "class": "text",
       "id": "C071E847-DEAA-4C94-A58E-C9560E82F8F9"
-    },
-    {
-      "class": "text",
-      "id": "A0B3C5E0-5A9E-481A-88DE-C30ED44F5C6F"
     },
     {
       "class": "text",
@@ -146,16 +134,8 @@
       "id": "5B27F61C-2FE4-486C-B89F-DFD84390E066"
     },
     {
-      "class": "group",
-      "id": "F24F9BB6-3FDD-485C-BC4D-04E96B6CF1BE"
-    },
-    {
       "class": "text",
       "id": "492EDBDD-440B-48D2-9E9E-511916C308CB"
-    },
-    {
-      "class": "text",
-      "id": "EA2FC476-146D-42A1-941A-ABA97BE53D79"
     },
     {
       "class": "group",
@@ -178,8 +158,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "Desktop HD Copy 47",
-  "nameIsFixed": false,
+  "name": "RN.",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

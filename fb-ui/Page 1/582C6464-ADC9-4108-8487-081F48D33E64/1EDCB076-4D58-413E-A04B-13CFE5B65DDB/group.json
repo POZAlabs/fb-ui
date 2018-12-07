@@ -1,0 +1,157 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EDCB076-4D58-413E-A04B-13CFE5B65DDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96128279-BAB4-4D3C-8B0D-1902A30FF5C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A375620-9F9C-4E1F-9CF8-5B2800AA936D",
+    "height": 487,
+    "width": 225,
+    "x": 96,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "56B6ABBA-9D82-4714-B85C-3CD4D1E3BDAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE3BFB00-3E59-49EB-8ABD-C3B148ACA35C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C8B7019-52C1-4480-A5AA-51F3DF6EECF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12BF2256-D9B7-46C1-9F0C-285A105A464B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "837DD672-527F-4048-89DB-EAA44DF15D61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A947C5CF-B298-43EC-9770-60E8BEBC7A16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AD7D2F7-43A5-49F2-ABB2-BF2301432D80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFC41469-698A-4501-A9CA-0D44B127AC46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "379D95FE-9A84-435C-9C22-065CAFEA200A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9A9D5EF-4AF1-4A4E-9C1A-AC7E54D9C4FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE9503F1-CCA7-4594-92E2-D07BB249D1AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E833EE3-A4DE-400F-9371-E9538D4518F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA23B2C1-D2D4-4695-8ED2-89B6D2CAB83F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AB9ACC0-AD31-4D3A-A641-BE2FC8E63822"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85F18184-7D3C-482F-A1A8-019EC835BD36"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C61AE6D-7D73-4E1E-8E86-7EE0D655276C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 8,
+        "stackType": 0,
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_e2da98ce-d93a-46e6-92f9-693ff7c68039",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_1d5dafba-5257-448f-b717-70e1beca93d4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_e2da98ce-d93a-46e6-92f9-693ff7c68039",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_1d5dafba-5257-448f-b717-70e1beca93d4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

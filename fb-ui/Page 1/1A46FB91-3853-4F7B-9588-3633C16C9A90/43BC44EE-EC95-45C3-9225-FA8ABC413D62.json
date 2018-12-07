@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "태그선택"
+    "string": "태그"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 49,
+    "width": 25,
     "x": 425,
-    "y": 248
+    "y": 249
   },
-  "glyphBounds": "{{0, 1}, {48, 13}}",
+  "glyphBounds": "{{0, 1}, {24, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "태그선택",
+  "name": "태그",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

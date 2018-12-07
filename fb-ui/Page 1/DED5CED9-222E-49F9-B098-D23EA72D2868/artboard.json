@@ -27,8 +27,8 @@
     "do_objectID": "BC88DF43-176B-4D54-8E2E-9917EE54C39D",
     "height": 900,
     "width": 1440,
-    "x": 3786,
-    "y": 8516
+    "x": 8068,
+    "y": 3941
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
@@ -178,7 +178,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "editor/__music-player",
+  "name": "WR.",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

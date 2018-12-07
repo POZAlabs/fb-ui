@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0CBF862C-99C0-4E09-95A4-54517043C89D",
-    "height": 776,
+    "height": 900,
     "width": 1440,
-    "x": 3778,
-    "y": 10630
+    "x": 13616,
+    "y": 811
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
@@ -174,8 +174,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "Desktop HD Copy 48",
-  "nameIsFixed": false,
+  "name": "WR.",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

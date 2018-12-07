@@ -27,8 +27,8 @@
     "do_objectID": "2B777DAF-8A46-4400-B17A-1EF82088AFFA",
     "height": 768,
     "width": 1440,
-    "x": 1136,
-    "y": 694
+    "x": 1254,
+    "y": 982
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -76,6 +76,10 @@
     {
       "class": "text",
       "id": "CFB45CEC-FE92-4D4F-B8F6-060D51C90931"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C90A8DFA-CAC0-41A7-A1BA-E2521B61AE49"
     },
     {
       "class": "rectangle",
@@ -132,6 +136,18 @@
     {
       "class": "group",
       "id": "1817A0F8-DC98-49A5-A7DA-D82F16DDD176"
+    },
+    {
+      "class": "group",
+      "id": "EB6A0BA6-8CFF-43CD-ACC6-44906F27D9C5"
+    },
+    {
+      "class": "group",
+      "id": "174AED7C-174A-4F77-A42E-EF4BE52B84CB"
+    },
+    {
+      "class": "group",
+      "id": "A558DB74-B353-42C9-B5AB-7515B60BF808"
     }
   ],
   "layout": {
@@ -150,7 +166,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "lyrics copy",
+  "name": "LY.",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
