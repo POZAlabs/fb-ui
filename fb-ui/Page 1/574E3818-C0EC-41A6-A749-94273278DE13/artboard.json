@@ -55,11 +55,31 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "ED58938B-80EF-48D3-805B-0895D5A0F4CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2722CE1-8953-4072-9AD0-8449CEB721FD"
+    },
+    {
       "class": "text",
-      "id": "899BE563-1BE2-46BB-A222-96D34FDA9025"
+      "id": "A0C7D44E-DCEA-4769-B960-7F35F01813D1"
+    },
+    {
+      "class": "rectangle",
+      "id": "29216522-EE03-4324-BC75-078F1B69A4C7"
+    },
+    {
+      "class": "text",
+      "id": "A46BFA75-FC7B-489E-9F11-F81B1759A6F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F6B1187-2B91-470F-85E7-B8565EB40B0B"
     }
   ],
   "layout": {
@@ -73,7 +93,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
