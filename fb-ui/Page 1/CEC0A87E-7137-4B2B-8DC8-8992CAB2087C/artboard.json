@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,11 +55,59 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "bitmap",
+      "id": "3220B1B4-FB7D-4D7D-B227-815F5C929D3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1837714-81BE-4556-89B6-4CF602BE3D54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AEAF366-9D57-4C44-8B83-8616D80BBDCD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E35B9FCE-9FF5-4B70-B51D-C1C4DAB0289D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5828CAA6-8F9A-47E9-82D9-BF252654E8C2"
+    },
+    {
       "class": "text",
-      "id": "D915CC4D-642B-4F8E-BAE6-A738A98E3972"
+      "id": "4F645122-C8C3-42BC-B544-CE1DCDFA064D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52D199A5-02CD-4185-9C96-F40D96514978"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55671C72-384B-469A-ACFE-C129D172AE8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B70D5741-77C1-4E6D-BFAA-EA234E6A530E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C671044-E743-443F-AAE2-3AEA24485655"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5512F7D5-1F4D-40D4-9D52-2D99C49FB902"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0840B11E-7F55-4256-AF63-932D64AAC2DA"
+    },
+    {
+      "class": "group",
+      "id": "56A8DE9E-EA67-40E9-9140-607F4520FD77"
     }
   ],
   "layout": {

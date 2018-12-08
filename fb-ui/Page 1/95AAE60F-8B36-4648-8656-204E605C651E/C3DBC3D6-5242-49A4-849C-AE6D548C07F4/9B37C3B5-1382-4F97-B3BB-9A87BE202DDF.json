@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B37C3B5-1382-4F97-B3BB-9A87BE202DDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F5A696C-2C7C-472D-9DE3-FA23C3B18B40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CEDDCD6-6CC2-4F9D-AAF8-BCBD4FDD004C",
+    "height": 88,
+    "width": 316,
+    "x": 0,
+    "y": 264
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__player copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20FDDB88-DEA7-40B7-8A73-451D40E04273",
+      "overrideName": "433B7DB6-FF02-4932-AB27-E7348D501D44_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a4e67e5b4b830480a6900f476813c63736929852.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC053233-B74A-4624-8CCF-46247A1653D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8E2CA44-EDE0-40AD-8466-A4243A45682D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

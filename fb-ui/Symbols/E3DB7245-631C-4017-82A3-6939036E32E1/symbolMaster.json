@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3DB7245-631C-4017-82A3-6939036E32E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 641,
+    "x": 13438,
+    "y": 291
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3FBE65D9-628D-4E9A-93DF-9C6CA2F38E98"
+    },
+    {
+      "class": "rectangle",
+      "id": "355A1FDA-DF55-422E-8EEC-ED6869E33C07"
+    },
+    {
+      "class": "text",
+      "id": "D116F179-E533-405B-ABAB-2DBDABF3B065"
+    },
+    {
+      "class": "text",
+      "id": "B8FD835D-B27F-468E-9DBC-25F7C6FF5A2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18CC2F41-32B5-408C-9149-10E997094E2B"
+    },
+    {
+      "class": "text",
+      "id": "BFA36262-9FB1-4746-8E5E-49B65C97C411"
+    }
+  ],
+  "name": "player/__simple",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "285F8AA6-0612-43CF-9EB1-CF15E3C3119F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
