@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Heavy",
+              "name": "AppleSDGothicNeo-Bold",
               "size": 16
             }
           },
@@ -56,7 +56,7 @@
     "x": 404,
     "y": 392
   },
-  "glyphBounds": "{{0, 0}, {27, 16}}",
+  "glyphBounds": "{{0, 1}, {27, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,6 +70,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "F1AF0867-B0FD-4701-902E-DD84DA0C8CD9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "64AE1427-FFFB-49FF-8D04-79E02E75B420",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Heavy",
+            "name": "AppleSDGothicNeo-Bold",
             "size": 16
           }
         },

@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -64,10 +64,6 @@
     {
       "class": "symbolInstance",
       "id": "54C9F1A4-102C-4353-9292-26DE2109A6B7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "10E144F5-66D1-4DEB-AE39-B94AD95FBA46"
     },
     {
       "class": "symbolInstance",
