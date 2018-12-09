@@ -55,11 +55,59 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "5BA7CFB2-DEFD-48B2-BD01-3672820874BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66092885-3133-43FD-BF02-A05A344BDB58"
+    },
+    {
       "class": "text",
-      "id": "56F76607-2301-4BE2-A7BB-3A4F2F2CAC9A"
+      "id": "EFB16153-412C-4DEF-9F78-51CF51CB1458"
+    },
+    {
+      "class": "rectangle",
+      "id": "D9624A27-10F7-43D0-8B67-FF123E6E5F5F"
+    },
+    {
+      "class": "rectangle",
+      "id": "B1775F72-CF5D-4857-951D-F625D00F6B24"
+    },
+    {
+      "class": "text",
+      "id": "567861A2-9CE7-49C6-8BBE-D4033A7E7D55"
+    },
+    {
+      "class": "text",
+      "id": "C3458F69-C9AF-454A-A38E-E6A659F4CC05"
+    },
+    {
+      "class": "text",
+      "id": "818BF4A3-6E28-4C2A-837E-EAA8E50BA112"
+    },
+    {
+      "class": "text",
+      "id": "9FA5CA55-0EAC-4BE8-8582-EE4B7C0D5827"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AF62435-493E-49B5-B754-7E5B62BA9C56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCF49BA1-AEB0-49C1-8726-71CE129C9345"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "579192DE-B856-457C-82A4-53FC9F580D50"
+    },
+    {
+      "class": "text",
+      "id": "7493C4EE-DCF2-40ED-B63F-AB4C8FB81F37"
     }
   ],
   "layout": {
