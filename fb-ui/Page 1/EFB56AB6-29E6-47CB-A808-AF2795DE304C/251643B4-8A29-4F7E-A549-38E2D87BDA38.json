@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E54FEBDE-B528-4CF0-8587-E2AED91EA168",
+  "do_objectID": "251643B4-8A29-4F7E-A549-38E2D87BDA38",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0FE12D60-BB2A-40C6-A718-C71073A677E7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 57,
-    "x": 96,
-    "y": 606
+    "do_objectID": "EE276C11-8669-4852-8908-FE7B9A96D083",
+    "height": 900,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/__line",
+  "name": "../background-layer copy",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
-      "value": "확인"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,16 +41,16 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0812B9BE-91AA-433F-929C-250AAB39F92B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
+  "symbolID": "2E104957-14B0-44C5-BA58-88FB2A7535D9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1544285249.568135
       }
     }
   },

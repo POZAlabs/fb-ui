@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1DF958AE-0158-4FDC-ACAA-E3EA4D305699",
+  "do_objectID": "9330AE46-29E0-4204-9718-59A83BDAC016",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C9777F7A-86FE-4E55-85F4-6723AF7EAAA9",
+    "do_objectID": "A6389EC9-9787-4A51-94DF-ECA6AC2EA979",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "589BAC76-74E9-4D77-A935-BCC077CEE270",
-    "height": 33,
-    "width": 81,
-    "x": 96,
-    "y": 821
+    "do_objectID": "0D3E7395-5C74-4DFF-8D81-EB826D3B226F",
+    "height": 900,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,21 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/__line copy",
+  "name": "../background-layer copy",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2DF07055-1FF3-433A-B22D-EA6DF54553D8",
-      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
-      "value": "회원탈퇴"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E105268A-1ADE-4674-8BEE-D3C37C572DAD",
-      "overrideName": "AE516B02-52E6-4001-812A-E676DC17B0C3_layerStyle",
-      "value": "4DA5011E-6877-406F-86DF-ADEA17022128"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,17 +41,16 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8ECAAEF4-9AC9-400B-91CC-C1FAFF95A903",
+    "do_objectID": "C1DAD8A7-5B79-4CF1-B859-78F0ECD0808F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
+  "symbolID": "2E104957-14B0-44C5-BA58-88FB2A7535D9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1544302452.950246
       }
     }
   },

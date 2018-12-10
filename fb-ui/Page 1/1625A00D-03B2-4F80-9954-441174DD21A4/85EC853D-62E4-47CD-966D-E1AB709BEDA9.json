@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Regular",
-              "size": 16
+              "name": "AppleSDGothicNeo-Bold",
+              "size": 24
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,19 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 19,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "jaemin@pozalabs.com"
+    "string": "Q. 회원가입은 어떻게 하나요?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "833B99BC-0AAD-431D-A290-909A82F187D6",
+  "do_objectID": "85EC853D-62E4-47CD-966D-E1AB709BEDA9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "653FA604-4D4A-48E8-A771-541713F07115",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9C79F899-23E1-4323-8581-925AA8465C0A",
-    "height": 19,
-    "width": 150,
-    "x": 16,
-    "y": 39
+    "height": 29,
+    "width": 281,
+    "x": 420,
+    "y": 200
   },
-  "glyphBounds": "{{-1, 1}, {150, 15}}",
+  "glyphBounds": "{{1, 2}, {280, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,22 +63,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "이메일을 입력해주세요",
+  "name": "Q. 회원가입은 어떻게 하나요?",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "69B3EEE5-92B7-4740-907F-2D3158FE9148",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D6B69D43-12BE-479D-B4AF-DD4593DDE3D1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "14C17032-2F0F-4AE1-9AEF-D237423D121C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,8 +87,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Regular",
-            "size": 16
+            "name": "AppleSDGothicNeo-Bold",
+            "size": 24
           }
         },
         "paragraphStyle": {

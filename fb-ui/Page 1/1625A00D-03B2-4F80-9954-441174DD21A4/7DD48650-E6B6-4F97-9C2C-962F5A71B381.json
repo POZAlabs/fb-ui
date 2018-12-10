@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7998962998390198,
-            "green": 0.8000451326370239,
-            "red": 0.7999318838119507
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-SemiBold",
-              "size": 160
+              "name": "AppleSDGothicNeo-Bold",
+              "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 3,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "FAQ"
+    "string": "Q. 회원 탈퇴는 어떻게 하나요?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D4430DF-7102-48D0-9C04-4DF27718068B",
+  "do_objectID": "7DD48650-E6B6-4F97-9C2C-962F5A71B381",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DF25AF34-C4DA-4802-A65A-61706E7576B8",
+    "do_objectID": "AAB3F136-1F07-49BF-8C7B-55A40BAA359B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0B02D3B5-9DD4-4D6C-8D3D-FA3974CE7C62",
-    "height": 192,
-    "width": 295,
-    "x": 573,
-    "y": 354
+    "do_objectID": "FDFD0C0B-034C-49A5-AD36-96588D777FC6",
+    "height": 29,
+    "width": 288,
+    "x": 420,
+    "y": 485
   },
-  "glyphBounds": "{{12, 25}, {280, 132}}",
+  "glyphBounds": "{{1, 2}, {286, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "FAQ",
+  "name": "Q. 회원 탈퇴는 어떻게 하나요?",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,31 +73,31 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CEE83CB4-F190-4C2E-A0AA-4F60371DFD4A",
+    "do_objectID": "835AD98D-D53A-4FDE-A6AC-24DCC597BF63",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CB16CE67-17BF-42FF-8FFE-94A3C800B8CF",
+      "do_objectID": "4FD352EF-0962-4598-BE55-73905F65F29B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7998962998390198,
-          "green": 0.8000451326370239,
-          "red": 0.7999318838119507
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-SemiBold",
-            "size": 160
+            "name": "AppleSDGothicNeo-Bold",
+            "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },

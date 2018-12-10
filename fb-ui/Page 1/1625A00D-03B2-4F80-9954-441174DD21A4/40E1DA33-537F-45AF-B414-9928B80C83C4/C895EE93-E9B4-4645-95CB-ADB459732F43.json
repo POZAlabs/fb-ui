@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Regular",
+              "name": "AppleSDGothicNeo-Bold",
               "size": 16
             }
           },
@@ -24,21 +24,22 @@
             "_class": "paragraphStyle",
             "alignment": 0
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "vhwkEkflWKdWkd@#$"
+    "string": "서비스 이용"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63B65BB2-CC48-42F2-AEE3-0B2E52CEFE15",
+  "do_objectID": "C895EE93-E9B4-4645-95CB-ADB459732F43",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9CEF3FC7-588A-4E70-964E-2BD40F67F87A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "92DA859D-022D-43D2-B744-423234D045DE",
     "height": 19,
-    "width": 154,
-    "x": 112,
-    "y": 329
+    "width": 74,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 1}, {153, 15}}",
+  "glyphBounds": "{{0, 1}, {73, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,19 +65,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "vhwkEkflWKdWkd@#$",
+  "name": "서비스 이용",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "F1AF0867-B0FD-4701-902E-DD84DA0C8CD9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "58DDE064-A31E-419D-A9CA-6F81BB2117C1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B572C279-C544-4BB5-A31D-8417F98F10C8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,7 +92,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Regular",
+            "name": "AppleSDGothicNeo-Bold",
             "size": 16
           }
         },
@@ -95,9 +100,9 @@
           "_class": "paragraphStyle",
           "alignment": 0
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },

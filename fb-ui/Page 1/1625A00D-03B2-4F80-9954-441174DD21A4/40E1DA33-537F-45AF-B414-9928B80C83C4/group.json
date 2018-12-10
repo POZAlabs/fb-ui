@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "56B4A2FF-FCB4-45BF-9F95-530B0353020C",
+  "do_objectID": "40E1DA33-537F-45AF-B414-9928B80C83C4",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D80E4DF2-0608-4154-8550-A48F1C35B296",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 443,
-    "y": 327
+    "do_objectID": "2373D909-A33E-4E18-9622-6BE3B559DAD4",
+    "height": 255,
+    "width": 235,
+    "x": 96,
+    "y": 200
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,15 +32,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "F20217F7-1ACB-4545-9F41-2835FC68F7A6"
+      "class": "text",
+      "id": "C895EE93-E9B4-4645-95CB-ADB459732F43"
     },
     {
       "class": "text",
-      "id": "6EA7B7F8-1D8E-46A9-8BDA-D1FAB1182AC9"
+      "id": "D91ED5EE-59EF-4D0A-A49F-B0CB180EFD5E"
+    },
+    {
+      "class": "text",
+      "id": "D743AB56-B795-468F-839A-45ADD2E58019"
+    },
+    {
+      "class": "text",
+      "id": "F4A9B3B6-23B2-402F-8B06-3E12067CDF5C"
+    },
+    {
+      "class": "text",
+      "id": "33C72DC0-CB42-4894-828B-4F7A89422A7F"
     }
   ],
-  "name": "icon/__plane copy 19",
+  "name": "Stacked Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,6 +60,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2F4F0547-2A9F-460C-BD1B-789F0CA3B1B9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -54,7 +69,13 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "align": 2,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 40,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }

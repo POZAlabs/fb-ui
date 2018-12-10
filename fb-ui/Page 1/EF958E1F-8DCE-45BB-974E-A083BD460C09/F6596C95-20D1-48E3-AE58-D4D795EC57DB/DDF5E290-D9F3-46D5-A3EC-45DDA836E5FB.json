@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.32,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Bold",
-              "size": 16
+              "name": "AppleSDGothicNeo-Heavy",
+              "size": 32
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "이메일"
+    "string": "개인정보처리방침"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "32BE8329-77DF-4B87-9611-8242DAFD1148",
+  "do_objectID": "DDF5E290-D9F3-46D5-A3EC-45DDA836E5FB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AF9BFBA5-C73E-416C-B2CE-B61BC6662BB9",
+    "do_objectID": "8FAA50EC-9F2B-41DA-B6A6-7125433437F4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4AD6DD4A-F459-4612-804E-376779816367",
-    "height": 19,
-    "width": 42,
-    "x": 0,
+    "do_objectID": "51AD5E69-DCF8-4A7C-8A01-4899C89768EE",
+    "height": 39,
+    "width": 222,
+    "x": 136,
     "y": 0
   },
-  "glyphBounds": "{{0, 1}, {41, 15}}",
+  "glyphBounds": "{{0, 2}, {219, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,26 +65,25 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Heading/__4",
+  "name": "개인정보처리방침",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F1AF0867-B0FD-4701-902E-DD84DA0C8CD9",
+  "sharedStyleID": "4D2A2F83-C035-48D3-A23E-C7B2BA4C488A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5B70EBDD-202A-4401-A9E0-B2B48BD271F2",
+    "do_objectID": "7A7A5AC4-F3D7-4998-A4B0-00C86FBD5C69",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FF455E4D-C4E8-4F33-929E-FFC44D0B58FB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.32,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -92,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Bold",
-            "size": 16
+            "name": "AppleSDGothicNeo-Heavy",
+            "size": 32
           }
         },
         "paragraphStyle": {

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7B05C772-DBEE-46AC-ABCD-EF120EB26FDF",
+  "do_objectID": "1B13FA05-ADE2-4EF3-8642-B42810C6DE7F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6018DB8F-42D1-4DC0-B328-4D9924D4C7F3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
-    "width": 384,
-    "x": 96,
-    "y": 196
+    "do_objectID": "0F136575-9B6C-48F1-85AC-6586B2CA0B42",
+    "height": 56,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "input/__field",
+  "name": "../Header",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "9622D948-8A78-4B78-9FF6-F8A43E0C1DF2_stringValue",
-      "value": "이메일"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,12 +41,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "EADC044A-B154-42A3-84D7-4D3E59B78F66",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EEDE55A9-4ED1-4BF0-A1AB-0A76799737D9",
+  "symbolID": "79D0C5C3-E219-4959-AD8C-8A18B9AA3B59",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

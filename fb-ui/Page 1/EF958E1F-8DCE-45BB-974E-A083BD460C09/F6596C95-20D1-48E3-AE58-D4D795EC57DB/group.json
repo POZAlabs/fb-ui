@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8FC9E585-E2E5-4894-8795-3804D761E408",
+  "do_objectID": "F6596C95-20D1-48E3-AE58-D4D795EC57DB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "56A7A7EC-68DF-4776-AAA7-9CFCFEFE97CB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,50 +15,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FF8F489A-AE2F-424E-932B-5D9FF1CD0A05",
-    "height": 33,
-    "width": 81,
+    "height": 39,
+    "width": 358,
     "x": 96,
-    "y": 510
+    "y": 112
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/__line",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "2DF07055-1FF3-433A-B22D-EA6DF54553D8",
-      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
-      "value": "수정완료"
+      "class": "text",
+      "id": "E0967AD5-A363-4AF2-95F0-4238C5311315"
+    },
+    {
+      "class": "text",
+      "id": "DDF5E290-D9F3-46D5-A3EC-45DDA836E5FB"
     }
   ],
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "51D14AFF-C757-4488-9467-7D7CDB7F7952",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1544302452.950246
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }
