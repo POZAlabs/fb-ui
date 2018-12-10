@@ -25,9 +25,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "62C9BAEF-CF8D-4B37-B8D7-74ACDF91C559",
-    "height": 850,
-    "width": 1280,
-    "x": 4797,
+    "height": 1747,
+    "width": 6389,
+    "x": 4278,
     "y": 2870
   },
   "hasBackgroundColor": true,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -56,11 +56,39 @@
     },
     {
       "class": "text",
+      "id": "6ED5D32C-42AB-4F29-82B1-A484CF7EE78E"
+    },
+    {
+      "class": "text",
+      "id": "2AB68D33-DA02-4115-A55B-D0A029651DE9"
+    },
+    {
+      "class": "text",
       "id": "6EB05A0B-3FD8-47B5-953B-B2CDF530BA25"
     },
     {
+      "class": "text",
+      "id": "B418EE18-8B8C-4C0B-ADF7-75487162FD2F"
+    },
+    {
+      "class": "text",
+      "id": "E0BBEF45-CD7C-491D-A15F-8C92E39A199C"
+    },
+    {
       "class": "symbolInstance",
-      "id": "F39CCCB0-5751-46C1-B6C4-24CBB7A505E1"
+      "id": "506BB66A-CB3E-4D0B-B1A0-8B1F0D0E7395"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10C83936-A6DE-4B5B-A710-9E9C6DFC2C2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C26A0AF-0417-4B21-92C0-421F126B805C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E547C026-B0FA-4EB8-AB68-831B45565F1E"
     },
     {
       "class": "symbolInstance",
@@ -69,6 +97,22 @@
     {
       "class": "text",
       "id": "60949FEC-C441-4D87-926F-59F3B8DD425F"
+    },
+    {
+      "class": "text",
+      "id": "114D0ED7-C1C0-4EB8-96D9-68691F50E079"
+    },
+    {
+      "class": "text",
+      "id": "CA62C4AC-BE4C-4278-912E-260A8E37AE99"
+    },
+    {
+      "class": "text",
+      "id": "38857206-CAD9-4571-BD47-5C9236306AAC"
+    },
+    {
+      "class": "text",
+      "id": "53ABC5DD-E23E-4811-A580-F7B50DFF879E"
     },
     {
       "class": "text",
@@ -156,6 +200,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
