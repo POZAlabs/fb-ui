@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.88,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -56,7 +56,7 @@
     "height": 144,
     "width": 229,
     "x": 799,
-    "y": 270
+    "y": 266
   },
   "glyphBounds": "{{0, 4}, {228, 134}}",
   "hasClippingMask": false,
@@ -72,6 +72,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "938144DB-2A2B-49E5-BA6B-482D1BB0C81F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,11 +82,10 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "360DB592-9146-4F94-937F-F6ECB4A1007F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.88,
           "blue": 1,
           "green": 1,
           "red": 1
