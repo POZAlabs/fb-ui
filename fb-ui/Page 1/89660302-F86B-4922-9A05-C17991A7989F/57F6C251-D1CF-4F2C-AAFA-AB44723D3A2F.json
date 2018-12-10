@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "83F25336-60F8-4655-8FAD-8C225EB14BE0",
+  "do_objectID": "57F6C251-D1CF-4F2C-AAFA-AB44723D3A2F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C68FDFE3-9496-45E5-BB23-0F0068C4EF93",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 93,
-    "width": 316,
-    "x": 316,
-    "y": 186
+    "do_objectID": "200B3999-7753-465B-8E41-2F2EB478B0F9",
+    "height": 447,
+    "width": 1,
+    "x": 1044,
+    "y": 319
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,19 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "card",
+  "name": "../divider",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "802C1520-C6C1-4D14-A477-FAE6B8F3D819",
-      "overrideName": "8DFF35ED-8611-45CA-B446-5FD5B5A87148_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/372c23591f2d7d63d7e5aac68c78ef04118db556.png",
-        "_ref_class": "MSImageData"
-      }
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,12 +41,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0780BD35-2460-4A1B-8EDB-8505FCE20DDE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A052C2D5-F5C8-48C1-A689-208CD25D174B",
+  "symbolID": "6B7D37D0-8B54-4713-B443-0857280DBBAB",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

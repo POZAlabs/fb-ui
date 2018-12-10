@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4D07096D-7F4A-49AA-86AE-AE513BD66939",
+  "do_objectID": "7D159D71-B60B-47E6-AF1C-12B330F149B4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "05C12345-62A9-439B-A4D5-386B63F2499F",
+    "do_objectID": "C13192A7-6BF2-470C-8E8B-DD43F470D448",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FA0E25AC-0CB6-49A2-B91F-7FC7E425D8B4",
-    "height": 33,
-    "width": 648,
-    "x": 80,
-    "y": 802
+    "do_objectID": "976165C9-40F7-4377-B9B6-376FBD366063",
+    "height": 93,
+    "width": 316,
+    "x": 728,
+    "y": 420
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "editor/__footer",
+  "name": "card",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16D12C99-77A3-4117-B4D9-A2A885EEC629",
+      "overrideName": "8DFF35ED-8611-45CA-B446-5FD5B5A87148_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/97bf990d3db474fe53d81d241cf603a8dde7e522.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,13 +51,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DED4AA2E-EC31-4F54-9E7E-64B11A3B1BFD",
+    "do_objectID": "4C7E41B9-0431-4A5B-82D6-949BAD17F1E4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A54B11F5-91A9-49C8-914F-A713036DC35D",
+  "symbolID": "A052C2D5-F5C8-48C1-A689-208CD25D174B",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

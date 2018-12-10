@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7D4465F5-A71A-42F3-A5F4-43A85DE98BC1",
+  "do_objectID": "13CF5A4A-D053-4175-84EA-79D19E7643A8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FC92D380-B325-4AD7-B1DD-2B7DA5F40505",
+    "do_objectID": "0AC0063A-C5A2-4A93-B1CD-1797FA8D37B9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6E841EAE-6913-4AD7-84DF-685680EB11C7",
-    "height": 1,
-    "width": 632,
+    "do_objectID": "13F85594-5CC9-4B0B-9A3D-0FFD98D52BAD",
+    "height": 93,
+    "width": 316,
     "x": 728,
-    "y": 318
+    "y": 606
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "../divider copy",
+  "name": "card",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "892F4B8B-3693-4DD4-B6C4-CCD4E509BBEB",
+      "overrideName": "8DFF35ED-8611-45CA-B446-5FD5B5A87148_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ba3d659fa2abb662c757a04ef13978d3b521754e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,13 +51,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A23A4356-EE45-4319-884F-7AE0E8345117",
+    "do_objectID": "F53BDC5F-5A13-4763-A64F-6DFC917C4627",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6B7D37D0-8B54-4713-B443-0857280DBBAB",
+  "symbolID": "A052C2D5-F5C8-48C1-A689-208CD25D174B",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

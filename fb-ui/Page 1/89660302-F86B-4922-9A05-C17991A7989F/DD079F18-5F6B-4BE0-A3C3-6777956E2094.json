@@ -8,16 +8,16 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.5450980392156861,
-            "green": 0.7411764705882353,
-            "red": 0.1372549019607843
+            "alpha": 0.4,
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Heavy",
-              "size": 16
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "유튜브"
+    "string": "Peter Gundry"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F7A3372E-D2E5-4292-8851-0707BDFF895D",
+  "do_objectID": "DD079F18-5F6B-4BE0-A3C3-6777956E2094",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1368EA13-70D1-4A89-AA8C-BC071D6E9708",
+    "do_objectID": "FFB9A238-9412-4341-97E3-25DEC78D2C51",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "50FB4678-1B17-44A4-A056-BBCDA6A9621D",
-    "height": 19,
-    "width": 42,
-    "x": 802,
-    "y": 234
+    "do_objectID": "C3E66076-8655-4AAB-9F6A-1ED2EDBF74F5",
+    "height": 17,
+    "width": 160,
+    "x": 1060,
+    "y": 534
   },
-  "glyphBounds": "{{0, 1}, {42, 15}}",
+  "glyphBounds": "{{1, 2}, {77, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,34 +65,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "유튜브",
+  "name": "Peter Gundry",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "140BE520-1744-41F6-9CA0-BF76D2912AE1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F6C9AE20-D313-4457-850B-1E048B7B12E3",
+    "do_objectID": "0C9BE390-7062-41AB-BCE6-9198275CE05B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "D8433D6E-25CB-4EFF-9332-4968A7945AE4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.5450980392156861,
-          "green": 0.7411764705882353,
-          "red": 0.1372549019607843
+          "alpha": 0.4,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Heavy",
-            "size": 16
+            "name": "AppleSDGothicNeo-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {
