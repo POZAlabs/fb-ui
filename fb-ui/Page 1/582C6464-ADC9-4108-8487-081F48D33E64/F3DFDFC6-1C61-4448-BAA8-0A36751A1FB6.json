@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C90A8DFA-CAC0-41A7-A1BA-E2521B61AE49",
+  "do_objectID": "F3DFDFC6-1C61-4448-BAA8-0A36751A1FB6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D3F97EA9-625A-455B-8840-17FC9F7935D4",
+    "do_objectID": "EC41FB82-8A04-4A32-9A07-FB59145F34DC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "28405745-8DF9-416A-BCB1-42C1E4A30FEC",
-    "height": 24,
-    "width": 24,
-    "x": 457,
-    "y": 96
+    "do_objectID": "0C0A8EF2-F1E1-431A-B24F-FD1676CE31AD",
+    "height": 62,
+    "width": 632,
+    "x": 80,
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,24 +30,36 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon/__plane copy 3",
+  "name": "list/__header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D7C1926-F47B-4987-A94C-3330CC0A158A",
+      "overrideName": "AF619783-3AF1-4363-BE0E-25317E325459_stringValue",
+      "value": "라임노트"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8BE06E7-2AFB-4829-8F20-649391AE8D58",
+      "overrideName": "E978F292-95C0-4218-B090-DB055D584060_symbolID",
+      "value": "1A21F638-DCFE-4A36-90D9-822A5724EC1D"
+    }
   ],
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D1E10845-9CA2-4AC3-A73E-13223256B3F7",
+    "do_objectID": "85675750-25A0-4373-B68F-FCEA6DA141BD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E8B02F71-8C55-4EF7-9E22-02A3C5418025",
+  "symbolID": "58BD609A-51DE-4741-A929-3A6CF0DF5933",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

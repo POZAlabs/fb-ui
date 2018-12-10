@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "41C7493B-4913-4A38-AA0E-9DC9B23ACE5F",
+  "do_objectID": "465D0EED-4D37-49C2-82D4-BFC257F65D26",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EB669B82-2DB0-43BE-B349-15FE8E277316",
+    "do_objectID": "3C206BC4-8B59-4B53-A1AF-5A0057D9DE15",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1705415B-8601-4A88-8B81-89B7EC6EFCDA",
-    "height": 1,
+    "do_objectID": "34103C18-87C4-4350-A317-B0B786471FF5",
+    "height": 62,
     "width": 632,
     "x": 80,
-    "y": 141
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "../divider copy",
+  "name": "list/__header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D7C1926-F47B-4987-A94C-3330CC0A158A",
+      "overrideName": "AF619783-3AF1-4363-BE0E-25317E325459_stringValue",
+      "value": "라임노트 추가"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5489B93F-B3DE-472D-BCED-184018FC0DEB",
+      "overrideName": "90FC30E0-B7E2-405A-B52D-22897651A14A_symbolID",
+      "value": "F8FD19F4-0834-4210-B9FE-FF88BE550879"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8BE06E7-2AFB-4829-8F20-649391AE8D58",
+      "overrideName": "E978F292-95C0-4218-B090-DB055D584060_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,13 +59,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "164480FB-C9F7-4568-B1C3-0433B84AA80D",
+    "do_objectID": "9D771AB5-6E7E-4B95-ADFC-27568E239633",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6B7D37D0-8B54-4713-B443-0857280DBBAB",
+  "symbolID": "58BD609A-51DE-4741-A929-3A6CF0DF5933",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

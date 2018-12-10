@@ -27,8 +27,8 @@
     "do_objectID": "CCF372D8-21A5-43F0-80BF-0C91749BEAD4",
     "height": 768,
     "width": 1440,
-    "x": 12,
-    "y": 1186
+    "x": -20,
+    "y": 1120
   },
   "grid": {
     "_class": "simpleGrid",
@@ -78,8 +78,8 @@
       "id": "BA4D7ACE-0483-4754-854E-B458A4219A10"
     },
     {
-      "class": "text",
-      "id": "AF619783-3AF1-4363-BE0E-25317E325459"
+      "class": "symbolInstance",
+      "id": "B457BB73-6DB2-4726-9B6E-979F02B10E2F"
     },
     {
       "class": "rectangle",
@@ -99,7 +99,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8397B1C8-5CE9-4280-B4FF-F981B17ACA0D"
+      "id": "418F6113-FB18-4591-AD4A-61FFB8078C35"
     },
     {
       "class": "text",
@@ -163,10 +163,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "90FC30E0-B7E2-405A-B52D-22897651A14A"
-    },
-    {
-      "class": "symbolInstance",
       "id": "561C846B-4586-4285-A6D9-58522479C2D5"
     }
   ],
@@ -186,7 +182,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "LY. Copy 2",
+  "name": "LY.",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

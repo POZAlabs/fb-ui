@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6D812C0F-F79A-431B-8B3C-BAFBF66834A9",
+  "do_objectID": "34EE74FB-84B2-485F-9E90-031998BBC928",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "30683425-02C2-4539-8CBE-E8EF997B3582",
+    "do_objectID": "7176062E-5327-4A97-9A65-C6363DD88A3C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D7DF7657-EC2E-47A8-BD17-58BF8DEF44F6",
-    "height": 24,
-    "width": 24,
-    "x": 672,
-    "y": 99
+    "do_objectID": "DEEA8B47-A5A0-44F8-ADD1-48AC9C2D0E87",
+    "height": 62,
+    "width": 416,
+    "x": 80,
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon/__plane copy 9",
+  "name": "list/__header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D7C1926-F47B-4987-A94C-3330CC0A158A",
+      "overrideName": "AF619783-3AF1-4363-BE0E-25317E325459_stringValue",
+      "value": "음악 리스트"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,18 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2A278612-403A-4B19-B9C0-076F6430B227",
+    "do_objectID": "DC9B96F5-05CC-426B-B89B-5E038A677D3F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F8FD19F4-0834-4210-B9FE-FF88BE550879",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "58BD609A-51DE-4741-A929-3A6CF0DF5933",
   "verticalSpacing": 0
 }

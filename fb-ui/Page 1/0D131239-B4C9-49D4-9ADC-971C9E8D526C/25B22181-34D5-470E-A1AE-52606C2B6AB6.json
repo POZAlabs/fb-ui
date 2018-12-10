@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8397B1C8-5CE9-4280-B4FF-F981B17ACA0D",
+  "do_objectID": "25B22181-34D5-470E-A1AE-52606C2B6AB6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0322C2A6-5F5E-44B9-B736-F9B03A318ACB",
+    "do_objectID": "453E799F-3649-4979-A2AF-2919E87D490D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B7D027DF-D677-475C-A9C4-2CB0CD6DE6DE",
-    "height": 48,
-    "width": 416,
+    "do_objectID": "6EF938D2-9295-4DEE-B382-5F6185F53600",
+    "height": 62,
+    "width": 632,
     "x": 80,
-    "y": 141
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,26 +30,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tab/__list",
+  "name": "list/__header",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5559E584-20EB-43E1-9524-2BA1A650A901",
-      "overrideName": "20F91B7C-A410-4527-852C-26E152588FC8_symbolID",
-      "value": ""
+      "do_objectID": "3D7C1926-F47B-4987-A94C-3330CC0A158A",
+      "overrideName": "AF619783-3AF1-4363-BE0E-25317E325459_stringValue",
+      "value": "라임노트"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BF52BEDF-E8B3-4930-A937-A96CF5A1A88F",
-      "overrideName": "5093511E-E80E-435C-8807-8FD6B51830B4_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "82B26771-E968-455B-884A-CF17029F4F61",
-      "overrideName": "CF73664C-EA0B-4825-866B-A09232035B15_symbolID",
-      "value": "224363CC-879C-4F48-BFCA-4617DC335483"
+      "do_objectID": "D8BE06E7-2AFB-4829-8F20-649391AE8D58",
+      "overrideName": "E978F292-95C0-4218-B090-DB055D584060_symbolID",
+      "value": "1A21F638-DCFE-4A36-90D9-822A5724EC1D"
     }
   ],
   "resizingConstraint": 63,
@@ -59,13 +53,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "23220B01-C4D6-4FDB-B5DA-2D7D8786D8EA",
+    "do_objectID": "1F36C557-2D36-4288-AAE6-410DD0192DEB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9EB5C989-0CEB-419D-B384-6CF46A3447CA",
+  "symbolID": "58BD609A-51DE-4741-A929-3A6CF0DF5933",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

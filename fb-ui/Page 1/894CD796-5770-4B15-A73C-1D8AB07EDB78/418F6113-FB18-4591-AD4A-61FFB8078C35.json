@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "50BF9138-86C9-423E-80BD-DDEBB5D31D55",
+  "do_objectID": "418F6113-FB18-4591-AD4A-61FFB8078C35",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D6480EB3-A489-4E56-8699-514331AB1A74",
+    "do_objectID": "9F1503E5-2488-40EF-994D-BF896CE18CEE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B0F5416B-4369-4B93-A9EC-A3ED4B524C0E",
+    "do_objectID": "B9A810A9-28E2-4EF0-B298-FBC69A6C938A",
     "height": 48,
-    "width": 632,
-    "x": 404,
+    "width": 416,
+    "x": 80,
     "y": 141
   },
   "hasClippingMask": false,
@@ -35,21 +35,21 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C0D262A0-275B-4B11-83AB-2CBF9ADA15C6",
+      "do_objectID": "5559E584-20EB-43E1-9524-2BA1A650A901",
+      "overrideName": "20F91B7C-A410-4527-852C-26E152588FC8_symbolID",
+      "value": "41DE3F62-E734-46E1-9DBD-6E1F827CF24D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF52BEDF-E8B3-4930-A937-A96CF5A1A88F",
       "overrideName": "5093511E-E80E-435C-8807-8FD6B51830B4_symbolID",
       "value": "224363CC-879C-4F48-BFCA-4617DC335483"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "81451EA1-362E-4B5A-82BE-0907E2E5B31E",
-      "overrideName": "20F91B7C-A410-4527-852C-26E152588FC8_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "586D3205-A5E0-4A24-ADC1-14730929694C",
+      "do_objectID": "82B26771-E968-455B-884A-CF17029F4F61",
       "overrideName": "CF73664C-EA0B-4825-866B-A09232035B15_symbolID",
-      "value": ""
+      "value": "224363CC-879C-4F48-BFCA-4617DC335483"
     }
   ],
   "resizingConstraint": 63,
@@ -59,7 +59,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5C1F7EE8-8D13-45D3-A73D-C910CD68CE8D",
+    "do_objectID": "995C2D50-659E-4ECC-A896-48A3FF2046A2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
