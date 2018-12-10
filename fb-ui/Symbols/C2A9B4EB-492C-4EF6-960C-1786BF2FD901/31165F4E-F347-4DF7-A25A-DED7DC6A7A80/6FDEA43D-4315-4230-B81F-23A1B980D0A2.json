@@ -17,12 +17,12 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-ExtraBold",
-              "size": 10
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 22,
+    "height": 15,
+    "width": 27,
     "x": 4,
     "y": 2
   },
-  "glyphBounds": "{{0, 1}, {22, 8}}",
+  "glyphBounds": "{{0, 1}, {26, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,9 +68,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8CEA9371-993E-4D45-9DB9-35E20D63DB94",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F38BEAED-A192-4FEF-8784-B4F29FC26734",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -88,12 +90,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-ExtraBold",
-            "size": 10
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

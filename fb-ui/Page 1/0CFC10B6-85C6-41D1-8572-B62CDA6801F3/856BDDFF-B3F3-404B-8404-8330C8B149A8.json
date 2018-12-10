@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "856BDDFF-B3F3-404B-8404-8330C8B149A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D09E15CC-A34F-4E62-AFED-301CAF2D1509",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "231366F0-5712-484A-830F-C3E3BDDDB5A8",
+    "height": 70,
+    "width": 384,
+    "x": 96,
+    "y": 196
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/__field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E589D10F-31CA-40D2-BE7F-2B2B7F6D20DE",
+      "overrideName": "9622D948-8A78-4B78-9FF6-F8A43E0C1DF2_stringValue",
+      "value": "이메일"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CB33E11-B463-4CC0-AE88-299E1914DF98",
+      "overrideName": "E41F26AF-20D9-409D-9597-8D173E6F5CC6_stringValue",
+      "value": "jaemin@pozalabs.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "009794C1-5EAA-41C8-85E8-8056CC3CCC00",
+      "overrideName": "E41F26AF-20D9-409D-9597-8D173E6F5CC6_textStyle",
+      "value": "69B3EEE5-92B7-4740-907F-2D3158FE9148"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D147AEE7-E42B-4B73-8E6B-B8A72BB64D6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEDE55A9-4ED1-4BF0-A1AB-0A76799737D9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

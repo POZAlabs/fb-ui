@@ -13,7 +13,7 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 2,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -37,7 +37,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -79,9 +79,27 @@
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4DA5011E-6877-406F-86DF-ADEA17022128",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "3485BBF1-17B7-44F7-AAE4-8E81643FC486",
     "endMarkerType": 0,
     "fills": [
       {
@@ -89,9 +107,9 @@
         "color": {
           "_class": "color",
           "alpha": 0,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
@@ -103,7 +121,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

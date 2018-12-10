@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.436437074829932,
+    "green": 0.436437074829932,
+    "red": 0.436437074829932
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "54EDE423-E1C3-48CD-8A40-806DCA15BA51",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "x": 14179,
     "y": 291
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -37,7 +37,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,

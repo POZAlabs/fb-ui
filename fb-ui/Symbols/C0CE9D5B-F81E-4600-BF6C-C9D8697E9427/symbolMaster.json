@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.6099861819727891,
+    "green": 0.6099861819727891,
+    "red": 0.6099861819727891
   },
   "booleanOperation": -1,
-  "changeIdentifier": 363,
+  "changeIdentifier": 421,
   "clippingMaskMode": 0,
   "do_objectID": "C0CE9D5B-F81E-4600-BF6C-C9D8697E9427",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "x": 5125,
     "y": 635
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -37,7 +37,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -53,7 +53,7 @@
       "id": "6B779203-457B-477C-AA4B-4B14002D81FF"
     }
   ],
-  "name": "Editor/__Rec/__card/--normal",
+  "name": "wordBlock/--normal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -68,6 +68,12 @@
     "windingRule": 1
   },
   "symbolID": "B52A62E7-9D4C-4D56-8EFE-CD6E7466B3DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

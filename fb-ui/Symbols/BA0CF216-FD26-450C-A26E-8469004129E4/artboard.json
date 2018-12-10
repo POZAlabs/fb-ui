@@ -52,15 +52,91 @@
   "layers": [
     {
       "class": "text",
-      "id": "A2964A7C-FEAC-4D9C-845B-635DCD7F5865"
+      "id": "94B9BBED-0040-4F23-8C92-9E362DE07881"
     },
     {
-      "class": "group",
-      "id": "26378A73-CE81-43BB-B639-6B60B51038BE"
+      "class": "text",
+      "id": "6EB05A0B-3FD8-47B5-953B-B2CDF530BA25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F39CCCB0-5751-46C1-B6C4-24CBB7A505E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E0F91C8-12AF-4D55-836B-488AAB985BF4"
+    },
+    {
+      "class": "text",
+      "id": "60949FEC-C441-4D87-926F-59F3B8DD425F"
+    },
+    {
+      "class": "text",
+      "id": "DE26CAF0-F1ED-496A-A677-0FC1DBEB3E61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B804717-09E9-44BA-85A5-85EBE248B0AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB267257-58E0-4D81-8BA3-11B17B5ACBAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C663303C-F8EF-4665-8B9A-6529EA7DC48C"
+    },
+    {
+      "class": "text",
+      "id": "2B6BA389-1149-4F36-8955-71A078F1B186"
+    },
+    {
+      "class": "text",
+      "id": "0F0A2CD1-A629-4D86-A2FC-0EEFCCEDF708"
+    },
+    {
+      "class": "text",
+      "id": "38494CD9-F2D3-4534-9789-38EB90074A63"
+    },
+    {
+      "class": "text",
+      "id": "FCB2D9CD-B501-4B44-8B44-B379477CBF10"
+    },
+    {
+      "class": "text",
+      "id": "30250FDA-0C55-45E5-85F8-2E3ED08AF7F5"
+    },
+    {
+      "class": "text",
+      "id": "4ECD8233-898A-4DAE-950E-08554B8069EF"
+    },
+    {
+      "class": "text",
+      "id": "8F2F9087-1D0F-4A4F-985A-CEB55C8800AD"
+    },
+    {
+      "class": "text",
+      "id": "BCF573D7-D9B5-4574-BD05-66D5D7568551"
+    },
+    {
+      "class": "text",
+      "id": "DB1E33E6-92E9-4EB2-A5B1-6447C3DA1335"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B9D3872-BE3B-48D8-8BF6-F5E6C47014AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6E6A8B2-71CF-44D8-8A4A-0965ABD8AF07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4BE44F6-99AC-4403-8122-5152172FC321"
     }
   ],
-  "name": "Pixel",
-  "nameIsFixed": false,
+  "name": "Components",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 850,

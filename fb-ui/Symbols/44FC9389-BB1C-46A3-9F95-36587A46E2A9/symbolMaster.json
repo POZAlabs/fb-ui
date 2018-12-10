@@ -1,0 +1,85 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.268999787414966,
+    "green": 0.268999787414966,
+    "red": 0.268999787414966
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 100,
+  "clippingMaskMode": 0,
+  "do_objectID": "44FC9389-BB1C-46A3-9F95-36587A46E2A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 384,
+    "x": 14328,
+    "y": 291
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FF2901FC-9723-4B67-B978-B66ADE46F874"
+    },
+    {
+      "class": "text",
+      "id": "E41F26AF-20D9-409D-9597-8D173E6F5CC6"
+    },
+    {
+      "class": "text",
+      "id": "9622D948-8A78-4B78-9FF6-F8A43E0C1DF2"
+    }
+  ],
+  "name": "input/__field",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEDE55A9-4ED1-4BF0-A1AB-0A76799737D9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
