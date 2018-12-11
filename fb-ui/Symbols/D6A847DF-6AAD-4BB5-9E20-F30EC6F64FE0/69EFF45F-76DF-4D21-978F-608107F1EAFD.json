@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 3,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 6,
-        "location": 5
+        "location": 3
       }
     ],
-    "string": "‘어디야’의 단어추천"
+    "string": "어디야의 단어추천"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -78,11 +78,11 @@
     "constrainProportions": false,
     "do_objectID": "B861A48D-634D-4265-AB82-02C3C148CE10",
     "height": 19,
-    "width": 123,
+    "width": 115,
     "x": 16,
     "y": 16
   },
-  "glyphBounds": "{{1, 0}, {121, 16}}",
+  "glyphBounds": "{{0, 1}, {114, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "‘어디야’의 단어추천",
+  "name": "어디야의 단어추천",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
