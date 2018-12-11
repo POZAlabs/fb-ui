@@ -74,10 +74,6 @@
       "id": "C15EE6C1-A02A-4A77-BD9F-1ED48D45F648"
     },
     {
-      "class": "rectangle",
-      "id": "E3167E64-4263-42C6-A7D3-577D31BAE024"
-    },
-    {
       "class": "symbolInstance",
       "id": "66660D6A-A2EF-4627-9DAA-897C6399B5C2"
     },
@@ -90,10 +86,6 @@
       "id": "3243AB34-7DA5-402B-965F-6A2CC3DE49A9"
     },
     {
-      "class": "text",
-      "id": "6146199A-9423-4BE8-998B-D53838CD3893"
-    },
-    {
       "class": "symbolInstance",
       "id": "BA2A2F49-1AE2-4CEA-827A-F076BB66F092"
     },
@@ -103,7 +95,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "830BDF9A-761E-45D8-84F8-E376A9BD1D22"
+      "id": "13BA478B-87D7-427A-B58B-B36F072EB260"
     }
   ],
   "layout": {
@@ -131,7 +123,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

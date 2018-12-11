@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 225,
+  "changeIdentifier": 441,
   "clippingMaskMode": 0,
   "do_objectID": "D214FB12-FC3B-479B-A39D-842288AA60E0",
   "exportOptions": {
@@ -46,11 +46,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "B4E6D73E-AB24-4AF2-8117-14ED1E3A6CB7"
+    },
+    {
+      "class": "rectangle",
+      "id": "62B66F2D-6754-4C2B-A65C-F67CD410FCFB"
+    },
+    {
+      "class": "text",
+      "id": "846BD449-3822-4A67-8F8D-D24FF78FB24B"
     }
   ],
   "name": "tab/__list",

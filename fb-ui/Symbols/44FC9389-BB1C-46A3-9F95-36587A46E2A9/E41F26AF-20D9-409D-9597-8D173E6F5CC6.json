@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 11,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "이메일을 입력해주세요"
+    "string": "input/__text/—normal"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "E830C2CF-B60C-410F-876B-ABDBED5590C6",
     "height": 19,
-    "width": 143,
+    "width": 144,
     "x": 16,
     "y": 39
   },
-  "glyphBounds": "{{1, 1}, {142, 15}}",
+  "glyphBounds": "{{1, 1}, {141, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "이메일을 입력해주세요",
+  "name": "input/__text/—normal",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2941176470588235,
-            "green": 0.1686274509803922,
-            "red": 0.9137254901960784
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -71,6 +71,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2DBBCCD1-95A7-4AEF-8D44-1516BCF60080",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -80,9 +81,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2941176470588235,
-          "green": 0.1686274509803922,
-          "red": 0.9137254901960784
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -96,7 +97,7 @@
           "alignment": 2
         }
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

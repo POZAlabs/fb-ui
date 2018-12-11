@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3269823554421769,
+    "green": 0.3269823554421769,
+    "red": 0.3269823554421769
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 65,
+  "clippingMaskMode": 0,
+  "do_objectID": "180DAA86-8E27-4439-A2A7-8C92B4A621ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 632,
+    "x": 10767,
+    "y": 635
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ED02DBDE-B7B8-4523-B251-DC81D347F325"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4636C185-713B-4305-9C74-48070A1BD342"
+    },
+    {
+      "class": "text",
+      "id": "61A58167-0678-47FC-9114-F502F34B2208"
+    },
+    {
+      "class": "text",
+      "id": "3D791576-1E54-4A47-9060-F40EAE534799"
+    }
+  ],
+  "name": "list/__search",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "01A03BBD-8CE3-46D6-A680-61CB9426DC44",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
