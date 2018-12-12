@@ -28,7 +28,7 @@
     "height": 900,
     "width": 1440,
     "x": 16681,
-    "y": 811
+    "y": 9668
   },
   "grid": {
     "_class": "simpleGrid",
@@ -58,8 +58,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "7B492169-7267-43FF-A71F-FB28B6EB88AC"
+      "class": "symbolInstance",
+      "id": "7AA48CF8-4B4A-40EE-9303-219FEAAC00A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B972E34-FABC-4ED9-BB11-9032D2320F2E"
     },
     {
       "class": "symbolInstance",

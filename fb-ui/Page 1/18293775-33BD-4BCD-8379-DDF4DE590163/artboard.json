@@ -28,7 +28,7 @@
     "height": 900,
     "width": 1440,
     "x": 13616,
-    "y": 811
+    "y": 9668
   },
   "grid": {
     "_class": "simpleGrid",
@@ -58,8 +58,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "4616A243-93AD-425D-8793-23D650A67EA1"
+      "class": "symbolInstance",
+      "id": "5205C199-7364-45AD-9CAF-FD9245016A93"
     },
     {
       "class": "symbolInstance",
@@ -87,15 +87,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6DE1ED4C-52C3-482D-BF6D-C826CCB578EF"
-    },
-    {
-      "class": "symbolInstance",
       "id": "21F0A38D-438C-4FD9-89DD-9C5A92AF3E08"
     },
     {
       "class": "symbolInstance",
       "id": "4E978451-8A7A-4CA3-82D3-BA39C9F92E15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DE1ED4C-52C3-482D-BF6D-C826CCB578EF"
     }
   ],
   "layout": {
