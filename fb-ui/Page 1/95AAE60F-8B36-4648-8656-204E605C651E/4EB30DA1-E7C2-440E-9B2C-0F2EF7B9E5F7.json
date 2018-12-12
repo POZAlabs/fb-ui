@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AA02220D-8DDD-40F4-9D09-F35AC4A41080",
-    "height": 98,
+    "height": 113,
     "width": 641,
     "x": 400,
     "y": 80
@@ -33,6 +33,18 @@
   "name": "simple/__header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A378406-7D40-45E7-BF4E-C1AC5F02BCA2",
+      "overrideName": "9A93AA37-0889-4B26-93FE-16C310C1A358_stringValue",
+      "value": "양꼬치의 사랑은 다른 양꼬치 사랑으로 잊혀지..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B6E2B9B-9F72-4EE8-BAB4-29266C1DC18E",
+      "overrideName": "9BCA657F-F672-497B-B7CC-FB68C7A02BC9_stringValue",
+      "value": "닉네임이양꼬치"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -22,7 +22,9 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -51,7 +53,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "77C3F383-E48E-405C-A36C-CEB525C96E4F",
-    "height": 17,
+    "height": 18,
     "width": 74,
     "x": 24,
     "y": 75
@@ -97,7 +99,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
         "textStyleVerticalAlignmentKey": 0
       },

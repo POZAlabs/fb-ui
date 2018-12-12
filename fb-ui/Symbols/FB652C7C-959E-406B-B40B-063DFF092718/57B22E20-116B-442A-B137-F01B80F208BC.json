@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.24,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-LightItalic",
-              "size": 16
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "270134B4-435C-4172-B3ED-77DE7408437D",
-    "height": 19,
-    "width": 42,
-    "x": 285,
-    "y": 19
+    "height": 24,
+    "width": 53,
+    "x": 304,
+    "y": 16
   },
-  "glyphBounds": "{{0, 3}, {42, 13}}",
+  "glyphBounds": "{{0, 4}, {52, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,26 +70,19 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "EAF7A0C5-CFFE-4B9B-B393-23FC98063060",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "D95B7B0E-AFA3-40F1-9814-D3853C293CDE",
-      "opacity": 0.2000000029802322
-    },
-    "do_objectID": "DC6CAE18-CA32-4BE1-97DC-545698368465",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AA1B8434-0733-4CC2-885C-207D4E99190B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.24,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -98,7 +91,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-LightItalic",
-            "size": 16
+            "size": 20
           }
         },
         "paragraphStyle": {

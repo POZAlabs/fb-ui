@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5450980392156861,
-            "green": 0.7411764705882353,
-            "red": 0.1372549019607843
+            "blue": 0.05226593762011589,
+            "green": 0.7336819924811729,
+            "red": 0.9035661139455783
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "유튜브"
+    "string": "유튜브에서 가져오기"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "CE7AF66D-555F-4F6E-AD9B-45481331E011",
     "height": 19,
-    "width": 42,
-    "x": 802,
+    "width": 129,
+    "x": 848,
     "y": 234
   },
-  "glyphBounds": "{{0, 1}, {42, 15}}",
+  "glyphBounds": "{{0, 0}, {128, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "유튜브",
+  "name": "유튜브에서 가져오기",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -85,9 +85,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5450980392156861,
-          "green": 0.7411764705882353,
-          "red": 0.1372549019607843
+          "blue": 0.05226593762011589,
+          "green": 0.7336819924811729,
+          "red": 0.9035661139455783
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.5450980392156861,
+            "green": 0.7411764705882353,
+            "red": 0.1372549019607843
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,8 +24,7 @@
             "_class": "paragraphStyle",
             "alignment": 0
           },
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 1
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 14,
         "location": 0
@@ -62,7 +61,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
@@ -71,6 +70,7 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "358C5936-D15C-435D-870A-9AA5F2973B13",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -80,14 +80,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CF9E6B86-1A29-419B-8C18-466AC06B36E0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.5450980392156861,
+          "green": 0.7411764705882353,
+          "red": 0.1372549019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -100,8 +99,7 @@
           "_class": "paragraphStyle",
           "alignment": 0
         },
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 1
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

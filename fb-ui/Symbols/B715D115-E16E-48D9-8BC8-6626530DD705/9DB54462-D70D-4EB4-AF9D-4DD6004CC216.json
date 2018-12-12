@@ -16,21 +16,23 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Regular",
+              "name": "AppleSDGothicNeo-Bold",
               "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 36,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": "Gastroenteritis Is A Serious Problem"
+    "string": "Gastroenteritis Is A Serious"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C406019D-514C-4B0F-9444-4B6EE96170B3",
-    "height": 17,
+    "height": 18,
     "width": 224,
     "x": 76,
     "y": 16
   },
-  "glyphBounds": "{{0, 2}, {211, 11}}",
+  "glyphBounds": "{{0, 2}, {169, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,6 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6B959FB0-07E2-40D0-9DC3-DF338433769A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,13 +92,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Regular",
+            "name": "AppleSDGothicNeo-Bold",
             "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
         "textStyleVerticalAlignmentKey": 0
       },

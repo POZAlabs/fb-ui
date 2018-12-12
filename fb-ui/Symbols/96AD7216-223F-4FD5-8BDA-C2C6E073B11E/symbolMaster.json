@@ -2,13 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 0.5632440476190477,
-    "green": 0.5632440476190477,
-    "red": 0.5632440476190477
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 186,
+  "changeIdentifier": 253,
   "clippingMaskMode": 0,
   "do_objectID": "96AD7216-223F-4FD5-8BDA-C2C6E073B11E",
   "exportOptions": {
@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 97,
+    "width": 129,
     "x": 6612,
     "y": 2969
   },
@@ -53,8 +53,8 @@
       "id": "3B54BFCE-F998-489E-B679-0262B687FB7C"
     }
   ],
-  "name": "button/__line",
-  "nameIsFixed": false,
+  "name": "button/__medium",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

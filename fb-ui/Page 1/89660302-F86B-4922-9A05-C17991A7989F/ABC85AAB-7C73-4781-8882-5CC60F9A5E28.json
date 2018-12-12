@@ -8,10 +8,10 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.24,
-            "blue": 0.5450980392156861,
-            "green": 0.7411764705882353,
-            "red": 0.1372549019607843
+            "alpha": 1,
+            "blue": 0.05226593762011589,
+            "green": 0.7336819924811729,
+            "red": 0.9035661139455783
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "업로드"
+    "string": "업로드한 음악"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "DAA00C3F-906F-4B11-BB59-C51CA82AD6EA",
     "height": 19,
-    "width": 42,
+    "width": 88,
     "x": 744,
     "y": 234
   },
-  "glyphBounds": "{{0, 0}, {42, 16}}",
+  "glyphBounds": "{{0, 0}, {88, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,29 +65,32 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "업로드",
+  "name": "업로드한 음악",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "C9330D6D-5FF8-4E4D-A320-862191C284EA",
+  "sharedStyleID": "140BE520-1744-41F6-9CA0-BF76D2912AE1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "47C472FA-7662-46E2-9410-16A7A2E43B3C",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.2000000029802322
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C80C545C-9EE0-4C4F-B743-0027E23A5073",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.24,
-          "blue": 0.5450980392156861,
-          "green": 0.7411764705882353,
-          "red": 0.1372549019607843
+          "alpha": 1,
+          "blue": 0.05226593762011589,
+          "green": 0.7336819924811729,
+          "red": 0.9035661139455783
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

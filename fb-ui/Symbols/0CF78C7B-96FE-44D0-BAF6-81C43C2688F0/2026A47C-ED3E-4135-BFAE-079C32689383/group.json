@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
+    "height": 95,
     "width": 600,
     "x": 16,
-    "y": 85
+    "y": 26
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,6 +32,10 @@
     {
       "class": "symbolInstance",
       "id": "BAE4D51D-000D-463B-B00C-502235CB9374"
+    },
+    {
+      "class": "group",
+      "id": "C8EB5F72-7BB5-4924-82EC-68406634FACA"
     },
     {
       "class": "symbolInstance",

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "DBDE9FE1-485C-46B3-BF4B-DCC63A19EB63",
-  "name": "찾고싶은 단어 또는 구, 문장을 입력 Style",
+  "name": "input/--placeholder",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -12,7 +12,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.4,
+          "alpha": 0.32,
           "blue": 1,
           "green": 1,
           "red": 1

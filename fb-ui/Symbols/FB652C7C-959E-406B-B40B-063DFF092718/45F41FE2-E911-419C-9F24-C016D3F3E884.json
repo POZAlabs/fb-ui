@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 97,
-    "x": 1183,
+    "width": 81,
+    "x": 1215,
     "y": 12
   },
   "hasClippingMask": false,
@@ -31,6 +31,12 @@
   "name": "button/__line",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1548F9CA-E31F-47B7-AFAC-E5A09E0C14FA",
+      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
+      "value": "가사쓰기"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,6 +54,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "size.update": 1544555806.209585
       }
     }
   },

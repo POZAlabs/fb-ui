@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.4,
+            "alpha": 0.56,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Regular",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1299A23B-7910-4E34-BF5F-01AD8DA32D3B",
-    "height": 19,
-    "width": 34,
+    "height": 17,
+    "width": 30,
     "x": 88,
-    "y": 24
+    "y": 48
   },
-  "glyphBounds": "{{1, 2}, {33, 14}}",
+  "glyphBounds": "{{1, 3}, {28, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,6 +70,7 @@
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2735FE37-84C1-4FA8-B784-5001F71DAE89",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,11 +80,10 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5A3C5A2A-3EC7-4940-927C-56F868053F6C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.4,
+          "alpha": 0.56,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Regular",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {

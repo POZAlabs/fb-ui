@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "CEC3DBC9-7355-44F6-AF7F-EBD2B7595CB1",
     "height": 25,
-    "width": 155,
+    "width": 563,
     "x": 0,
     "y": 58
   },
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -42,6 +42,14 @@
     {
       "class": "group",
       "id": "12525B26-FA94-4A81-9FEB-29388BA05416"
+    },
+    {
+      "class": "group",
+      "id": "E9255E2E-7E65-4E94-B3A6-40EBA2E9E7FB"
+    },
+    {
+      "class": "group",
+      "id": "1D129D54-B35B-42AD-AA57-20079E398188"
     }
   ],
   "name": "Stacked Group Copy 6",

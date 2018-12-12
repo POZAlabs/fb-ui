@@ -17,20 +17,22 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Bold",
-              "size": 14
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 46,
+        "length": 48,
         "location": 0
       }
     ],
-    "string": "Christmas Happy Jazz Live Radio - Relaxing ..."
+    "string": "Christmas Happy Jazz Live Radio - Relaxing Music"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2D6E9291-B6B1-4DF0-BE11-0D6F80FE36AC",
-    "height": 34,
+    "height": 44,
     "width": 284,
-    "x": 1060,
-    "y": 496
+    "x": 1061,
+    "y": 503
   },
-  "glyphBounds": "{{0, 2}, {145, 30}}",
+  "glyphBounds": "{{0, 3}, {244, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +72,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6B959FB0-07E2-40D0-9DC3-DF338433769A",
+  "sharedStyleID": "F1AF0867-B0FD-4701-902E-DD84DA0C8CD9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -80,7 +82,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "500B9007-D90E-4813-8220-DB2DD5879CB3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,12 +94,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Bold",
-            "size": 14
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },

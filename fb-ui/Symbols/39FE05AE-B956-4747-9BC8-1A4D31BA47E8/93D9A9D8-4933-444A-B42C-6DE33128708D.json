@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.72,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "592F07B3-5DD7-48FA-972E-7DFC93F51E99",
-    "height": 16,
-    "width": 16,
-    "x": 4,
-    "y": 4
+    "height": 14,
+    "width": 14,
+    "x": 5,
+    "y": 5
   },
-  "glyphBounds": "{{1, -1}, {14, 15}}",
+  "glyphBounds": "{{0, -1}, {14, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,10 +66,10 @@
   "lineSpacingBehaviour": 2,
   "name": "Settings - simple-line-icons",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "932B2302-81EC-494E-96FC-1746D6F75B32",
+  "sharedStyleID": "9C4A6016-27F1-4F0D-B6AB-55BE31880650",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +82,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.72,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -99,15 +99,15 @@
           "alignment": 2
         }
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

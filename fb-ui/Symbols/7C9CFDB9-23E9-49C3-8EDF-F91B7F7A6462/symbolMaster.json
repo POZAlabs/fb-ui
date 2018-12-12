@@ -2,14 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 0.2,
-    "do_objectID": "D29407ED-A29E-45B5-8866-1DEB4C5967DA",
-    "green": 0.2,
-    "red": 0.2
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1996,
+  "changeIdentifier": 2161,
   "clippingMaskMode": 0,
   "do_objectID": "7C9CFDB9-23E9-49C3-8EDF-F91B7F7A6462",
   "exportOptions": {
@@ -29,7 +28,7 @@
     "height": 145,
     "width": 416,
     "x": 7427,
-    "y": 3172
+    "y": 3132
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -50,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -89,7 +88,7 @@
       "id": "BCE06DCC-7FD1-45F4-BE91-F059408E724A"
     }
   ],
-  "name": "list/__music",
+  "name": "list/__item/__music",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

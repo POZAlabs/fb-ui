@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "2018.09.23 14:22에 마지막 수정 됨"
+    "string": "Sub-title/__1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "DADF91B1-0863-48BC-8654-E9C25AE81BF2",
     "height": 17,
-    "width": 199,
+    "width": 71,
     "x": 24,
     "y": 100
   },
-  "glyphBounds": "{{0, 1}, {197, 14}}",
+  "glyphBounds": "{{0, 2}, {70, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,11 +65,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2018.09.23 14:22에 마지",
+  "name": "Sub-title/__1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2735FE37-84C1-4FA8-B784-5001F71DAE89",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FE1CB7E1-D5F8-4E69-8CA2-E24C9D783180",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

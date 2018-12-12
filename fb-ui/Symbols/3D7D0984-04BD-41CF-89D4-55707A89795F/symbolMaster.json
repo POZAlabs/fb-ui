@@ -2,13 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 0.2,
-    "green": 0.2,
-    "red": 0.2
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 407,
+  "changeIdentifier": 507,
   "clippingMaskMode": 0,
   "do_objectID": "3D7D0984-04BD-41CF-89D4-55707A89795F",
   "exportOptions": {
@@ -46,14 +46,38 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "70DCC9AA-7F08-4804-8BF0-70BBE9239228"
+      "class": "rectangle",
+      "id": "857E94A9-F068-4367-8C61-5E67D9E1FF40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F91C55FA-8DC0-41B2-8D3C-AF93BC1A965E"
+    },
+    {
+      "class": "text",
+      "id": "50ACCB0B-1F77-40ED-A19E-CB6DAAD75A1E"
+    },
+    {
+      "class": "text",
+      "id": "ACA4A1CB-6349-4755-AA36-3D907A36DAEE"
+    },
+    {
+      "class": "text",
+      "id": "64CA90E8-1884-4A0C-89C4-4A697F5DFC27"
+    },
+    {
+      "class": "text",
+      "id": "C6F4B869-0819-4850-B3C5-073E99F90A78"
+    },
+    {
+      "class": "text",
+      "id": "6AE5611E-6D49-4745-8DEE-D381D156DC73"
     }
   ],
-  "name": "list/__lyrics",
+  "name": "list/__item/__lyrics",
   "nameIsFixed": false,
   "resizesContent": true,
   "resizingConstraint": 63,

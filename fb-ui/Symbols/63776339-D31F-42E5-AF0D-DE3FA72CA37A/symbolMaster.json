@@ -2,13 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 571,
+  "changeIdentifier": 863,
   "clippingMaskMode": 0,
   "do_objectID": "63776339-D31F-42E5-AF0D-DE3FA72CA37A",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "x": 6651,
     "y": 1197
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
