@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "wordBlock"
+    "string": "Block"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "56B13E20-A101-4483-9973-019F83D67F25",
     "height": 39,
-    "width": 159,
+    "width": 83,
     "x": 1865,
     "y": 48
   },
-  "glyphBounds": "{{0, 4}, {159, 24}}",
+  "glyphBounds": "{{2, 4}, {80, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "wordBlock",
+  "name": "Block",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

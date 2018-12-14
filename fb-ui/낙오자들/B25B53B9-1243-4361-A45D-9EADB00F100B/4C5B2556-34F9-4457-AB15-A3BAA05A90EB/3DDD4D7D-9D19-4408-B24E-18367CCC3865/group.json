@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DDD4D7D-9D19-4408-B24E-18367CCC3865",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3EE71036-31AF-498A-A8BD-F4527C036BB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47E156A4-6F27-4F07-89D1-A50BA806DA3A",
+    "height": 25,
+    "width": 290,
+    "x": 0,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "96FD924F-A694-425F-A9BB-72F9D3A5BC63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC79330C-DD18-43EF-8C15-F0A3CA506B57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B6E5829-A0B5-4D88-B8F3-7A6B53B5200A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6E57189-3EA7-43C7-BBF9-E630A071A5B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75431689-054E-4DF2-97E3-E41A84B3231B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5033C2A7-7EC0-4B11-9DAF-7D2230DB8215"
+    }
+  ],
+  "name": "Stacked Group Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5855A8BA-7139-42B4-9ECF-B8B90772BC62",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 4,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
