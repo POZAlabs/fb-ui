@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "690E0636-B243-47E1-8C32-6C48A2DA9A18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "191BCB85-D01E-4F91-BE23-ACCE3885BFF9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E8BA06C-2CAB-40F3-9F94-E99E6920B205",
+    "height": 25,
+    "width": 105,
+    "x": 0,
+    "y": 132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Editor/__Rec/__card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC0D865E-9B0C-4C2B-9FA6-5C26C2ED41C6",
+      "overrideName": "CB0C4998-9C53-49D0-B023-CAE971CFDCF7_stringValue",
+      "value": "기차길에 누워봐"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D8FB47A-4EA5-4CB5-9869-0A8F0D0EF8C2",
+      "overrideName": "CB0C4998-9C53-49D0-B023-CAE971CFDCF7_textStyle",
+      "value": "7A85CCBB-15C0-491F-998E-5B5E50338ACC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6417BA60-EBF2-4C73-8DCF-06491827C1CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B52A62E7-9D4C-4D56-8EFE-CD6E7466B3DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1543478531.315724,
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_dcdac661-54d7-455a-8e97-587e9b0b3c20",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_119d3b4d-6b70-4908-9728-91b4c9f879fa",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

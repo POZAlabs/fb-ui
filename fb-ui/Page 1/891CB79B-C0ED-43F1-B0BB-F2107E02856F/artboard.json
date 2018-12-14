@@ -27,8 +27,8 @@
     "do_objectID": "74B87D2C-9201-4BEE-AB81-89A0FA17AE9D",
     "height": 900,
     "width": 1440,
-    "x": 3208,
-    "y": 1120
+    "x": 5732,
+    "y": 1104
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -65,7 +65,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
-    "do_objectID": "36E34C96-0912-4891-BFB6-18B59D73895D",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 388,
+  "changeIdentifier": 421,
   "clippingMaskMode": 0,
   "do_objectID": "E3DB7245-631C-4017-82A3-6939036E32E1",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -61,21 +61,29 @@
       "id": "D116F179-E533-405B-ABAB-2DBDABF3B065"
     },
     {
-      "class": "text",
-      "id": "B8FD835D-B27F-468E-9DBC-25F7C6FF5A2D"
-    },
-    {
       "class": "symbolInstance",
       "id": "18CC2F41-32B5-408C-9149-10E997094E2B"
     },
     {
       "class": "text",
       "id": "BFA36262-9FB1-4746-8E5E-49B65C97C411"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3C6A8CD-19BF-4529-AC41-B3FF695F59C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE98645E-8699-4A39-B933-9A6639628F6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21C2C47B-246D-4492-83EC-FADC53FC7F0B"
     }
   ],
   "name": "player/__simple",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

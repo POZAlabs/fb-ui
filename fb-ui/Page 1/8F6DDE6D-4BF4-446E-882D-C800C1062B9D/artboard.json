@@ -27,8 +27,8 @@
     "do_objectID": "373EFAD0-DA25-4231-869E-B02884F16A8D",
     "height": 900,
     "width": 1440,
-    "x": 82,
-    "y": 6748
+    "x": 490,
+    "y": 7200
   },
   "grid": {
     "_class": "simpleGrid",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -81,7 +81,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
-    "do_objectID": "F1AF2C5E-1604-4DF2-BD25-4F68CC91D7DF",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -89,7 +88,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280

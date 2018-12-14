@@ -31,6 +31,12 @@
   "name": "background-image",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E1FFD9A-D06A-40FA-A124-4A7A64630856",
+      "overrideName": "72724B10-275E-49C9-8380-50E09E2BBC59_symbolID",
+      "value": "893E55C0-7A12-4A6B-9B0F-931B77317585"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,5 +51,11 @@
     "windingRule": 1
   },
   "symbolID": "C72B6252-E84D-46D0-A904-9C2D4D72A511",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

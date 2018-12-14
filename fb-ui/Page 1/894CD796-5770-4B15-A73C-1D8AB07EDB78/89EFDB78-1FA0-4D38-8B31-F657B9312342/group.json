@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "546473B7-0183-4ABC-BB88-4787BD067B62",
-    "height": 476,
+    "height": 586,
     "width": 416,
     "x": 80,
-    "y": 189
+    "y": 80
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -46,6 +46,14 @@
     {
       "class": "symbolInstance",
       "id": "2A3BF933-1814-4E77-8DA5-A0D51A988DC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "418F6113-FB18-4591-AD4A-61FFB8078C35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B457BB73-6DB2-4726-9B6E-979F02B10E2F"
     }
   ],
   "name": "Stacked Group 2",

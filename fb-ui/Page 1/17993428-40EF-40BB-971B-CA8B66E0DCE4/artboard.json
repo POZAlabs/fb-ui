@@ -27,8 +27,8 @@
     "do_objectID": "39F33E3E-CC37-421D-A7E2-2496C11694EE",
     "height": 900,
     "width": 1440,
-    "x": -2101,
-    "y": 2847
+    "x": 423,
+    "y": 2831
   },
   "grid": {
     "_class": "simpleGrid",
@@ -66,20 +66,12 @@
       "id": "9C9058A4-8674-47D3-A282-EA068553D87D"
     },
     {
-      "class": "group",
-      "id": "B203C2E7-5BAA-43DE-9110-3737A9F4F20C"
-    },
-    {
       "class": "symbolInstance",
       "id": "9BE293A8-4A28-4448-8CA0-0B35F34AA670"
     },
     {
       "class": "symbolInstance",
       "id": "E4698C07-53F1-4A55-994C-93A10FFAA59B"
-    },
-    {
-      "class": "group",
-      "id": "E66915E2-0E85-48F8-AC02-1B26AB3A4D18"
     },
     {
       "class": "rectangle",
@@ -120,12 +112,15 @@
     {
       "class": "symbolInstance",
       "id": "85584FD6-1928-4099-998C-A7F5B0534D18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E48ADB4-4ED2-4F08-8B1D-227264993B55"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
-    "do_objectID": "B3958D94-4A4D-47E5-8534-2983C0D63EFD",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -133,7 +128,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280

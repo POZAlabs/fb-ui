@@ -27,7 +27,7 @@
     "do_objectID": "BC88DF43-176B-4D54-8E2E-9917EE54C39D",
     "height": 900,
     "width": 1440,
-    "x": 8068,
+    "x": 11384,
     "y": 3941
   },
   "grid": {
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -103,65 +103,32 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B7BCA1E0-3988-4FBC-81EA-0B822AA6D30C"
-    },
-    {
-      "class": "symbolInstance",
       "id": "CE0649A9-EB4B-4B9C-9A27-CC8D146CDF43"
     },
     {
-      "class": "text",
-      "id": "02CF87AF-4368-48B9-80DB-63BFD71113F8"
+      "class": "group",
+      "id": "865D153C-67F1-4439-B978-5DB4D10D3EC8"
     },
     {
-      "class": "text",
-      "id": "C02003DF-C2EA-4602-B065-AD39285C334B"
-    },
-    {
-      "class": "text",
-      "id": "C5165AFA-FEE5-48F0-A865-BD52E2BA2E3E"
-    },
-    {
-      "class": "text",
-      "id": "48667211-C71C-43FA-8DCE-388291D48321"
-    },
-    {
-      "class": "text",
-      "id": "46B46F0D-7EA5-4C59-B68A-C7923BC697C3"
-    },
-    {
-      "class": "rectangle",
-      "id": "CDA0169A-88AE-4B68-858A-7C1A8A0F843B"
-    },
-    {
-      "class": "text",
-      "id": "D27EE4D1-4CC5-4847-B91E-D9AD63A1BD2A"
-    },
-    {
-      "class": "text",
-      "id": "A687807B-FBA7-4E75-AA04-154685AFED13"
-    },
-    {
-      "class": "text",
-      "id": "55879820-9311-4EB9-81C7-1CEDADC65D77"
-    },
-    {
-      "class": "text",
-      "id": "B0D3287D-78B6-4BCE-8DEB-4B615A55A0A6"
-    },
-    {
-      "class": "text",
-      "id": "85DF7490-64E5-424A-9CA8-EE0B8F74E535"
+      "class": "symbolInstance",
+      "id": "9FC11AC9-13A4-4AAF-9E8A-5129B95B4845"
     },
     {
       "class": "group",
       "id": "F9083178-E4C3-493A-BF1C-10329326D6DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DCD5B08-9E65-48F6-817E-DFF376685DFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6219F5FD-F041-4192-A84B-E92B91AD9C19"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
-    "do_objectID": "12E276DE-4E58-452F-995B-5D66B74A8198",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,

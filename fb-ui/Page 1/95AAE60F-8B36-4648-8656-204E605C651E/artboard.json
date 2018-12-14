@@ -27,7 +27,7 @@
     "do_objectID": "0A35A79C-7119-41B5-A405-346480D6CB21",
     "height": 900,
     "width": 1440,
-    "x": 15169,
+    "x": 18485,
     "y": 9668
   },
   "grid": {
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -108,12 +108,23 @@
     {
       "class": "text",
       "id": "F0BE70E5-63BE-41AF-8C04-BB11060F97D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F60C15F1-CA52-49A4-B63D-16CAB6E569B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE6FD29C-D4AF-41A9-93F4-6D48590E49A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54EAA6ED-7706-4BCB-BEEF-1922935933EB"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
-    "do_objectID": "42C5CB0D-9492-4B86-9655-7BE570BC98B2",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,

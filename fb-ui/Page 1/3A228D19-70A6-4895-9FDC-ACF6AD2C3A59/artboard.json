@@ -27,8 +27,8 @@
     "do_objectID": "AF83D963-248F-40B1-96BE-78F18D7F94D1",
     "height": 900,
     "width": 1440,
-    "x": 4609,
-    "y": 7770
+    "x": 498,
+    "y": 10686
   },
   "grid": {
     "_class": "simpleGrid",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -74,38 +74,17 @@
       "id": "179C4BF0-FCD2-4846-B76E-ED99AE3D350D"
     },
     {
-      "class": "text",
-      "id": "BA78666C-AF56-4E9C-9C9A-ABC8AF1B5AAE"
-    },
-    {
-      "class": "text",
-      "id": "840D30AF-5853-4374-8AE9-96705B70E5CE"
-    },
-    {
-      "class": "text",
-      "id": "0842AB64-5DF8-42CF-87CC-6E24D9602419"
-    },
-    {
       "class": "symbolInstance",
       "id": "574C6D51-D604-4DE0-88E2-995A36118DCF"
     },
     {
       "class": "symbolInstance",
       "id": "225DBE19-F956-4227-8656-5A5DC6240BED"
-    },
-    {
-      "class": "group",
-      "id": "2797A357-5604-4436-A9A2-983961EE50FB"
-    },
-    {
-      "class": "group",
-      "id": "AC767751-6E33-4A53-9672-5CB2C946229A"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
-    "do_objectID": "733E1B11-0AB8-43C5-AD50-FAC8AB3C1350",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -118,7 +97,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "RN. Copy",
+  "name": "RN.",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

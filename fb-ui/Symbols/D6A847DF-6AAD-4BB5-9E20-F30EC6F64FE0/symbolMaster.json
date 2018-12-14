@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 456,
+  "changeIdentifier": 465,
   "clippingMaskMode": 0,
   "do_objectID": "D6A847DF-6AAD-4BB5-9E20-F30EC6F64FE0",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 1592
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -67,7 +67,7 @@
   ],
   "name": "editor/__result/__header",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

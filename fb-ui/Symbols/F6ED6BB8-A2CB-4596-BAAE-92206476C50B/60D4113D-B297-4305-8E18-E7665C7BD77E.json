@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-LightItalic",
-              "size": 20
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F1732610-E1CE-4147-9CA6-D888D9A8F53F",
-    "height": 24,
-    "width": 76,
-    "x": 93,
-    "y": 12
+    "height": 19,
+    "width": 61,
+    "x": 89,
+    "y": 15
   },
-  "glyphBounds": "{{1, 4}, {74, 16}}",
+  "glyphBounds": "{{1, 3}, {59, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-LightItalic",
-            "size": 20
+            "size": 16
           }
         },
         "paragraphStyle": {
