@@ -2,11 +2,10 @@
   "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "do_objectID": "A93C7C43-E486-4E33-9383-8EC3F86C57CE",
-    "green": 1,
-    "red": 1
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -25,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0744E849-D203-453B-B030-36E797570580",
-    "height": 900,
+    "height": 901,
     "width": 1440,
-    "x": 12871,
-    "y": 8074
+    "x": 11395,
+    "y": 8027
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +46,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -55,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -64,30 +63,6 @@
     {
       "class": "symbolInstance",
       "id": "55C54218-835B-439C-BC6A-E006EB5F673A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1F68888E-E209-462D-9C14-F628F47D6748"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "75C12269-55EF-4629-BD74-FE28999FAF35"
-    },
-    {
-      "class": "group",
-      "id": "FCA5F63E-7EE6-45BB-A8B1-5E891701A548"
-    },
-    {
-      "class": "group",
-      "id": "AA4F4805-1045-494F-8BC7-4FCE66E07574"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "59992E44-567D-4806-8698-F0D4399750C7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "528F8A18-0782-4F70-97DF-B80E87C6AEA4"
     },
     {
       "class": "symbolInstance",
@@ -102,16 +77,12 @@
       "id": "50C0F87C-1499-4DCC-846C-C3B24056BD7F"
     },
     {
-      "class": "symbolInstance",
-      "id": "81B71BD2-CD6B-46E1-B534-9D6DF182E378"
-    },
-    {
       "class": "group",
       "id": "5FA5402A-2489-4180-8097-DC7A64671E44"
     },
     {
       "class": "symbolInstance",
-      "id": "E641DDAE-3278-4440-9D53-9B81ABF88A1D"
+      "id": "792307A0-3866-4803-9C8C-156934199D71"
     }
   ],
   "layout": {
