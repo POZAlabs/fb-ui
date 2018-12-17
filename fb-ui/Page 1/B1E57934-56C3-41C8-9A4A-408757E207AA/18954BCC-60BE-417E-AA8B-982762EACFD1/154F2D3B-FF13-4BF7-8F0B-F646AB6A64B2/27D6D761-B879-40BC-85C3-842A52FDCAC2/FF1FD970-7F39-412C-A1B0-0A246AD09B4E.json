@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "57601F7D-4E9A-480A-980D-7023AD0102C7",
+  "do_objectID": "FF1FD970-7F39-412C-A1B0-0A246AD09B4E",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A5D73F50-F6FF-4296-8A11-B6CDC15352BB",
+    "do_objectID": "7908C25E-6FC5-48F5-838C-56E768373A80",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,14 +14,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0A2B6536-6585-485F-B1E3-EB5F2975C428",
-    "height": 209.0000000000001,
-    "width": 193,
-    "x": 0,
+    "do_objectID": "51D18FF5-35B1-476C-95C5-F9CEA8633531",
+    "height": 48,
+    "width": 71,
+    "x": 79,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -131,7 +131,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "FC5A6389-4731-4683-AAE9-82F59BB46423",
+    "do_objectID": "E7317683-8B3F-4F01-ADB1-60EC7ECF4453",
     "endMarkerType": 0,
     "fills": [
       {
@@ -139,11 +139,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1333333333333333,
-          "green": 0.1333333333333333,
-          "red": 0.1333333333333333
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -175,6 +175,11 @@
           ],
           "to": "{0.5, 1}"
         },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/3d2ae7cf167e36d5bb56d3cdabc55614f97034ca.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -183,28 +188,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 8,
-        "color": {
-          "_class": "color",
-          "alpha": 0.24,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 0
   },
@@ -212,6 +195,10 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "datasupplier.key": "unsplash_dataprovider_SupplyRandomPhoto",
+    "unsplash": {
+      "unsplash.photo.id": "\"l0IPVqjNWNo\""
     }
   }
 }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2789BB50-BB89-4255-B8EF-60B9B0CE3095",
+  "do_objectID": "9336C52E-3BC4-4995-B28E-4061EBB09F3C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "BE5B85BA-85FD-4B72-9A8B-4152FF509B55",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 57,
-    "x": 1093,
-    "y": 403
+    "do_objectID": "28550777-0D95-4F37-A6AB-B528845FC2AF",
+    "height": 40,
+    "width": 193,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,33 +30,42 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/__medium",
+  "name": "input/__dropdown/__item",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2DF07055-1FF3-433A-B22D-EA6DF54553D8",
-      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
-      "value": "확인"
+      "overrideName": "701D1732-340E-4139-9438-AC52F9A19F42_stringValue",
+      "value": "간단히 보기"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4C95596E-7B41-44DA-88A0-64D92DA8F269_symbolID",
+      "value": "70C32A0B-D98E-4A35-A597-B0F777B1D29B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2B659E1-FFB8-43C9-BE51-200ED4BF8BDC_stringValue",
+      "value": " "
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "ACDBB9C3-13D9-45C5-8836-FA0502AC8616",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
+  "symbolID": "206179FB-6057-4C8C-9008-7EDC41928C1B",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1544553155.823782
       }
     }
   },

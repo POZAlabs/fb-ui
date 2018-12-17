@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "69D528AD-81A6-43B6-8759-08434DC013F9",
+  "do_objectID": "01F69D52-52C0-42EA-9E39-93EBC7448E48",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "45C801DD-B594-47BB-8B8A-737184781ADF",
+    "do_objectID": "B7EEF4CC-D2D0-4F4E-9B30-4730170A1AA9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E9FA3FD6-C959-4B56-AFCA-2B33549EE551",
-    "height": 80,
-    "width": 193,
+    "do_objectID": "1A2BE797-54CB-4C5F-A0EB-43E34C0D2BB0",
+    "height": 48,
+    "width": 150,
     "x": 0,
-    "y": 117
+    "y": 56
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,18 +29,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "B2B8EFF5-16D0-418F-9CFE-40A0F141694D"
+      "class": "rectangle",
+      "id": "E794DE01-26E3-446D-8CED-02C047975B95"
     },
     {
-      "class": "symbolInstance",
-      "id": "DE51A9ED-47DA-4FF2-8D22-0E6EE0F78271"
+      "class": "rectangle",
+      "id": "9D435D56-8A14-4886-8B4D-7B0079F254A4"
     }
   ],
-  "name": "Stacked Group",
+  "name": "Stacked Group 4 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,7 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A2580074-A0A9-4CE3-AE13-A86BB4230D50",
+    "do_objectID": "96408415-2474-49A7-B542-864F5FF47762",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -60,8 +60,8 @@
         "align": 0,
         "isCollapsing": 1,
         "resizesContainer": 1,
-        "spacing": 0,
-        "stackType": 0
+        "spacing": 8,
+        "stackType": 1
       },
       "kViewTypeKey": "ADModelStackView"
     }

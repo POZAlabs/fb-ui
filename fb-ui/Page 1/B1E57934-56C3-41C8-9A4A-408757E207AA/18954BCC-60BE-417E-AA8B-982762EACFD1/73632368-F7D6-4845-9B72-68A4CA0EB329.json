@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.56,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Heavy",
-              "size": 32
+              "name": "AppleSDGothicNeo-Bold",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Heading/__1"
+    "string": "힙스터"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A65CC992-DAA9-47C1-80DA-CCE5FBD6A5FD",
+  "do_objectID": "73632368-F7D6-4845-9B72-68A4CA0EB329",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1AA2C405-FDCC-4F92-A092-FF9D79BB7F4C",
+    "do_objectID": "E809B80A-3E2F-4E1B-BC1C-0F8CD06ACBCF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BDE4BD36-35B3-4459-9461-5A62770D4C4F",
-    "height": 39,
-    "width": 547,
-    "x": 24,
-    "y": 24
+    "do_objectID": "74D76DBD-87D3-4723-AFAD-4E95D342E562",
+    "height": 17,
+    "width": 37,
+    "x": 17,
+    "y": 112
   },
-  "glyphBounds": "{{2, 4}, {167, 29}}",
+  "glyphBounds": "{{0, 1}, {35, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,25 +65,26 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Heading/__1",
+  "name": "힙스터 copy",
   "nameIsFixed": false,
-  "resizingConstraint": 10,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6AFFE99D-D2F7-4B82-B605-29784872FEF7",
+  "sharedStyleID": "73F6E17B-FF80-40B0-9AE2-0995DABF33BD",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "95DC1D71-C05B-4C26-8DFF-9C4C08098214",
+    "do_objectID": "CD1E6F2E-65A5-4320-9E38-41F43E24E81C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "7BAE70FA-DCA0-4966-B299-E09BD32DA002",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.56,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -91,8 +92,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Heavy",
-            "size": 32
+            "name": "AppleSDGothicNeo-Bold",
+            "size": 14
           }
         },
         "paragraphStyle": {
@@ -105,11 +106,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

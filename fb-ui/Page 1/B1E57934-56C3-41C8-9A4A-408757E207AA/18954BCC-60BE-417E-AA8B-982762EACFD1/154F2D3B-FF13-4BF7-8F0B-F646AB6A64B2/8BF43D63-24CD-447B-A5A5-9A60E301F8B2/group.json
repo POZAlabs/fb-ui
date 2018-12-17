@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "69D528AD-81A6-43B6-8759-08434DC013F9",
+  "do_objectID": "8BF43D63-24CD-447B-A5A5-9A60E301F8B2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "45C801DD-B594-47BB-8B8A-737184781ADF",
+    "do_objectID": "3C557DC4-3AD2-4902-A162-7AF973D7328B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E9FA3FD6-C959-4B56-AFCA-2B33549EE551",
-    "height": 80,
-    "width": 193,
+    "do_objectID": "7612FA44-2066-472E-B725-2D4BCEA0E378",
+    "height": 48,
+    "width": 229,
     "x": 0,
-    "y": 117
+    "y": 112
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,18 +29,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "B2B8EFF5-16D0-418F-9CFE-40A0F141694D"
+      "class": "rectangle",
+      "id": "23EEA465-AA46-4338-9FB4-BF72EA2E3ECF"
     },
     {
-      "class": "symbolInstance",
-      "id": "DE51A9ED-47DA-4FF2-8D22-0E6EE0F78271"
+      "class": "rectangle",
+      "id": "25C1E5EC-D13F-4E43-B6B2-E05C433D9806"
+    },
+    {
+      "class": "rectangle",
+      "id": "6F549EF3-D3DD-4691-9E76-31FB5DA56C10"
     }
   ],
-  "name": "Stacked Group",
+  "name": "Stacked Group 4 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,7 +52,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A2580074-A0A9-4CE3-AE13-A86BB4230D50",
+    "do_objectID": "6112F108-52D1-48B3-B62F-08EE86CB1084",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -60,8 +64,8 @@
         "align": 0,
         "isCollapsing": 1,
         "resizesContainer": 1,
-        "spacing": 0,
-        "stackType": 0
+        "spacing": 8,
+        "stackType": 1
       },
       "kViewTypeKey": "ADModelStackView"
     }

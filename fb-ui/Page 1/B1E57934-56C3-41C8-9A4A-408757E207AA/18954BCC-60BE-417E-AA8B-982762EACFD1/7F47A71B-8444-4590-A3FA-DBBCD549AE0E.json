@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DAF012AF-9ECA-4711-849A-C0B205F921D4",
+  "do_objectID": "7F47A71B-8444-4590-A3FA-DBBCD549AE0E",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "329BCD61-EF8C-4586-A4EF-1BD664625446",
+    "do_objectID": "BDCE79A4-1006-420D-9A91-42069ABB1C05",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B0A2D966-326C-4CCC-8168-7B226536E0B9",
-    "height": 209.0000000000001,
-    "width": 193,
+    "do_objectID": "245D59CE-5883-4AA5-886D-174D2FCEB359",
+    "height": 491,
+    "width": 340,
     "x": 0,
-    "y": -5.684341886080801e-14
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 6",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -81,6 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7C359832-FC8C-45B2-A023-B283BE394096",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -95,12 +96,43 @@
           "red": 0.592
         },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.72,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "18E695BD-03EE-4E33-BC42-58C449B2D39B",
+    "do_objectID": "140E6ACD-F96B-4A66-8F4A-1738DB086FEC",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,11 +140,42 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1742400085034014,
+          "green": 0.1742400085034014,
+          "red": 0.1742400085034014
         },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.72,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -121,6 +184,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.72,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 0
   },
