@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C689A909-1F81-4964-89D2-1ED35469D602",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A47979C-1A6F-4030-B1C6-98CF33A5DB2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49E1DE78-95A3-48C6-8B4A-132465BABCF1",
+    "height": 88,
+    "width": 308,
+    "x": 0,
+    "y": 264
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__item/__player",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F872693A-6555-4EEE-B2ED-4913B7100B26",
+      "overrideName": "433B7DB6-FF02-4932-AB27-E7348D501D44_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b2f8049ebb18b69755d8df9f87a083b47eb4134f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B9ADC6C-7332-4027-8C05-0C4ECEEC8988",
+      "overrideName": "8D930DBB-84BA-44F8-B436-15B0430C3768_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04992b8047bce7234739607bfc52b214ac436684.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D014F94B-4D9C-498A-B1A1-EE46E29090EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8E2CA44-EDE0-40AD-8466-A4243A45682D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

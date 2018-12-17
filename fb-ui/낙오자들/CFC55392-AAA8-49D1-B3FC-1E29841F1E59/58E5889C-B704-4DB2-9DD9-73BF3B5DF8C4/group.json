@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 565,
+    "height": 200,
     "width": 556,
     "x": 496,
     "y": 80
@@ -32,6 +32,10 @@
     {
       "class": "rectangle",
       "id": "3842CD97-ABF0-4D5C-B391-ED581E1A4968"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDFC9CE2-2494-425B-8AF7-3F83B369AC4B"
     },
     {
       "class": "symbolInstance",
@@ -58,8 +62,8 @@
       "id": "CF3E5D60-FABD-4BF5-B023-236064E2A174"
     }
   ],
-  "name": "music/__header",
-  "nameIsFixed": false,
+  "name": "lyrics/__header",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

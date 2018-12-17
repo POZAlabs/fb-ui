@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 88,
+  "changeIdentifier": 107,
   "clippingMaskMode": 0,
   "do_objectID": "60997A80-E06E-4CBC-AA14-98F4C8792B17",
   "exportOptions": {
@@ -49,6 +49,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "05A49C0A-C300-44D9-9221-2F5042029DB8"
+    },
+    {
       "class": "symbolInstance",
       "id": "C14A7D54-1A85-48D5-84F5-6E3D263551E7"
     },
@@ -61,16 +65,12 @@
       "id": "110B2C2B-891A-4B13-91A0-B0013D15889E"
     },
     {
-      "class": "rectangle",
-      "id": "05A49C0A-C300-44D9-9221-2F5042029DB8"
-    },
-    {
       "class": "group",
       "id": "4C100421-1540-48FA-AD30-F41E3113C335"
     }
   ],
-  "name": "editor/__sketcj",
-  "nameIsFixed": false,
+  "name": "LR/__word/__current",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

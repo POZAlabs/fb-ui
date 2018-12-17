@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 457,
   "clippingMaskMode": 0,
   "do_objectID": "B1CFC134-11D0-40DC-8F34-79C01A4FB581",
   "exportOptions": {
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 755,
+    "height": 623,
     "width": 632,
-    "x": 20935,
-    "y": 258
+    "x": 16231,
+    "y": 3046
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,16 +61,12 @@
       "id": "72BCF5E4-8C16-4D36-AA33-A026F359ED06"
     },
     {
-      "class": "symbolInstance",
-      "id": "122640F2-B0DC-45C1-9B60-29FCD239CC7D"
-    },
-    {
       "class": "group",
       "id": "9D3C848C-063C-469E-96F7-375782994AD8"
     }
   ],
-  "name": "music/---p9",
-  "nameIsFixed": false,
+  "name": "WR/__rhymeNote",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 192,
   "clippingMaskMode": 0,
   "do_objectID": "67A92C23-D3DC-47D2-87C0-A04A15F01484",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 755,
-    "width": 634,
-    "x": 18731,
-    "y": 258
+    "height": 623,
+    "width": 632,
+    "x": 14863,
+    "y": 3046
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,10 +63,18 @@
     {
       "class": "group",
       "id": "F9083178-E4C3-493A-BF1C-10329326D6DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FEFC0D2C-524F-49EF-ADA6-924988FA47B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "475D9B0A-7B79-4A3A-8E2B-4EB7057CDFF3"
     }
   ],
-  "name": "editor/__musicPlayer",
-  "nameIsFixed": false,
+  "name": "WR/__playlist",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

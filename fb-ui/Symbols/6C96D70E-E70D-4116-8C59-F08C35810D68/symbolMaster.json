@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 21,
+  "changeIdentifier": 236,
   "clippingMaskMode": 0,
   "do_objectID": "6C96D70E-E70D-4116-8C59-F08C35810D68",
   "exportOptions": {
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 586,
+    "height": 647,
     "width": 416,
-    "x": 14392,
-    "y": 258
+    "x": 14447,
+    "y": 1147
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,10 +51,14 @@
     {
       "class": "group",
       "id": "89EFDB78-1FA0-4D38-8B31-F657B9312342"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A192CD8-2391-4EC5-A844-A2FBBC98296F"
     }
   ],
-  "name": "template/__lyrics/__side",
-  "nameIsFixed": false,
+  "name": "lyrics/__list",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

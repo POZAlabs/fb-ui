@@ -115,6 +115,15 @@
       "kModelPropertiesKey": {
         "isAutoWidth": 1
       }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "city",
+        "icon": "city",
+        "id": "city",
+        "index": 7,
+        "title": "Cities"
+      }
     }
   }
 }

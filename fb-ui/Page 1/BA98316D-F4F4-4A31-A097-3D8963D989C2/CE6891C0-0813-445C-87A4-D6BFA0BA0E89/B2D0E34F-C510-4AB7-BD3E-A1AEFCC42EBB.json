@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2D0E34F-C510-4AB7-BD3E-A1AEFCC42EBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4D9D16D-8D55-452D-8CC0-DB584113F0E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9860B32A-CAE8-4034-B124-D99028D92635",
+    "height": 88,
+    "width": 308,
+    "x": 0,
+    "y": 88
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__item/__player",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F6541DE-72E1-4420-B293-798C5A58F263",
+      "overrideName": "433B7DB6-FF02-4932-AB27-E7348D501D44_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6e1396418980a229c1c7340de14e501d8bc067b2.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2F7AF7C-16F5-4812-9FEA-B50F1E80A770",
+      "overrideName": "8D930DBB-84BA-44F8-B436-15B0430C3768_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e177de39bafaffd6b76c4465abb6f7bed456b8c4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5E457BB-1CB9-49CF-BFB2-56EEBD8704F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8E2CA44-EDE0-40AD-8466-A4243A45682D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

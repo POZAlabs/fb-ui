@@ -22,7 +22,9 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -51,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "21CB55AE-376B-484F-B106-345337F0A7A7",
-    "height": 17,
+    "height": 22,
     "width": 92,
     "x": 76,
     "y": 38
   },
-  "glyphBounds": "{{0, 2}, {92, 11}}",
+  "glyphBounds": "{{0, 4}, {92, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,13 +69,14 @@
   "lineSpacingBehaviour": 2,
   "name": "Jaroslav Brabec Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "2735FE37-84C1-4FA8-B784-5001F71DAE89",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0F2168B7-CDB5-4556-AFEB-4C438399AE31",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -96,7 +99,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },

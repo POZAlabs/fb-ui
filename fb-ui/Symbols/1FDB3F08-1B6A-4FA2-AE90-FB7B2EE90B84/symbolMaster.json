@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 97,
+  "changeIdentifier": 114,
   "clippingMaskMode": 0,
   "do_objectID": "1FDB3F08-1B6A-4FA2-AE90-FB7B2EE90B84",
   "exportOptions": {
@@ -69,8 +69,8 @@
       "id": "49D10F4E-A660-4C22-A1C4-B6DB9514253B"
     }
   ],
-  "name": "editor/__다음단어",
-  "nameIsFixed": false,
+  "name": "LR/__word/__forward",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

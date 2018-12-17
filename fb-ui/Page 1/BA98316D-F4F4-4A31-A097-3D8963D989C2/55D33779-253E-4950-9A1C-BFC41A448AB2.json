@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55D33779-253E-4950-9A1C-BFC41A448AB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1D0FA49-C382-48AE-AE49-5558AA55A7C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8A4A40D-92A1-47EF-AA3F-D4F9CA515DBF",
+    "height": 88,
+    "width": 308,
+    "x": 1052,
+    "y": 263
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__item/__player",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D278858-14AA-427B-96F0-C530D611DFD6",
+      "overrideName": "433B7DB6-FF02-4932-AB27-E7348D501D44_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/981a135d26b5799e2fc6ed713379a431f8e0fc5c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "998AC31B-A9C8-402D-B333-4691C87A40DC",
+      "overrideName": "9DB54462-D70D-4EB4-AF9D-4DD6004CC216_stringValue",
+      "value": "Make Sure Your Ice Is Safe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CAAFE62-9C89-4BE0-9259-1A4066CB593C",
+      "overrideName": "F2A293E8-D7DA-41F6-96CA-A0EAD99F0602_stringValue",
+      "value": "Yes Jammy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA20DFCE-4B6C-4025-A2CB-83B59AC93171",
+      "overrideName": "8D930DBB-84BA-44F8-B436-15B0430C3768_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f0927ab6f822d94bde164fedf26afed3b6a4b170.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F72894A6-4A4A-47E3-A4EB-779530B8A0BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8E2CA44-EDE0-40AD-8466-A4243A45682D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
