@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.24,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -26,20 +26,19 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 6,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Upload"
+    "string": "Word"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92",
+  "do_objectID": "7A1C5A6E-2339-4CD0-AF96-A677DCF17B88",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "549F1C30-4D39-49C7-AF09-EC87155EBA42",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C5B0A806-E03C-4D91-9747-B1E1A6372DD7",
     "height": 19,
-    "width": 49,
+    "width": 37,
     "x": 16,
-    "y": 14
+    "y": 17
   },
-  "glyphBounds": "{{0, 3}, {49, 16}}",
+  "glyphBounds": "{{1, 3}, {36, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,12 +63,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Upload",
+  "name": "Word",
   "nameIsFixed": false,
-  "resizingConstraint": 41,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0AEA155B-C781-4CC8-82CC-66C9B6A6C248",
+  "sharedStyleID": "EAF7A0C5-CFFE-4B9B-B393-23FC98063060",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +80,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.24,
           "blue": 1,
           "green": 1,
           "red": 1

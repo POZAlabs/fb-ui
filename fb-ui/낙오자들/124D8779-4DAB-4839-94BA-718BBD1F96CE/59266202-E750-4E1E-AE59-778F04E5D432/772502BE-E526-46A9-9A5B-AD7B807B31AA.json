@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9A09ED73-5B98-4515-AD7B-852A088B5C7C",
+  "do_objectID": "772502BE-E526-46A9-9A5B-AD7B807B31AA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "77E4FA17-7235-4414-AE7C-5E40F23B705A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AD25F8BB-5E66-4709-982C-06CB8FE2BC9F",
-    "height": 52,
+    "height": 1,
     "width": 632,
-    "x": 80,
-    "y": 142
+    "x": 0,
+    "y": 51
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,21 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "note/__tab",
+  "name": "../divider",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "8D2227A1-4047-4839-8D7B-64D6F4F9ACF0",
-      "overrideName": "513354D3-35E1-4437-A817-17C6D65FC29D_textStyle",
-      "value": "0AEA155B-C781-4CC8-82CC-66C9B6A6C248"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C9F39B4F-3AA9-45FF-88D4-7032B05175A1",
-      "overrideName": "59A3ED9A-CB41-4A52-B063-DAE9C0F8C85E_textStyle",
-      "value": "EAF7A0C5-CFFE-4B9B-B393-23FC98063060"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,13 +39,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D178AA29-2105-4A35-A9C0-6A4E7436CD33",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BAAE51C5-FD3B-4475-9D32-8C830210BC47",
+  "symbolID": "6B7D37D0-8B54-4713-B443-0857280DBBAB",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
