@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "441BDB02-723A-40B1-AD3E-689167076399",
-    "height": 901,
+    "height": 1817,
     "width": 3072,
     "x": 12933,
     "y": 7672
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,6 +60,10 @@
     {
       "class": "rectangle",
       "id": "C747D668-742E-4C7B-8643-451CBF9513FB"
+    },
+    {
+      "class": "rectangle",
+      "id": "81951D7B-0F34-4B88-BAD4-22599AD1072E"
     },
     {
       "class": "rectangle",
@@ -88,6 +92,10 @@
     {
       "class": "symbolInstance",
       "id": "5CC77E93-4B71-48C7-AE3A-CD15D80BAD64"
+    },
+    {
+      "class": "group",
+      "id": "A5159F16-D174-40DB-A7F3-311A44656C80"
     },
     {
       "class": "symbolInstance",

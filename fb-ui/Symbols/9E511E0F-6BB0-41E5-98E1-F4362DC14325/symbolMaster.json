@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 413,
+  "changeIdentifier": 457,
   "clippingMaskMode": 0,
   "do_objectID": "9E511E0F-6BB0-41E5-98E1-F4362DC14325",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 3046
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "610E7E2E-5363-4A3F-A38A-CDADC550E098"
     },
     {
-      "class": "symbolInstance",
-      "id": "1CD4C43C-237B-4CDD-9C16-ED4C42863508"
+      "class": "group",
+      "id": "BC2DE597-7DA7-491C-93A3-BD14E9D0D72B"
     }
   ],
   "name": "WR/__rhymeNote",

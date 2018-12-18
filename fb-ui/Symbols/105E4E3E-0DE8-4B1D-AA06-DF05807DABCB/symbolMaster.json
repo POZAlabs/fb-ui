@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 384,
+  "changeIdentifier": 388,
   "clippingMaskMode": 0,
   "do_objectID": "105E4E3E-0DE8-4B1D-AA06-DF05807DABCB",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 3046
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,10 +61,6 @@
       "id": "53E971B2-64E5-4B41-8B86-B5A4282A82BA"
     },
     {
-      "class": "symbolInstance",
-      "id": "06523472-AAB2-4520-8AD7-23BF7463CB28"
-    },
-    {
       "class": "rectangle",
       "id": "18152F5D-A63F-4A69-B95A-D4B8D86F77D5"
     },
@@ -79,6 +75,10 @@
     {
       "class": "group",
       "id": "8D23C113-732A-4F81-9A9D-D3BCE92F1EF0"
+    },
+    {
+      "class": "group",
+      "id": "B86006BF-B398-48FD-8AF7-1CBA049DB47C"
     }
   ],
   "name": "WR/__playlist",
