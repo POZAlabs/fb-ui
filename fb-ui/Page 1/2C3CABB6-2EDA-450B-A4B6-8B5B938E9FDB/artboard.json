@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -137,8 +137,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "WR.",
-  "nameIsFixed": false,
+  "name": "WR.BG",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -22,26 +22,23 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 237,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "천진난만 청순가련\n새침한 척 이젠 지쳐 나\n귀찮아\n\n매일 뭐 해 어디야 밥은 잘 자\nBaby 자기 여보 보고 싶어\n다 부질없어\nYou got me like\n\n이건 아무 감동 없는\nLove Story\n어떤 설렘도 어떤 의미도\n네겐 미안하지만\nI’m not sorry\n오늘부터 난 난 난\n\n빛이 나는 솔로\n빛이 나는 솔로\nI’m going solo lo lo lo lo lo\nI’m going solo lo lo lo lo lo"
+    "string": "음악 들으면서 작사하기\n추천 기능\n라임 노트"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "778952EE-12F5-432F-9840-DA2E8C263474",
+  "do_objectID": "C1D76BCB-12F3-46B4-80E7-CD6840A7F2D4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A2E15AD4-A962-4A71-BB11-2B0061C6F97A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D447BA86-78CF-40D9-AB58-22EDBBA61810",
-    "height": 537,
-    "width": 275,
-    "x": 24,
-    "y": 16
+    "height": 51,
+    "width": 129,
+    "x": 8906,
+    "y": 5273
   },
-  "glyphBounds": "{{0, 4}, {156, 470}}",
+  "glyphBounds": "{{0, 1}, {127, 47}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,16 +63,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "천진난만 청순가련 새침한 척 이젠 지",
+  "name": "음악 들으면서 작사하기 추천 기능 라",
   "nameIsFixed": false,
-  "resizingConstraint": 18,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "938144DB-2A2B-49E5-BA6B-482D1BB0C81F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "32A7BB83-F477-4E8F-96BA-02E7536D5A7B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -99,9 +93,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -109,11 +101,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }
