@@ -53,7 +53,7 @@
     "do_objectID": "F9B652D3-9DF8-40C1-9995-BC5E615FCC92",
     "height": 15,
     "width": 156,
-    "x": 476,
+    "x": 136,
     "y": 9
   },
   "glyphBounds": "{{0, 1}, {156, 10}}",
@@ -105,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

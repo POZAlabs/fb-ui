@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Regular",
-              "size": 12
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D3B973AF-B0C6-49C7-A614-739B927BAC38",
-    "height": 15,
-    "width": 66,
+    "height": 17,
+    "width": 77,
     "x": 24,
-    "y": 69
+    "y": 70
   },
-  "glyphBounds": "{{0, 1}, {65, 11}}",
+  "glyphBounds": "{{0, 1}, {75, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,6 +74,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D0CDD101-B5CC-44CD-B271-2DDBB7517C40",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -91,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Regular",
-            "size": 12
+            "size": 14
           }
         },
         "paragraphStyle": {
@@ -104,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

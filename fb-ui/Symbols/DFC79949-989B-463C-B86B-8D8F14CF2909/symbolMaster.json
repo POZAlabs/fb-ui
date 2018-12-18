@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 283,
+  "changeIdentifier": 872,
   "clippingMaskMode": 0,
   "do_objectID": "DFC79949-989B-463C-B86B-8D8F14CF2909",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 755,
     "width": 648,
-    "x": 15583,
-    "y": 258
+    "x": 11143,
+    "y": 378
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -66,15 +66,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "860961F8-DAA2-4123-B789-0D59647450BE"
+      "id": "857D075A-8DA4-4AAD-8FB1-1C015EE82F03"
     },
     {
       "class": "symbolInstance",
-      "id": "857D075A-8DA4-4AAD-8FB1-1C015EE82F03"
+      "id": "EC963C70-07AC-4B07-9C31-D6D8B10EF795"
     }
   ],
-  "name": "editor/__354",
-  "nameIsFixed": false,
+  "name": "editor/__LR",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

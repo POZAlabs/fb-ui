@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 644,
+  "changeIdentifier": 1169,
   "clippingMaskMode": 0,
   "do_objectID": "66C5D0C7-66F8-4F3B-A068-E7A06C3B9FDA",
   "exportOptions": {
@@ -27,12 +27,12 @@
     "constrainProportions": false,
     "do_objectID": "9AD77949-A30C-4A99-BBE3-ADB12FABC4F8",
     "height": 48,
-    "width": 433,
-    "x": 7628,
-    "y": 1643
+    "width": 308,
+    "x": 9106,
+    "y": 532
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,25 +65,17 @@
       "id": "27C191C2-5B08-4997-834C-936DC1DFC4FC"
     },
     {
-      "class": "group",
-      "id": "FF2C1F81-C499-4A37-83B1-8EC1F90550C1"
-    },
-    {
       "class": "symbolInstance",
       "id": "F7C367C7-77D3-40A6-9339-CB9B855E1A17"
     },
     {
       "class": "symbolInstance",
       "id": "84193C3E-1704-40E4-800C-9B43797194B2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "02F970DD-B2B6-4E07-8828-51F7684BA9C5"
     }
   ],
-  "name": "tab/__list copy 3",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "tab-bar/--icon",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 59,
+  "changeIdentifier": 82,
   "clippingMaskMode": 0,
   "do_objectID": "C1C73F97-ED3D-4C9D-ABF0-77601503BE7A",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "height": 901,
     "width": 1440,
     "x": 11312,
-    "y": 281
+    "y": 9043
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,8 +55,27 @@
     {
       "class": "rectangle",
       "id": "5A0011FF-6B41-4BAD-97AE-C4B0681D0283"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FF9237C-86AD-495C-A5C8-59D711ACB388"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "background-image",
   "nameIsFixed": false,
   "resizesContent": true,
