@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 20,
+        "length": 25,
         "location": 0
       },
       {
@@ -58,7 +58,7 @@
           "underlineStyle": 1
         },
         "length": 4,
-        "location": 20
+        "location": 25
       },
       {
         "_class": "stringAttribute",
@@ -86,7 +86,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 2,
-        "location": 24
+        "location": 29
       },
       {
         "_class": "stringAttribute",
@@ -115,7 +115,7 @@
           "underlineStyle": 1
         },
         "length": 6,
-        "location": 26
+        "location": 31
       },
       {
         "_class": "stringAttribute",
@@ -143,7 +143,7 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 25,
-        "location": 32
+        "location": 37
       },
       {
         "_class": "stringAttribute",
@@ -172,7 +172,7 @@
           "underlineStyle": 1
         },
         "length": 8,
-        "location": 57
+        "location": 62
       },
       {
         "_class": "stringAttribute",
@@ -200,10 +200,10 @@
           "textStyleVerticalAlignmentKey": 1
         },
         "length": 53,
-        "location": 65
+        "location": 70
       }
     ],
-    "string": "확인 버튼을 누르면 FlowBox의 운영정책과 개인보호정책에 동의하는 것을 의미합니다. 또한 사용자의 쿠키 사용 정책을 포함합니다. 제품의 운영정책과 개인보호정책에 동의를 하지 않아도 되나 회원가입이 불가합니다."
+    "string": "아래 회원가입 버튼을 누르면 FlowBox의 운영정책과 개인보호정책에 동의하는 것을 의미합니다. 또한 사용자의 쿠키 사용 정책을 포함합니다. 제품의 운영정책과 개인보호정책에 동의를 하지 않아도 되나 회원가입이 불가합니다."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -225,9 +225,9 @@
     "height": 96,
     "width": 384,
     "x": 96,
-    "y": 494
+    "y": 864
   },
-  "glyphBounds": "{{0, 4}, {383, 87}}",
+  "glyphBounds": "{{0, 4}, {379, 87}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -236,7 +236,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "확인 버튼을 누르면 FlowBox의",
+  "name": "아래 회원가입 버튼을 누르면 Flow",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

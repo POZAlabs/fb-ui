@@ -13,12 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 138,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 276,
-    "width": 276,
+    "constrainProportions": true,
+    "height": 168,
+    "width": 168,
     "x": 96,
     "y": 196
   },
@@ -37,7 +37,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 138,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 138,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 138,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 138,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -191,6 +191,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 268,
+            "enabled": 1,
+            "modelID": "constraint_4ff78c8e-aeb5-4791-99c6-b1121f374629",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 268
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_219b171a-6389-41e9-81b9-d55d5e268390",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     },
     "datasupplier.key": "Faces"

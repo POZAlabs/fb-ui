@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E930C3C8-457E-44D2-927D-1F072E342043",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F6568DA-1839-4F59-A54B-F4D2222D086C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36F3B45A-6B32-4D60-8054-F078C4E392AA",
+    "height": 70,
+    "width": 384,
+    "x": 96,
+    "y": 478
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/__field copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9622D948-8A78-4B78-9FF6-F8A43E0C1DF2_stringValue",
+      "value": "닉네임"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E91B806-7E79-4D90-B9BE-CBD0689E6C1D",
+      "overrideName": "E41F26AF-20D9-409D-9597-8D173E6F5CC6_stringValue",
+      "value": "비밀번호를 다시 입력해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C9BF250-B288-478B-9AAE-3FB239F36B88",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEDE55A9-4ED1-4BF0-A1AB-0A76799737D9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
