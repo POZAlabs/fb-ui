@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "52308AD5-32CA-4413-9500-D9EFC9DF80D9",
+  "do_objectID": "92DDA70E-80F6-4326-9A1A-FC2BF10D01D9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "31FF8C9F-CA4E-42FE-BE41-785A21DAAA34",
+    "do_objectID": "38AC203A-41D7-4B4F-9246-70C854DCB716",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8E0AC0D6-9517-40B8-B8E8-89D537B2FE81",
-    "height": 24,
-    "width": 24,
-    "x": 478,
-    "y": 0
+    "do_objectID": "E49C8151-7803-4E42-93D5-0A2A6B990FA0",
+    "height": 37,
+    "width": 508,
+    "x": 520,
+    "y": 222
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon/__plane copy 26",
+  "name": "input/__text",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "061120B9-6558-4072-AF62-B884DDED4D01",
+      "overrideName": "01F5E9F4-282B-4660-B239-2AE4335A6FAB_stringValue",
+      "value": "메모"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "975A7F23-EE61-42A8-B8AF-A178DFF6277D",
+      "overrideName": "0A640875-0A90-4777-AEE5-CDD9F12CA98F/86EB332A-2CC1-4FC7-9FAC-D14183C8F752_stringValue",
+      "value": "메모를 입력해주세요"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,13 +53,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D95EFCC6-71FA-462A-8D72-B7C94BDED8FD",
+    "do_objectID": "921553E0-A20C-4691-B616-8211D2413C17",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7E0C19FA-37CF-4343-A7B2-F2B2FB2516EC",
+  "symbolID": "E49FA921-C1DB-4F5D-8CEA-10821FDD1F7C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

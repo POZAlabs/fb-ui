@@ -1,11 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4CBF92B1-983E-4AD0-B6BA-4872DE11B523",
+  "do_objectID": "B5020F91-CC3E-4C86-B56F-195360B69F5A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "150992AD-CC45-4263-93F0-9B970FC72211",
+    "do_objectID": "9BE5BE98-28CF-4CC5-AAED-D81D371D83C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,48 +16,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "94D3B4B0-A71E-4DD3-A07E-89E579A90C68",
+    "do_objectID": "1C8C42EA-9797-4F28-9977-F3E0CDEA6643",
     "height": 33,
-    "width": 507,
-    "x": 521,
-    "y": 328
+    "width": 57,
+    "x": 593,
+    "y": 458
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "button/__medium copy",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "7FEBB3B5-3496-408B-AB43-BAFF6DDE8918"
-    },
-    {
-      "class": "rectangle",
-      "id": "A8FB7FC9-0BEC-45C7-98F1-FBAEACDB6FAD"
+      "_class": "overrideValue",
+      "do_objectID": "1548F9CA-E31F-47B7-AFAC-E5A09E0C14FA",
+      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
+      "value": "취소"
     }
   ],
-  "name": "Group Copy",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0913C81A-D782-4B27-A2A1-541D7DD6A12D",
+    "do_objectID": "1B1E1C93-328D-4F0E-9856-6F84D6F0105B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "size.update": 1545023714.88896
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

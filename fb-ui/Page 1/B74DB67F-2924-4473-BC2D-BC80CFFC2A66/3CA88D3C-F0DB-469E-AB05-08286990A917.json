@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5A0DE1EC-F174-44C1-AE02-CB40392B13F2",
+  "do_objectID": "3CA88D3C-F0DB-469E-AB05-08286990A917",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "853BBA9A-2B66-4D7F-82BA-EDEF26469166",
+    "do_objectID": "F1CECC66-D829-4362-9FDB-3F9854E3DC36",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C63CAFEF-AF11-4E60-9DCF-720B8EF2F917",
+    "do_objectID": "09E08B4F-C876-406A-83EE-59931CE3186F",
     "height": 33,
-    "width": 81,
+    "width": 57,
     "x": 520,
-    "y": 515
+    "y": 458
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "1548F9CA-E31F-47B7-AFAC-E5A09E0C14FA",
       "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
-      "value": "수정하기"
+      "value": "저장"
     }
   ],
   "resizingConstraint": 63,
@@ -47,7 +47,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "63DEDE70-424E-4DBF-B3E8-4E9E8A2FD893",
+    "do_objectID": "6D3098A5-936F-432E-9098-0F4B29A364A5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -57,7 +57,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1544555806.209585
+        "size.update": 1545208727.187446
       }
     }
   },

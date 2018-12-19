@@ -8,10 +8,10 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.7998962998390198,
-            "green": 0.8000451326370239,
-            "red": 0.7999318838119507
+            "alpha": 0.32,
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -22,24 +22,24 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "배경설정"
+    "string": "backgroud1222.jpg"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "57F24C0F-BA48-4404-887E-51E5E315C0D0",
+  "do_objectID": "4C01AD1B-244A-4BFA-9EEE-7DC8B0F5FB88",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4FBF61DB-F3C9-40E2-975A-A83BE227E2D0",
+    "do_objectID": "53E140FC-47AE-460F-BB8D-3A92EC7745A0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B112D16C-68DA-4D2E-ACD5-755439A7BE5D",
+    "do_objectID": "DB35B9D9-AC57-441B-94AC-CBBCF7495FF3",
     "height": 17,
-    "width": 49,
+    "width": 111,
     "x": 0,
-    "y": 53
+    "y": 0
   },
-  "glyphBounds": "{{0, 1}, {47, 13}}",
+  "glyphBounds": "{{1, 2}, {109, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,28 +65,26 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "배경설정",
+  "name": "backgroud1222.jpg",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B9AE8AF5-1AA6-43FC-9057-F2E7432B67B1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BEAA299E-8628-41B0-93DA-2EB8B15E05F7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.7998962998390198,
-          "green": 0.8000451326370239,
-          "red": 0.7999318838119507
+          "alpha": 0.32,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -97,11 +95,11 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
