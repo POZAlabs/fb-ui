@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 690,
+  "changeIdentifier": 701,
   "clippingMaskMode": 0,
   "do_objectID": "9E511E0F-6BB0-41E5-98E1-F4362DC14325",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -50,15 +50,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "5B910E15-B0F6-4742-AAEA-4DA34D04F558"
+      "id": "3689E335-7F89-48AC-9411-BE47D33AD724"
     },
     {
       "class": "symbolInstance",
       "id": "610E7E2E-5363-4A3F-A38A-CDADC550E098"
     },
     {
-      "class": "group",
-      "id": "BC2DE597-7DA7-491C-93A3-BD14E9D0D72B"
+      "class": "symbolInstance",
+      "id": "915EF600-5B3B-4A69-8DF1-FB288D53760F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5343078D-13B8-4E95-9766-5B49B5915EA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "659945D5-0930-4C5D-9082-1668F12DF7D4"
     }
   ],
   "name": "WR/__rhymeNote",

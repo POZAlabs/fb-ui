@@ -26,12 +26,12 @@
     "constrainProportions": false,
     "do_objectID": "62C9BAEF-CF8D-4B37-B8D7-74ACDF91C559",
     "height": 1747,
-    "width": 6389,
+    "width": 4528,
     "x": 4278,
     "y": 2870
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,7 +40,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -101,14 +101,6 @@
     {
       "class": "text",
       "id": "60949FEC-C441-4D87-926F-59F3B8DD425F"
-    },
-    {
-      "class": "text",
-      "id": "114D0ED7-C1C0-4EB8-96D9-68691F50E079"
-    },
-    {
-      "class": "text",
-      "id": "CA62C4AC-BE4C-4278-912E-260A8E37AE99"
     },
     {
       "class": "text",

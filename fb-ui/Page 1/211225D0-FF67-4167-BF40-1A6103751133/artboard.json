@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BC2DB768-9DD3-4E13-BB9E-CD0397F7CFDA",
-    "height": 900,
+    "height": 768,
     "width": 1440,
-    "x": 4678,
-    "y": 6240
+    "x": 4632,
+    "y": 5236
   },
   "grid": {
     "_class": "simpleGrid",
@@ -160,7 +160,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280

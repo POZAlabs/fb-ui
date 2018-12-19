@@ -2,14 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "do_objectID": "4E4F655E-C0C4-408B-A421-FCF72EE631FC",
-    "green": 1,
-    "red": 1
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 645,
+  "changeIdentifier": 658,
   "clippingMaskMode": 0,
   "do_objectID": "0FC3217A-EA0E-446A-988D-84CE9E49855E",
   "exportOptions": {
@@ -31,8 +30,8 @@
     "x": 11827,
     "y": 1274
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,7 +40,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -54,7 +53,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "E35572BF-9325-405A-944B-F0A6C7568455"
+      "id": "943E5110-4A90-4EB1-ADF1-A14630707E9E"
     },
     {
       "class": "symbolInstance",
@@ -65,8 +64,12 @@
       "id": "ED518C7D-49AC-4598-BAE6-775FE104C4E4"
     },
     {
-      "class": "group",
-      "id": "DFE7665B-E9DB-4FDF-844E-0C8955CA4F6A"
+      "class": "symbolInstance",
+      "id": "7803BE53-F69A-4AC0-9512-BE74F2607007"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F171E66B-A477-4569-98C6-98E1188EC3E5"
     }
   ],
   "name": "WR/__playlist Copy 2",

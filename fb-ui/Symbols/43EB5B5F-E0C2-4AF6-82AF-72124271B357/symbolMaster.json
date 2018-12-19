@@ -2,14 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "do_objectID": "DD20A383-2205-43EC-9A14-76B9137BC369",
-    "green": 1,
-    "red": 1
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9109,
+  "changeIdentifier": 9219,
   "clippingMaskMode": 0,
   "do_objectID": "43EB5B5F-E0C2-4AF6-82AF-72124271B357",
   "exportOptions": {
@@ -31,7 +30,7 @@
     "x": 9809,
     "y": 1456
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -41,7 +40,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,

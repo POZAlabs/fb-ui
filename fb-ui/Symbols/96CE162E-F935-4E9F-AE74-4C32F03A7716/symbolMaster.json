@@ -2,14 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "do_objectID": "5CCB2322-FA84-4ABB-BCE8-BE3440AA52F9",
-    "green": 1,
-    "red": 1
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 719,
+  "changeIdentifier": 733,
   "clippingMaskMode": 0,
   "do_objectID": "96CE162E-F935-4E9F-AE74-4C32F03A7716",
   "exportOptions": {
@@ -31,8 +30,8 @@
     "x": 12494,
     "y": 1274
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,7 +40,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -54,19 +53,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "426B4082-D0CF-408C-9280-E2D35E7DBE89"
+      "id": "F2BA85DA-D9B6-45AC-A17A-CF866A5942F0"
     },
     {
       "class": "symbolInstance",
       "id": "726563BF-1E39-4F11-AFDE-37CB27A9FB06"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "320FAE73-C0D2-4759-BBC8-BA3801418164"
-    },
-    {
-      "class": "group",
-      "id": "4052BCAC-3B76-49DB-9B10-42BC013C7FA1"
     },
     {
       "class": "rectangle",
@@ -83,6 +74,18 @@
     {
       "class": "group",
       "id": "84DBFB37-FF95-42A3-B16B-B1A70CE664AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "795BFBC8-F167-415B-8388-FC7837B60BA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03B43B85-EF96-4905-94A2-FBC47C25F43A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6F67BFF-478E-4A3B-ABF8-7C957C9F526A"
     }
   ],
   "name": "WR/__playlist Copy 3",

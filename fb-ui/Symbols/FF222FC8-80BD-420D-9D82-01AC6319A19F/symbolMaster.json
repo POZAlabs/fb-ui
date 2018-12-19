@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 204,
+  "changeIdentifier": 662,
   "clippingMaskMode": 0,
   "do_objectID": "FF222FC8-80BD-420D-9D82-01AC6319A19F",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 579,
     "width": 308,
-    "x": 14730,
-    "y": 4062
+    "x": 10912,
+    "y": 2461
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -37,7 +37,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -49,24 +49,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E0AD56D0-8B17-47D4-A092-3FC7E08E1BFD"
-    },
-    {
-      "class": "rectangle",
-      "id": "3AFB3F88-0140-4FBF-857A-323BA4D6C6BF"
-    },
-    {
-      "class": "group",
-      "id": "B9077DEC-9D72-4365-8F57-E31A718D27CD"
-    },
-    {
       "class": "symbolInstance",
-      "id": "A3ED96A5-37A3-439E-A229-EFF20DC14E85"
+      "id": "80D84627-F431-4502-BCD4-D790951FFDFD"
     },
     {
       "class": "symbolInstance",
       "id": "8ADA6327-8ED8-479F-9C2D-09966887E494"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3ED96A5-37A3-439E-A229-EFF20DC14E85"
     }
   ],
   "name": "lyrics/__detail/__music",

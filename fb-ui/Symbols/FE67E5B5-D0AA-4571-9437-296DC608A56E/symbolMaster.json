@@ -2,13 +2,13 @@
   "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 251,
+  "changeIdentifier": 598,
   "clippingMaskMode": 0,
   "do_objectID": "FE67E5B5-D0AA-4571-9437-296DC608A56E",
   "exportOptions": {
@@ -25,10 +25,10 @@
     "constrainProportions": false,
     "height": 98,
     "width": 340,
-    "x": 7096,
-    "y": 1934
+    "x": 12278,
+    "y": 348
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -37,7 +37,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -53,16 +53,16 @@
       "id": "047E9AF3-174F-47B7-9053-9D49A3DA2666"
     },
     {
+      "class": "symbolInstance",
+      "id": "8EC56E7A-D290-4BCF-876E-395F8B466873"
+    },
+    {
       "class": "text",
       "id": "1501EAFB-569A-4BF1-867C-F4B4C81BB132"
     },
     {
-      "class": "group",
-      "id": "2341701A-DDC0-4831-82D4-DBCE8FEFF38A"
-    },
-    {
       "class": "symbolInstance",
-      "id": "8EC56E7A-D290-4BCF-876E-395F8B466873"
+      "id": "90CDA5C0-82F7-4702-894B-E1FD1C4E9E88"
     }
   ],
   "name": "dropdown/__list/__header",

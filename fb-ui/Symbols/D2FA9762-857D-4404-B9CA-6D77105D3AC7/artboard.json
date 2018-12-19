@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2384,
+    "height": 4924,
     "width": 6566,
     "x": 8861,
-    "y": 258
+    "y": -307
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AB56ECD-E58F-46E9-81AA-EA0DE01127D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 139,
+    "width": 556,
+    "x": 496,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "207E1A61-4B91-4DBB-8C89-E401EE9E5A14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3D76EA4-E916-4760-BD98-F9D89D94E3E6"
+    },
+    {
+      "class": "text",
+      "id": "947297D5-2B57-4DF1-BA68-003570A0C2BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A4E411D-41B4-4654-A8C4-6DF5212C62DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B9E9E17-A9F0-4D5F-BCE7-497B1C16E605"
+    },
+    {
+      "class": "text",
+      "id": "16524EC9-F5D6-4C7F-9BE3-7BC73542BF91"
+    },
+    {
+      "class": "text",
+      "id": "F55373A3-B269-47BF-9976-366F3A565479"
+    }
+  ],
+  "name": "music/__header",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
