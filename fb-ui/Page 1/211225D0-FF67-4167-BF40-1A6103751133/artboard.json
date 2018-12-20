@@ -27,8 +27,8 @@
     "do_objectID": "BC2DB768-9DD3-4E13-BB9E-CD0397F7CFDA",
     "height": 768,
     "width": 1440,
-    "x": 4632,
-    "y": 5236
+    "x": 7320,
+    "y": 4662
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -67,23 +67,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "5C12E9DA-7297-42A2-AC8F-D4ED166DAFBC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A4AA830C-2DF2-436F-9A2A-209CB69D71C0"
-    },
-    {
-      "class": "symbolInstance",
       "id": "8BE969F5-A1D2-4492-9C40-66EF1F3E6F85"
-    },
-    {
-      "class": "group",
-      "id": "C78F0C9F-0E2A-487C-B55C-59C97B6159D9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8AB77F8C-5B3F-48FD-95DE-134782611619"
     },
     {
       "class": "symbolInstance",
@@ -104,6 +88,14 @@
     {
       "class": "rectangle",
       "id": "A8091D48-FBBE-477A-B2E7-8AD1308A9FFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E938B45E-355D-42DE-A1B7-0983F38B0C1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8C52B13-7663-46DC-823C-BC2EE4FA7448"
     },
     {
       "class": "text",
@@ -148,6 +140,10 @@
     {
       "class": "symbolInstance",
       "id": "7086AE58-D44B-4266-9FD1-6F9165386D2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49F3A28D-BEF1-46D9-8800-FCC294E094E5"
     }
   ],
   "layout": {

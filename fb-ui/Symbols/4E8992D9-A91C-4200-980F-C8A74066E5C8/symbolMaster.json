@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 506,
+  "changeIdentifier": 510,
   "clippingMaskMode": 0,
   "do_objectID": "4E8992D9-A91C-4200-980F-C8A74066E5C8",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 2236
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,10 @@
     {
       "class": "text",
       "id": "9BCA657F-F672-497B-B7CC-FB68C7A02BC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85DA0D75-1449-4987-AC6C-78A0B4677203"
     }
   ],
   "name": "simple/__header",

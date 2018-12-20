@@ -27,8 +27,8 @@
     "do_objectID": "5C8A843B-E5B2-4C7D-A8EE-62D39F70D5F5",
     "height": 768,
     "width": 1440,
-    "x": 3136,
-    "y": 4410
+    "x": 5824,
+    "y": 3836
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,10 +64,6 @@
     {
       "class": "symbolInstance",
       "id": "45ECE45D-D765-46AD-8570-34BC560FB2EF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BF376C64-38D3-4695-B355-E2C71952BE19"
     },
     {
       "class": "symbolInstance",

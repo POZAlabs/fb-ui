@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 668,
+  "changeIdentifier": 673,
   "clippingMaskMode": 0,
   "do_objectID": "F6ED6BB8-A2CB-4596-BAAE-92206476C50B",
   "exportOptions": {
@@ -31,7 +31,7 @@
     "y": 2849
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,8 +72,8 @@
       "id": "8F4E4F29-C74E-43C8-98F3-BDB42D3E3C9A"
     }
   ],
-  "name": "tab/__list copy",
-  "nameIsFixed": false,
+  "name": "../__tab-bar/--text--white",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

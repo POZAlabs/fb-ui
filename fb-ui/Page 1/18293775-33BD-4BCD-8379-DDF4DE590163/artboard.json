@@ -27,8 +27,8 @@
     "do_objectID": "0CBF862C-99C0-4E09-95A4-54517043C89D",
     "height": 900,
     "width": 1440,
-    "x": 17353,
-    "y": 7681
+    "x": 25962,
+    "y": 10104
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,31 +63,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D87D298E-594B-492E-9BB4-3D1F92384CE9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "61972D3B-7D78-480B-9831-E094F14C2ADD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8EE21B40-FE2E-4ABD-AC10-74CAD5E9E484"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "88EB7049-95A3-4E79-9DB6-848AD80A911E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "910799FD-28C1-4024-BDEC-F396C1F77C67"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "21F0A38D-438C-4FD9-89DD-9C5A92AF3E08"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4E978451-8A7A-4CA3-82D3-BA39C9F92E15"
+      "id": "FE6E7153-0A53-4AC2-BED9-22C02350A517"
     }
   ],
   "layout": {
@@ -100,7 +76,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
