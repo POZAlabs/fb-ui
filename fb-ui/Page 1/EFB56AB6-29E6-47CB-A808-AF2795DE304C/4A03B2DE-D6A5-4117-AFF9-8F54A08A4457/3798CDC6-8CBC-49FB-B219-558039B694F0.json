@@ -17,31 +17,31 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Bold",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "이메일"
+    "string": "내용"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1CD29854-F080-486C-9CC9-39EC39429B1F",
+  "do_objectID": "3798CDC6-8CBC-49FB-B219-558039B694F0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "28F8AE1F-721B-476E-A290-783E98FA1993",
+    "do_objectID": "3B74AE68-9DCD-468C-9490-7750C691A3D7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0C5EEDA2-CECF-4644-BD74-B75959690621",
-    "height": 22,
-    "width": 42,
+    "do_objectID": "15B97143-CDD2-4FF4-ABD8-52239AE7634B",
+    "height": 18,
+    "width": 25,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {41, 15}}",
+  "glyphBounds": "{{0, 1}, {24, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,22 +67,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Heading/__4",
+  "name": "내용",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F1AF0867-B0FD-4701-902E-DD84DA0C8CD9",
+  "sharedStyleID": "6B959FB0-07E2-40D0-9DC3-DF338433769A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F0F8C6E5-7BD2-43E6-93FF-EB7709665561",
+    "do_objectID": "0C2C6770-4696-42D1-91A2-8CF4228BE0AE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "20564E22-1052-4272-BAD4-9ADF71C0509D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,14 +94,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Bold",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
         "textStyleVerticalAlignmentKey": 0
       },

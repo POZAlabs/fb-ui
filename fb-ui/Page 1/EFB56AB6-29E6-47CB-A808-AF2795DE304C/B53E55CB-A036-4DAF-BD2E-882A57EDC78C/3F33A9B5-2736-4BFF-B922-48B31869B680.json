@@ -17,14 +17,16 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Bold",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
-          "textStyleVerticalAlignmentKey": 1
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 3,
         "location": 0
@@ -51,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "02F7D67F-C6F8-4D65-A839-FC3AB1042C74",
-    "height": 19,
-    "width": 42,
-    "x": 0,
+    "height": 18,
+    "width": 37,
+    "x": 8,
     "y": 0
   },
-  "glyphBounds": "{{0, 1}, {41, 15}}",
+  "glyphBounds": "{{0, 1}, {36, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,16 +72,15 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6B959FB0-07E2-40D0-9DC3-DF338433769A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E3C007D1-D807-4722-B8D7-1DF68242EF66",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5C01F229-7F52-43B8-95F0-1F0F171C03E9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,16 +93,18 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Bold",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
