@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4033,
+  "changeIdentifier": 4093,
   "clippingMaskMode": 0,
   "do_objectID": "5503441F-CC40-4F79-AC31-1118759BC274",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 695,
     "width": 632,
-    "x": 11826,
-    "y": 4454
+    "x": 13194,
+    "y": 2987
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -111,6 +111,10 @@
     {
       "class": "symbolInstance",
       "id": "3A9A3C05-606F-43F8-A7A1-B35F0A581BD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75D75EE6-FBA9-498C-97FD-F7F3170CEB66"
     }
   ],
   "name": "rhyme-note/--read/__phrase",

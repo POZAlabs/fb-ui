@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "전체선택취소"
+    "string": "전체선택"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "C3909C03-1B70-44E0-B887-DBB092C7C76F",
     "height": 17,
-    "width": 73,
-    "x": 85,
+    "width": 49,
+    "x": 93,
     "y": 16
   },
-  "glyphBounds": "{{0, 1}, {73, 13}}",
+  "glyphBounds": "{{0, 1}, {48, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "전체선택취소",
+  "name": "전체선택",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

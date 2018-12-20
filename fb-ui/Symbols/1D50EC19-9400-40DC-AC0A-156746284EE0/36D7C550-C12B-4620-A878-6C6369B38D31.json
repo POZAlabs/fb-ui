@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Regular",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "261B8D22-DB5E-433C-B6D7-17FAE07C1C08",
-    "height": 19,
-    "width": 264,
+    "height": 17,
+    "width": 231,
     "x": 16,
     "y": 15
   },
-  "glyphBounds": "{{0, 1}, {263, 15}}",
+  "glyphBounds": "{{0, 1}, {230, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FADA5337-DDCB-4819-BC26-C0C842B5D79D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Regular",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {

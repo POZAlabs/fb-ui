@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6B811657-1B64-4670-9280-096984034C09",
-    "height": 49,
+    "height": 48,
     "width": 632,
     "x": 0,
     "y": 51
@@ -35,15 +35,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A7222149-561F-4593-9197-41554EF01DF1",
-      "overrideName": "3D791576-1E54-4A47-9060-F40EAE534799_stringValue",
-      "value": "유튜브 검색어를 입력해주세요"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "9B64733E-C05A-438D-B1D9-890DE02F8312",
       "overrideName": "A95F0AED-0561-4D83-B006-C10F0CCE13AB_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "431C683D-55F9-45E7-9A29-C5CACB58E7EB",
+      "overrideName": "897794DF-21C0-43C9-9F5F-C3B5C59C488B_stringValue",
+      "value": "유튜브 검색어를 입력해주세요"
     }
   ],
   "resizingConstraint": 63,
@@ -59,7 +59,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "01A03BBD-8CE3-46D6-A680-61CB9426DC44",
+  "symbolID": "7AF4870D-7398-46A4-A9D8-DED220869CAA",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

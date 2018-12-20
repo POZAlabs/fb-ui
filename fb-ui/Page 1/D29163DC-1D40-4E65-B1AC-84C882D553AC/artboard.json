@@ -27,8 +27,8 @@
     "do_objectID": "4E16A024-C011-41EA-831D-1FCAAF68B75E",
     "height": 1572,
     "width": 1440,
-    "x": 12841,
-    "y": 9926
+    "x": 11389,
+    "y": 9918
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -178,6 +178,10 @@
       "id": "DF52047B-1158-44A6-813D-03AF6BF4F557"
     },
     {
+      "class": "symbolInstance",
+      "id": "A60E42F4-4A71-487B-81BD-B3AA050AFCF0"
+    },
+    {
       "class": "text",
       "id": "85DD147A-DE94-47A9-8782-C8CB3BD1A151"
     },
@@ -188,10 +192,6 @@
     {
       "class": "group",
       "id": "E138AFEE-1A7C-435E-B8D0-38C7BC9046A5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F580C8F6-902D-40F6-9066-DC907B7E3115"
     },
     {
       "class": "text",
@@ -213,8 +213,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "UM.",
-  "nameIsFixed": false,
+  "name": "UM. SIGN UP",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

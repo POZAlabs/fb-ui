@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 415,
+  "changeIdentifier": 435,
   "clippingMaskMode": 0,
   "do_objectID": "6C24CAEF-A10E-42E6-A1AB-447972F1B7C1",
   "exportOptions": {
@@ -46,12 +46,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "C7D067F0-02EA-40C8-94C6-ADCCDA6ECDB2"
-    },
     {
       "class": "group",
       "id": "B565F84C-ECF9-4E16-92E1-01CF9C4E0CFC"
@@ -59,6 +55,10 @@
     {
       "class": "symbolInstance",
       "id": "2AF37960-7080-4821-84E0-184259EFEA8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "026A3822-0BD2-478C-812B-B5035B0B25B0"
     }
   ],
   "name": "music/__detail/__lyrics",

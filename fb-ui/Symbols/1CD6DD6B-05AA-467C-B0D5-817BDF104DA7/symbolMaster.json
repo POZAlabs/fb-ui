@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 589,
+  "changeIdentifier": 892,
   "clippingMaskMode": 0,
   "do_objectID": "1CD6DD6B-05AA-467C-B0D5-817BDF104DA7",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 632,
-    "x": 13206,
-    "y": 2555
+    "x": 13194,
+    "y": 2613
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -65,8 +65,8 @@
       "id": "47C84808-C652-4D73-ADCF-829FF432C3E8"
     },
     {
-      "class": "group",
-      "id": "C3E8C0C7-DF53-444D-80C4-DFED02D2FB6B"
+      "class": "symbolInstance",
+      "id": "E94CB509-5B81-42D5-A882-A48313216C3C"
     },
     {
       "class": "text",
@@ -75,6 +75,14 @@
     {
       "class": "text",
       "id": "67C4B5CC-120F-49A8-867C-B8DBA42ED636"
+    },
+    {
+      "class": "text",
+      "id": "7694A2F9-79F8-42FC-8010-084872C2D286"
+    },
+    {
+      "class": "text",
+      "id": "A1E2E50D-B8C1-4F1D-8D01-BFADB70D4033"
     }
   ],
   "name": "note/__add",

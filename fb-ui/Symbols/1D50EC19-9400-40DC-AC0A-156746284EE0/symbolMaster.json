@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 465,
+  "changeIdentifier": 598,
   "clippingMaskMode": 0,
   "do_objectID": "1D50EC19-9400-40DC-AC0A-156746284EE0",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "C0C9E4D0-32A5-4461-B409-E01230FE4012",
     "height": 48,
     "width": 632,
-    "x": 13211,
-    "y": 2957
+    "x": 13194,
+    "y": 2669
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -69,16 +69,20 @@
       "id": "FAEEA2E6-BA3D-4CCF-A767-DA850000FC44"
     },
     {
-      "class": "group",
-      "id": "659B2ADF-F6F8-4910-8AA5-F11C6B7B1CCB"
+      "class": "symbolInstance",
+      "id": "602D3B18-32CA-4171-A443-752D6A34FCA0"
     },
     {
       "class": "symbolInstance",
       "id": "7017B227-A901-4A01-9B7F-EBC48EBE51ED"
+    },
+    {
+      "class": "text",
+      "id": "8B053FD2-8B25-434C-B998-EFFCDBD47CC1"
     }
   ],
-  "name": "note/__tag copy",
-  "nameIsFixed": false,
+  "name": "note/__tag",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

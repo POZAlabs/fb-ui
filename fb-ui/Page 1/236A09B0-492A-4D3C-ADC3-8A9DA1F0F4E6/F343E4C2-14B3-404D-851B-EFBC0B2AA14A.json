@@ -33,6 +33,18 @@
   "name": "editor/__player Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4412288E-79B5-4982-A4FF-03BA44F187B2",
+      "overrideName": "2581F249-C9B1-488C-9770-7D86CD87C667_stringValue",
+      "value": "재생 중인 노래가 없습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36E71B02-DBB7-47F8-AE12-BAF296A68E2B",
+      "overrideName": "DED26E37-181F-4E42-83B1-56516ACE9905_stringValue",
+      "value": "또는 샘플 음악으로 시작해보기"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

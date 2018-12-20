@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2941176470588235,
-            "green": 0.1686274509803922,
-            "red": 0.9137254901960784
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "Roboto-Black",
               "size": 16
             }
           },
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 7,
+    "width": 8,
     "x": 144,
     "y": 199
   },
-  "glyphBounds": "{{0, 3}, {7, 8}}",
+  "glyphBounds": "{{0, 3}, {8, 8}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,14 +80,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2941176470588235,
-          "green": 0.1686274509803922,
-          "red": 0.9137254901960784
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "Roboto-Black",
             "size": 16
           }
         },

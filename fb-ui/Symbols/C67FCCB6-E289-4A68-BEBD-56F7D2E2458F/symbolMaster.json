@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 198,
+  "changeIdentifier": 264,
   "clippingMaskMode": 0,
   "do_objectID": "C67FCCB6-E289-4A68-BEBD-56F7D2E2458F",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 695,
     "width": 632,
-    "x": 12490,
-    "y": 4454
+    "x": 13858,
+    "y": 2987
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -71,6 +71,10 @@
     {
       "class": "group",
       "id": "5C657489-BDF2-4C58-BED1-B7F8018C1EB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2937C52-F15D-4FEC-B3ED-B678BC815C84"
     }
   ],
   "name": "rhyme-note/--update-delete",

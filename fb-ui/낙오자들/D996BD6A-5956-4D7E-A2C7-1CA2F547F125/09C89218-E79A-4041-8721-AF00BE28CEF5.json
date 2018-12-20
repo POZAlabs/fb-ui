@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09C89218-E79A-4041-8721-AF00BE28CEF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5608946-BEB4-4643-9B09-91E457574509",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "232B6B46-691F-4DDE-9042-385A2259D54D",
+    "height": 33,
+    "width": 81,
+    "x": 716,
+    "y": 621
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/__medium",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DF07055-1FF3-433A-B22D-EA6DF54553D8",
+      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
+      "value": "회원탈퇴"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E105268A-1ADE-4674-8BEE-D3C37C572DAD",
+      "overrideName": "AE516B02-52E6-4001-812A-E676DC17B0C3_layerStyle",
+      "value": "4DA5011E-6877-406F-86DF-ADEA17022128"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA713179-D9A0-4E74-A44B-A6E53EA0ED7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1544553155.820185
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

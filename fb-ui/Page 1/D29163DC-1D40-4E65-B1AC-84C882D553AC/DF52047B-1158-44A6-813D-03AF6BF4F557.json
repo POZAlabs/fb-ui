@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9D33CA78-2B5B-48B8-AF4E-AF0F0FA6BBC3",
-    "height": 33,
-    "width": 308,
-    "x": 573,
-    "y": 1232
+    "height": 49,
+    "width": 332,
+    "x": 557,
+    "y": 1228
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,9 +35,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "502AFD02-E1AF-44FF-8EDE-159729FF76D7",
-      "overrideName": "CC2A078E-AD94-4FE1-AC70-CEFBEF356BAC_stringValue",
+      "do_objectID": "4B5F780C-F95A-413F-AFD4-1528E89F5B99",
+      "overrideName": "AAC9D766-F498-4DFC-B15B-724B7EAB1B80_stringValue",
       "value": "내용을 직접 입력해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34E4392D-1B56-40F5-A3BF-DA123D9FCCF1",
+      "overrideName": "AF329844-8924-47E1-8A33-052600794125_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -53,7 +59,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "67B2171C-6E66-44EC-8093-41030D7C12F9",
+  "symbolID": "A20B47AB-A05F-452B-B2F9-4C24366495F4",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

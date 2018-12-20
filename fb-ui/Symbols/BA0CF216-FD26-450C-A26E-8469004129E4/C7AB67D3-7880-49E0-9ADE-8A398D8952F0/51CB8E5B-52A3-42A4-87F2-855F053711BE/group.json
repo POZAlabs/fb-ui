@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
+    "height": 80,
     "width": 193,
     "x": 0,
     "y": 117
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -36,10 +36,6 @@
     {
       "class": "symbolInstance",
       "id": "0089D89F-F030-4B92-8DB6-370586917C7A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "454054BD-46C4-45CE-BC47-F00376AFC477"
     }
   ],
   "name": "Stacked Group",

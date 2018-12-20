@@ -27,8 +27,8 @@
     "do_objectID": "F3583BA0-C001-4B5A-ACAF-624A7CC94375",
     "height": 900,
     "width": 1440,
-    "x": 15815,
-    "y": 11536
+    "x": 12906,
+    "y": 12871
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -83,7 +83,7 @@
     },
     {
       "class": "group",
-      "id": "DE9D41A8-DE94-4052-9DB2-ACFBCC7A8104"
+      "id": "5480821A-EDCC-45BE-8BF7-8F30493EB1C7"
     }
   ],
   "layout": {
@@ -101,7 +101,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "UM.",
+  "name": "UM. TERMS",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
