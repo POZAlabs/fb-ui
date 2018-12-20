@@ -8,32 +8,6 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.5450980392156861,
-            "green": 0.7411764705882353,
-            "red": 0.1372549019607843
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "AppleSDGothicNeo-Bold",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 1,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
             "alpha": 0.72,
             "blue": 1,
             "green": 1,
@@ -52,8 +26,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
-        "location": 1
+        "length": 7,
+        "location": 0
       }
     ],
     "string": "1개 선택 중"
@@ -78,7 +52,7 @@
     "constrainProportions": false,
     "do_objectID": "FE0A6BD5-EBDB-474F-9A41-1A61C10A228B",
     "height": 17,
-    "width": 62,
+    "width": 61,
     "x": 16,
     "y": 16
   },
@@ -109,15 +83,15 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.5450980392156861,
-          "green": 0.7411764705882353,
-          "red": 0.1372549019607843
+          "alpha": 0.72,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Bold",
+            "name": "AppleSDGothicNeo-Regular",
             "size": 14
           }
         },

@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 161,
+  "changeIdentifier": 4033,
   "clippingMaskMode": 0,
   "do_objectID": "5503441F-CC40-4F79-AC31-1118759BC274",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 4454
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,8 +69,48 @@
       "id": "6E14625D-662B-4E6F-A14A-5652F739A447"
     },
     {
+      "class": "rectangle",
+      "id": "C50BC926-870F-4013-942B-D260E7C071BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BA48F75-756E-4DFF-BCB1-1519F039B5E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57CB1BD6-697A-4D86-AD93-799127896E99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD7D551D-0DAD-4244-BA0A-4541D4A2906E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21E59663-BB81-4D88-8309-9AC0B5C835C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9875E29-EACA-447A-8C25-EF64783BE2D5"
+    },
+    {
+      "class": "text",
+      "id": "E756A2D6-FD9A-487D-88E0-B76B262D21F5"
+    },
+    {
+      "class": "text",
+      "id": "02925761-F2B3-4490-809A-D7639AF066B6"
+    },
+    {
       "class": "group",
-      "id": "DF3181BD-8307-4D3A-BC1B-7FD853BB0AD5"
+      "id": "576A9023-AF45-492C-B358-73BA62651890"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE5D5616-81A9-49C0-A704-FBF6038FA05B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A9A3C05-606F-43F8-A7A1-B35F0A581BD0"
     }
   ],
   "name": "rhyme-note/--read/__phrase",
