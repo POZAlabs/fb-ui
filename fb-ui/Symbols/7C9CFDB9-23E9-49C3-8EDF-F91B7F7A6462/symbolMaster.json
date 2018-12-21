@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2293,
+  "changeIdentifier": 2440,
   "clippingMaskMode": 0,
   "do_objectID": "7C9CFDB9-23E9-49C3-8EDF-F91B7F7A6462",
   "exportOptions": {
@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C6F95D63-B461-4578-B5D4-BEF3CCA3012B",
-    "height": 145,
+    "height": 120,
     "width": 416,
-    "x": 9393,
-    "y": 3265
+    "x": 10055,
+    "y": 1992
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -82,10 +82,6 @@
     {
       "class": "symbolInstance",
       "id": "37B832D8-4946-4A4A-A265-886CBD9D239A"
-    },
-    {
-      "class": "text",
-      "id": "BCE06DCC-7FD1-45F4-BE91-F059408E724A"
     }
   ],
   "name": "list/__item/__music",

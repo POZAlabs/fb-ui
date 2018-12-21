@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AD8C3547-B6DF-4730-B2B5-854CBC10979B",
-    "height": 141,
-    "width": 105,
-    "x": 12,
-    "y": 61
+    "height": 200,
+    "width": 183,
+    "x": 0,
+    "y": 57
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -72,7 +72,7 @@
         "align": 2,
         "isCollapsing": 1,
         "resizesContainer": 1,
-        "spacing": 14,
+        "spacing": 0,
         "stackType": 0
       },
       "kViewTypeKey": "ADModelStackView"

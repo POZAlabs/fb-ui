@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E72C73D9-08F7-4D51-BB83-02FF637B82BB",
-    "height": 17,
-    "width": 105,
+    "height": 40,
+    "width": 183,
     "x": 0,
-    "y": 31
+    "y": 40
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,6 +31,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "5AC8D187-4C00-4B46-8A87-989F3E70F06D"
+    },
     {
       "class": "text",
       "id": "56B39680-09D0-4C98-AEB2-1FA7C883B7FD"

@@ -19,7 +19,7 @@
     "do_objectID": "EC1F9E8D-3D48-4A77-AADA-4ECF3B89FCF9",
     "height": 24,
     "width": 24,
-    "x": 96,
+    "x": 120,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,8 +33,14 @@
   "name": "icon/__plane copy 33",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0128C6B-D674-4989-8ECC-D251FB571A5A",
+      "overrideName": "5E995BDA-FFF3-47D6-8884-3387F789B623_layerStyle",
+      "value": "97CDA05D-45DA-4433-8828-B585DE29B354"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

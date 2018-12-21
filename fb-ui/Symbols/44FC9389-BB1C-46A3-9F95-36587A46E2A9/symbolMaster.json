@@ -8,7 +8,7 @@
     "red": 0.268999787414966
   },
   "booleanOperation": -1,
-  "changeIdentifier": 269,
+  "changeIdentifier": 274,
   "clippingMaskMode": 0,
   "do_objectID": "44FC9389-BB1C-46A3-9F95-36587A46E2A9",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 3143
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,7 +63,7 @@
   ],
   "name": "input/__field",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
