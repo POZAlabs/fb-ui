@@ -1,0 +1,124 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2001A9CA-60EC-4F82-ABEE-383133DFFBD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AD18B25-0278-44EE-84F5-EA7AEEBBA315",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8838C2A8-AB0D-41BC-A594-E64D350D7F7C",
+    "height": 7.970000000000002,
+    "width": 7.870000000000001,
+    "x": 12.39999999999964,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C27CF41A-40E4-4463-AA37-CF99A4ECF8DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "9860CBDD-3743-4C0D-8BD1-F2195C073BF0"
+    }
+  ],
+  "name": "31",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E6EA1A1-7C2C-4532-BB13-69DD4E978D9F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "1947D55D-D4BE-4BBA-9603-1A7B2DB09D62",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "YuKyo-Bold",
+            "size": 10
+          }
+        },
+        "kerning": -2,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 7.97,
+            "enabled": 1,
+            "modelID": "constraint_2862349e-80b6-4b78-af4b-48e295e0c972",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 7.87
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1611b571-f2e1-43f1-8e07-4043f4da6171",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}
