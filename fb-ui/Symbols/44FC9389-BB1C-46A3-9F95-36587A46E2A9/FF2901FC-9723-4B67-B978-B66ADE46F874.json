@@ -131,12 +131,6 @@
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "0FC6F54E-9936-4B8C-8765-03A7E797FBE4",
-      "opacity": 0.2561151413690476
-    },
     "do_objectID": "6D1CD57D-98B9-4332-AB16-C0CE65F8821D",
     "endMarkerType": 0,
     "fills": [
@@ -144,7 +138,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.08,
           "blue": 1,
           "green": 1,
           "red": 1
