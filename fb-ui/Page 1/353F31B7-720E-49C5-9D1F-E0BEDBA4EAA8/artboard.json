@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "14E6F96B-16EA-4284-9E58-02853F06CFB7",
+    "do_objectID": "10ADD70B-95C8-48C1-8441-988FDC7087BB",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EFB56AB6-29E6-47CB-A808-AF2795DE304C",
+  "do_objectID": "353F31B7-720E-49C5-9D1F-E0BEDBA4EAA8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3C9AC159-769F-4B0E-976D-828ADECDEC2D",
+    "do_objectID": "E7B9551D-5398-4EAC-990F-4A14FF5141B5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "358F0C17-9839-4C61-8E85-3EE89094D618",
-    "height": 900,
+    "do_objectID": "B351CA20-35A1-4D83-8EE4-4338716B6ABC",
+    "height": 779,
     "width": 1440,
-    "x": 16416,
-    "y": 15049
+    "x": 14751,
+    "y": 1655
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "F5D63379-D855-4D89-B87D-7C95AFE7E93E",
+    "do_objectID": "40EAFC3F-B92B-45A9-AAD8-6E9AD08654B3",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
@@ -43,7 +43,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "52A7D87D-80F2-4BE0-96DD-08CCECD8503F",
+    "do_objectID": "93D5D856-5641-4B52-9D9F-496644E04C82",
     "guides": [
     ]
   },
@@ -59,40 +59,29 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "251643B4-8A29-4F7E-A549-38E2D87BDA38"
+      "id": "8F339205-D7DC-411B-9FA8-387392E53961"
     },
     {
       "class": "symbolInstance",
-      "id": "C2F52CF5-C9EC-40BB-8D48-5A0892EA5820"
+      "id": "6C6E7F5C-4B39-4536-929E-78142BE35470"
     },
     {
       "class": "symbolInstance",
-      "id": "896F4C45-81F5-4B28-8227-5B53AD30A175"
-    },
-    {
-      "class": "rectangle",
-      "id": "52959D3E-C70E-4A05-9C51-A6AD6A3D6A1E"
-    },
-    {
-      "class": "text",
-      "id": "9DDE9420-0706-4DA4-B061-1F84A8363802"
-    },
-    {
-      "class": "group",
-      "id": "4A03B2DE-D6A5-4117-AFF9-8F54A08A4457"
+      "id": "0DFCCD6B-194E-4CC7-AE98-04CD246C07FA"
     },
     {
       "class": "symbolInstance",
-      "id": "F2856A19-DCF9-4989-AFE5-DF72BFC65C91"
+      "id": "01ECD94C-E538-4222-B918-C64F1AE07498"
     },
     {
       "class": "symbolInstance",
-      "id": "1AF98C58-12DD-4217-840C-C7D7391954F8"
+      "id": "7D6608AA-28CC-436D-BE22-14BB1F021F0A"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 92,
+    "do_objectID": "7210B734-1C77-4932-B2FD-EB6091417774",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -105,8 +94,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "UM.",
-  "nameIsFixed": false,
+  "name": "WR.Playlist Copy",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
@@ -121,7 +110,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "588F540A-4C46-446B-A2DA-075FAAA0A08C",
+    "do_objectID": "EC147EB1-3D97-47E0-A4F7-9828F6371455",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -137,7 +126,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "45504C74-A03E-42DD-95FF-EBD398F4AAB4",
+    "do_objectID": "2D3C805F-C61C-4195-9912-CCB2717BB5F6",
     "guides": [
     ]
   }

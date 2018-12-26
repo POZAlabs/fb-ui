@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7291932397959183,
-            "green": 0.5289677045861673,
-            "red": 0.1835786563493473
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -22,24 +22,23 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "텍스트순"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "782A26DA-721A-4342-96BC-7C70A34BFEA7",
+  "do_objectID": "9939B687-D19E-45B6-B88E-16CA88CDCCC0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C8D13F46-9626-434D-BBF6-BE13F77AD8EF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8348FD71-2D5F-4812-A1C6-5B5C6BC5D913",
     "height": 17,
-    "width": 95,
-    "x": 232,
-    "y": 608
+    "width": 49,
+    "x": 56,
+    "y": 15
   },
-  "glyphBounds": "{{0, 2}, {95, 13}}",
+  "glyphBounds": "{{1, 1}, {48, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,29 +63,27 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Type something Copy 3",
+  "name": "텍스트순",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E11355F9-C3A9-4CDA-BE0C-799685331CAF",
+  "sharedStyleID": "A1AD6D6B-3BBF-4DBA-A5AE-9CE9E24B7E75",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6CC00232-472D-4280-B7D9-2D199E8C4A01",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D70CECA0-B43E-405B-80DD-A07231DCEEAC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7291932397959183,
-          "green": 0.5289677045861673,
-          "red": 0.1835786563493473
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -98,7 +94,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -106,11 +102,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }
