@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 733,
+  "changeIdentifier": 751,
   "clippingMaskMode": 0,
   "do_objectID": "B1CFC134-11D0-40DC-8F34-79C01A4FB581",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -51,10 +51,6 @@
     {
       "class": "symbolInstance",
       "id": "6B05CDDD-7290-4137-8160-5FB69062B1E8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "547A95C6-5A17-4518-A748-486233359D53"
     },
     {
       "class": "group",
@@ -74,7 +70,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "01708899-5768-41CA-82C5-AC14F7442A09"
+      "id": "3D8863DD-074A-457A-BF93-B8EC169FCC42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6174098F-1A17-4CEA-9677-F432529E2E3E"
     }
   ],
   "name": "WR/__rhymeNote",

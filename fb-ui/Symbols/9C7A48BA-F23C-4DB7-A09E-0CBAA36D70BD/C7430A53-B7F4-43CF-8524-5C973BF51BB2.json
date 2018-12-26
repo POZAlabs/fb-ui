@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Bold",
+              "name": "Roboto-Bold",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 5,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "00:59"
+    "string": "00:59.12"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A50B7998-84F7-4858-9FD8-CC84AA2D0D37",
-    "height": 17,
-    "width": 38,
+    "height": 16,
+    "width": 57,
     "x": 98,
     "y": 95
   },
-  "glyphBounds": "{{0, 2}, {37, 11}}",
+  "glyphBounds": "{{0, 2}, {56, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "00:59",
+  "name": "00:59.12",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Bold",
+            "name": "Roboto-Bold",
             "size": 14
           }
         },

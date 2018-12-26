@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1593,
+  "changeIdentifier": 2264,
   "clippingMaskMode": 0,
   "do_objectID": "9C7A48BA-F23C-4DB7-A09E-0CBAA36D70BD",
   "exportOptions": {
@@ -40,7 +40,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -64,18 +64,6 @@
       "id": "7D3F2391-4218-4800-BD05-299FD92AD23C"
     },
     {
-      "class": "rectangle",
-      "id": "61EE5412-7809-4A3D-8FAC-4B125D005666"
-    },
-    {
-      "class": "rectangle",
-      "id": "C0F54A95-5CBF-458C-8D8B-55B0A338CFED"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3ECBDE9C-D0AA-4A08-9DA4-5722CC0CFD4D"
-    },
-    {
       "class": "text",
       "id": "F5889F6C-074C-4C19-8263-236C15A6FF14"
     },
@@ -92,6 +80,10 @@
       "id": "EEFB1AF5-A33A-4983-96E1-41BDB120AB67"
     },
     {
+      "class": "symbolInstance",
+      "id": "294A694C-9B7A-44A9-BC0E-9A98AA3AE256"
+    },
+    {
       "class": "text",
       "id": "C7430A53-B7F4-43CF-8524-5C973BF51BB2"
     },
@@ -101,7 +93,7 @@
     },
     {
       "class": "group",
-      "id": "89F417AD-1A39-415F-AFBD-D19208A916CF"
+      "id": "515EAB49-D8E1-4F60-B8AB-AAB03427221F"
     }
   ],
   "name": "editor/__player copy",

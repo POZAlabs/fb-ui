@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1296,
+  "changeIdentifier": 1302,
   "clippingMaskMode": 0,
   "do_objectID": "C67FCCB6-E289-4A68-BEBD-56F7D2E2458F",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -62,10 +62,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "0BDC246E-C99B-4DE1-A5C4-0A46C3DE6FE6"
-    },
-    {
-      "class": "symbolInstance",
       "id": "179C4BF0-FCD2-4846-B76E-ED99AE3D350D"
     },
     {
@@ -74,7 +70,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D2937C52-F15D-4FEC-B3ED-B678BC815C84"
+      "id": "DCE1433C-81F4-489A-A5C2-415DA4829A68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA54DEB8-ABFD-4B5E-8645-91E26A3CF1A3"
     }
   ],
   "name": "rhyme-note/--update-delete",
