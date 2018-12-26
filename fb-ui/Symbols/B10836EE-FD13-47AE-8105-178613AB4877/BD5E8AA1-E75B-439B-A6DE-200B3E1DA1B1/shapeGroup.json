@@ -47,9 +47,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "97CDA05D-45DA-4433-8828-B585DE29B354",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A97EE4CC-2ECF-42D5-A426-5AE2CB3F8C5E",
     "endMarkerType": 0,
     "fills": [
       {
@@ -62,37 +64,6 @@
           "red": 1
         },
         "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 0.72,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -102,26 +73,6 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "simple-line-icons",
-            "size": 20
-          }
-        }
-      },
-      "verticalAlignment": 0
-    },
     "windingRule": 1
   },
   "userInfo": {

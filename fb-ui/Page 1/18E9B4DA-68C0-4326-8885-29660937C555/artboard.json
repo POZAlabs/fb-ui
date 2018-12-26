@@ -26,9 +26,9 @@
     "constrainProportions": false,
     "do_objectID": "EB70299B-26C2-414B-9C04-DAB9B435A7C3",
     "height": 768,
-    "width": 1440,
-    "x": 5824,
-    "y": 4662
+    "width": 1862,
+    "x": 5386,
+    "y": 4668
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,6 +57,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "DA5AD484-0A56-4913-A2C6-375177FB75D7"
+    },
     {
       "class": "symbolInstance",
       "id": "B3BB39E3-8DD6-4847-9CDA-3CF96AE5F953"
@@ -79,6 +83,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "04F8D485-3C6A-48C9-BB1E-52C51BB3DB43"
+    },
+    {
+      "class": "symbolInstance",
       "id": "A07E9FF3-5EF0-4657-9A56-9908A4460441"
     },
     {
@@ -96,6 +104,10 @@
     {
       "class": "symbolInstance",
       "id": "B8AED556-A804-4A5A-B783-8D1CCECD17FD"
+    },
+    {
+      "class": "group",
+      "id": "3333B09D-49A9-4E9B-AD46-E7A69D213A8F"
     }
   ],
   "layout": {

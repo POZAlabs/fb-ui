@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E66F4205-2939-4A73-8E6E-24B52E5A7F6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "558D3CE6-4A01-465E-8A82-9569D5961679",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "374A4CEF-9A88-443D-A872-E7FB1D0D5041",
+    "height": 76,
+    "width": 340,
+    "x": 0,
+    "y": 51
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "editor/__recommend/__tab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1BFB480-91E3-44E1-83C1-B61BFAAB4A2F",
+      "overrideName": "DA84B73F-3C7A-491D-9E08-2674C15FB26A/BD5A6E76-6B12-4738-9F9C-6D1ABDA34B9D_stringValue",
+      "value": "라임"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12941A73-0A94-4E4D-BA0D-C470D85D5EEB",
+      "overrideName": "DA84B73F-3C7A-491D-9E08-2674C15FB26A/F8EF5F61-6788-4EA4-BF4F-47BF75393C97_stringValue",
+      "value": "현재단어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A030C05-6D4A-4A4F-9A1A-6CB0D88E5865",
+      "overrideName": "DA84B73F-3C7A-491D-9E08-2674C15FB26A/73960B1D-BC8F-423B-89BE-6D35A65372CC_stringValue",
+      "value": "다음단어"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE75DCBD-BCD0-4BF4-AC2D-DBE8FE131202",
+      "overrideName": "DA84B73F-3C7A-491D-9E08-2674C15FB26A/BD5A6E76-6B12-4738-9F9C-6D1ABDA34B9D_textStyle",
+      "value": "C9330D6D-5FF8-4E4D-A320-862191C284EA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "706567DD-92F3-4511-B953-599970A6A63D",
+      "overrideName": "4A8300C7-88BF-4C0D-8DBA-8B69D4AF42BE_stringValue",
+      "value": "선택한 단어 다음에 올만한 단어를 추천합니다."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "554C7572-1003-4B9E-A00E-13CC137AE36F",
+      "overrideName": "DA84B73F-3C7A-491D-9E08-2674C15FB26A/73960B1D-BC8F-423B-89BE-6D35A65372CC_textStyle",
+      "value": "140BE520-1744-41F6-9CA0-BF76D2912AE1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AA8E56E-6BF2-46A2-A88C-58C72C17A39A",
+      "overrideName": "DA84B73F-3C7A-491D-9E08-2674C15FB26A/81470B1C-24BC-4D90-B753-DDA545ADF244_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F0EBA47-B88F-4FCE-944D-E64CE444CB03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C94D36A8-27A6-48D4-9580-D2BF20A6E7A0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
