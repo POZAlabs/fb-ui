@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-LightItalic",
+              "name": "AppleSDGothicNeo-Light",
               "size": 16
             }
           },
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "C5B0A806-E03C-4D91-9747-B1E1A6372DD7",
     "height": 19,
-    "width": 49,
+    "width": 47,
     "x": 16,
-    "y": 14
+    "y": 15
   },
-  "glyphBounds": "{{0, 3}, {49, 16}}",
+  "glyphBounds": "{{1, 1}, {45, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-LightItalic",
+            "name": "AppleSDGothicNeo-Light",
             "size": 16
           }
         },

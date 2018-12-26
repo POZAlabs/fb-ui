@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Words"
+    "string": "단어"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "BD7F9105-5B34-41AC-8F69-F36B8EC9BC55",
     "height": 22,
-    "width": 46,
+    "width": 28,
     "x": 24,
     "y": 134
   },
-  "glyphBounds": "{{0, 3}, {46, 13}}",
+  "glyphBounds": "{{0, 3}, {27, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Words",
+  "name": "단어",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

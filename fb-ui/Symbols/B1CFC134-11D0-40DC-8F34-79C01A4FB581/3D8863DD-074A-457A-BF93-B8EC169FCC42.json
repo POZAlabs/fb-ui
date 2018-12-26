@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0BDC246E-C99B-4DE1-A5C4-0A46C3DE6FE6",
+  "do_objectID": "3D8863DD-074A-457A-BF93-B8EC169FCC42",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F758E572-607B-4D47-8215-44ABE1B7AE0C",
+    "do_objectID": "D22ADD7B-3D44-43A4-BAD0-59599C0FA294",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6CD675DC-2AD9-4474-B6A2-247A3D675091",
+    "do_objectID": "002935D8-C90F-44E3-83DA-275D5180102C",
     "height": 48,
     "width": 632,
     "x": 0,
-    "y": 62
+    "y": 51
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,13 +37,13 @@
       "_class": "overrideValue",
       "do_objectID": "5607F5E5-E10F-4E14-A764-E55EA79A309C",
       "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_stringValue",
-      "value": "Word"
+      "value": "단어"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "35FEDB35-2E89-4EAE-8776-049F6F612AAE",
       "overrideName": "60D4113D-B297-4305-8E18-E7665C7BD77E_stringValue",
-      "value": "Phrase & Sentences"
+      "value": "구 & 문장"
     },
     {
       "_class": "overrideValue",
@@ -71,7 +71,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "57958F0B-0998-4F76-AF11-53BB042B2E37",
+    "do_objectID": "A27C44E7-0E51-44DE-A149-89C0E03110CA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

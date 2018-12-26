@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "EAF7A0C5-CFFE-4B9B-B393-23FC98063060",
-  "name": "tab/__1/--placeholder",
+  "do_objectID": "BAC05AF4-9628-4667-B06B-E8BAD4853F37",
+  "name": "anchor/--primary/--left",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -12,25 +12,25 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.24,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 1,
+          "blue": 0.5450980392156861,
+          "green": 0.7411764705882353,
+          "red": 0.1372549019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Light",
-            "size": 16
+            "name": "AppleSDGothicNeo-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
         },
-        "textStyleVerticalAlignmentKey": 1
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   }

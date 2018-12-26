@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "547A95C6-5A17-4518-A748-486233359D53",
+  "do_objectID": "DCE1433C-81F4-489A-A5C2-415DA4829A68",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCBB5F6B-4809-4104-A8FB-CBAAE60DA550",
+    "do_objectID": "2B14FBC7-3C80-4570-A7A1-08E1BBEE87F6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AF83E89E-600F-4384-A40F-40D8A0295307",
+    "do_objectID": "1F3EA4D9-2329-4267-9E02-A890E1916E6C",
     "height": 48,
     "width": 632,
     "x": 0,
-    "y": 51
+    "y": 62
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,38 +30,38 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tab/__list copy",
+  "name": "../__tab-bar/--text--white",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "88C431BE-E96B-4BE2-B291-13A500C2A1C0",
-      "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_textStyle",
-      "value": "EAF7A0C5-CFFE-4B9B-B393-23FC98063060"
+      "do_objectID": "5607F5E5-E10F-4E14-A764-E55EA79A309C",
+      "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_stringValue",
+      "value": "단어"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B487C4D1-2550-4848-866E-8D5BA7062F64",
-      "overrideName": "60D4113D-B297-4305-8E18-E7665C7BD77E_textStyle",
-      "value": "0AEA155B-C781-4CC8-82CC-66C9B6A6C248"
+      "do_objectID": "35FEDB35-2E89-4EAE-8776-049F6F612AAE",
+      "overrideName": "60D4113D-B297-4305-8E18-E7665C7BD77E_stringValue",
+      "value": "구 & 문장"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0431D998-B406-4BF9-B6C7-CDE720ED0E5A",
+      "do_objectID": "5241C444-28E1-4713-8C07-A76ED1B4950D",
       "overrideName": "8F4E4F29-C74E-43C8-98F3-BDB42D3E3C9A_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E1AD07B4-7C90-4DAD-8FB7-6C25D2C93E23",
-      "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_stringValue",
-      "value": "Words"
+      "do_objectID": "08466E53-35DE-4368-81D9-DB408CFEEB39",
+      "overrideName": "60D4113D-B297-4305-8E18-E7665C7BD77E_textStyle",
+      "value": "0AEA155B-C781-4CC8-82CC-66C9B6A6C248"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "AEA704F3-BC25-47AA-AD4A-203F315EE831",
-      "overrideName": "60D4113D-B297-4305-8E18-E7665C7BD77E_stringValue",
-      "value": "Phrase & Sentences"
+      "do_objectID": "8A78F5D3-E8F3-4466-B3C2-6418FC0C9C3B",
+      "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_textStyle",
+      "value": "EAF7A0C5-CFFE-4B9B-B393-23FC98063060"
     }
   ],
   "resizingConstraint": 63,
@@ -71,7 +71,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "37D85379-C24D-4B92-92D7-807D48818962",
+    "do_objectID": "D8604DF0-DF99-4F78-802B-A7EB1A91BAD1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

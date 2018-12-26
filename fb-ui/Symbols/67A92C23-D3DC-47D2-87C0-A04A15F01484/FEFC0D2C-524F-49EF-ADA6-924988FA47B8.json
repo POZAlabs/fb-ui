@@ -38,6 +38,18 @@
       "do_objectID": "90B72AE8-E73D-4CD5-869F-51018B55AE45",
       "overrideName": "8F4E4F29-C74E-43C8-98F3-BDB42D3E3C9A_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A0401BE-8D7D-402F-BE48-1F7E45535EE1",
+      "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_stringValue",
+      "value": "내음악"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A47C729-0AF6-45C6-B88D-2AFEB134F726",
+      "overrideName": "60D4113D-B297-4305-8E18-E7665C7BD77E_stringValue",
+      "value": "유튜브"
     }
   ],
   "resizingConstraint": 63,
@@ -47,6 +59,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "do_objectID": "1B28AFAF-C5BD-4280-9BDB-E67C4EA0FB55",
     "endMarkerType": 0,
     "miterLimit": 10,
