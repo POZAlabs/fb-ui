@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "187A8814-C887-4DF3-8A05-557F93F50C70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1194745-B5A2-466D-A16B-C46158F7E452",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A05F69EE-DCAB-4F75-9DB3-8323A26E2B9A",
+    "height": 42,
+    "width": 204,
+    "x": 0,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AFB91884-A1B6-4BA1-B0A0-26A6B0A48309"
+    },
+    {
+      "class": "rectangle",
+      "id": "BDFB1927-AB66-41E1-940B-894985639A10"
+    },
+    {
+      "class": "rectangle",
+      "id": "A120F71D-A768-4ADD-865A-8052BBCA5175"
+    }
+  ],
+  "name": "Stacked Group 4 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "399B766A-807A-4D96-96F3-FFD9081101E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 8,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
