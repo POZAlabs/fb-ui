@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 795,
+  "changeIdentifier": 875,
   "clippingMaskMode": 0,
   "do_objectID": "FF222FC8-80BD-420D-9D82-01AC6319A19F",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 579,
+    "height": 647,
     "width": 308,
     "x": 10912,
     "y": 2461
@@ -46,19 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "80D84627-F431-4502-BCD4-D790951FFDFD"
-    },
     {
       "class": "symbolInstance",
       "id": "8ADA6327-8ED8-479F-9C2D-09966887E494"
     },
     {
-      "class": "symbolInstance",
-      "id": "E8E3836C-7E34-4705-B5A0-700C2883CD36"
+      "class": "group",
+      "id": "EB95423E-3439-4963-9B9F-156FE72E8B54"
     }
   ],
   "name": "lyrics/__detail/__music",

@@ -27,8 +27,8 @@
     "do_objectID": "EB70299B-26C2-414B-9C04-DAB9B435A7C3",
     "height": 768,
     "width": 1862,
-    "x": 5386,
-    "y": 4668
+    "x": 5369,
+    "y": 3998
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -125,8 +125,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "MU.",
-  "nameIsFixed": false,
+  "name": "MU.012",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

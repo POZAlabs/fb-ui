@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "AD689BAA-027F-45CE-A27A-0268D1B383FA",
     "height": 17,
-    "width": 50,
+    "width": 37,
     "x": 81,
-    "y": 16
+    "y": 15
   },
-  "glyphBounds": "{{7, 1}, {36, 13}}",
+  "glyphBounds": "{{0, 1}, {36, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -105,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

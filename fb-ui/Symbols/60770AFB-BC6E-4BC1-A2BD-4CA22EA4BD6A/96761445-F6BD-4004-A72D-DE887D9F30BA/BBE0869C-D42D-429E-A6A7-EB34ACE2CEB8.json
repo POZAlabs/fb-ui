@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBE0869C-D42D-429E-A6A7-EB34ACE2CEB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A141C632-E2EA-4C58-A34E-5D535B7773DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE64D356-8840-44AB-907E-1596D9F1DB7A",
+    "height": 120,
+    "width": 416,
+    "x": 0,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__item/__music",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1A6F7FFC-7F31-432E-AE80-B9862085F51D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1a8225385e0b16d9509a4edcf1b22bfc47dfc5ab.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA59D76B-36AC-4F4A-A96E-EC3A7F872FDC",
+      "overrideName": "9FC2F318-A3E9-47CA-BC38-1404F74C98ED_stringValue",
+      "value": "Maroon 5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9558469A-3EA1-4D40-8086-8C38BB6F482B",
+      "overrideName": "05D27C9F-89CA-4416-8E0E-68BF35F5E08D_stringValue",
+      "value": "Move Like Jagger"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70139100-4623-4965-B897-5A6EC99AF948",
+      "overrideName": "47D1D5CD-9F24-458C-A3D9-4DE3E03918D9_stringValue",
+      "value": "180RPM"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEE78B9E-B311-4C2A-B528-077D47E789F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "236694F2-FB35-4EA7-ACDE-605C0D0201C9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

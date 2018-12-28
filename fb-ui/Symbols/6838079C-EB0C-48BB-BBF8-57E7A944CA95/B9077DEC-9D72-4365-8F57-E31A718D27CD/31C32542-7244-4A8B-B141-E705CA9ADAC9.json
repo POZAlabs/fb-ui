@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 12,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Running Time"
+    "string": "재생시간"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "AFF9919F-4E26-44F4-87CE-97CE556821FD",
     "height": 17,
-    "width": 82,
+    "width": 49,
     "x": 0,
     "y": 67
   },
-  "glyphBounds": "{{1, 2}, {80, 13}}",
+  "glyphBounds": "{{0, 1}, {49, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Running Time",
+  "name": "재생시간",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

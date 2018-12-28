@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5082,
+  "changeIdentifier": 5123,
   "clippingMaskMode": 0,
   "do_objectID": "5503441F-CC40-4F79-AC31-1118759BC274",
   "exportOptions": {
@@ -54,10 +54,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "CCCC9DF7-DB16-4713-900F-2764548CDABC"
-    },
-    {
-      "class": "symbolInstance",
       "id": "3A979475-CE22-48DE-9F77-D395D4ABF384"
     },
     {
@@ -75,14 +71,6 @@
     {
       "class": "symbolInstance",
       "id": "F843E56A-20BE-4F51-9078-9715E0EBB584"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "716644BB-8446-4171-A87A-B241C2446884"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6E14625D-662B-4E6F-A14A-5652F739A447"
     },
     {
       "class": "rectangle",
@@ -109,8 +97,8 @@
       "id": "3A9A3C05-606F-43F8-A7A1-B35F0A581BD0"
     },
     {
-      "class": "symbolInstance",
-      "id": "75D75EE6-FBA9-498C-97FD-F7F3170CEB66"
+      "class": "group",
+      "id": "93F2545C-98F8-4326-B3EF-B690C993283F"
     }
   ],
   "name": "rhyme-note/--read/__phrase",
