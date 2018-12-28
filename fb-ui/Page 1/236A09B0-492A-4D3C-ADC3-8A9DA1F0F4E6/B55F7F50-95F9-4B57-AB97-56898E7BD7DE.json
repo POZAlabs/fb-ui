@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BE5D5616-81A9-49C0-A704-FBF6038FA05B",
+  "do_objectID": "B55F7F50-95F9-4B57-AB97-56898E7BD7DE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "52750015-F50C-465A-A8B8-36357D8D7632",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 1,
-    "x": 381,
-    "y": 122
+    "do_objectID": "0AD5259B-1EBB-4AB2-B686-6FDEA56FA7DD",
+    "height": 755,
+    "width": 648,
+    "x": 80,
+    "y": 81
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "../divider",
+  "name": "../background-layer",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,12 +41,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "30AFC679-F422-4ED6-842B-160195AA6ACA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6B7D37D0-8B54-4713-B443-0857280DBBAB",
+  "symbolID": "2E104957-14B0-44C5-BA58-88FB2A7535D9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

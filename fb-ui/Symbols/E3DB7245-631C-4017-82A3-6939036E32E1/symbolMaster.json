@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 958,
+  "changeIdentifier": 980,
   "clippingMaskMode": 0,
   "do_objectID": "E3DB7245-631C-4017-82A3-6939036E32E1",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 46,
+    "height": 48,
     "width": 641,
     "x": 11941,
     "y": -1665
@@ -83,7 +83,7 @@
   ],
   "name": "player/__simple",
   "nameIsFixed": false,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
