@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.92,
+    "blue": 0,
+    "do_objectID": "C385FCCF-2BB5-4872-90BA-0CD0A6D039D8",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93F6732A-9693-4157-B348-EDD8EB5D9E30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6933FD1-7303-4B1C-A3E9-C24559500A93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B7B4292-5710-44E1-8CE6-AA1EB08DAEB5",
+    "height": 768,
+    "width": 1440,
+    "x": 20897,
+    "y": 3654
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "73F392BD-AA45-487A-A900-0384E682A771",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "53ADA148-77A8-4EE6-A033-5BAD1DF565EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF48A243-11B2-482F-A8B0-D03348878082"
+    },
+    {
+      "class": "text",
+      "id": "C5845BBC-7C1B-444A-ABAD-24BF67010BD1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D5FABAA-D2CD-4B1A-B312-E0399405A3F1"
+    },
+    {
+      "class": "group",
+      "id": "5A2FB242-DEA0-47A4-9CE4-F2C631C790AE"
+    }
+  ],
+  "name": "LD.001-Hover",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "13.3",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AB56F20-1D8D-43D3-AC2F-74687CD11056",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E393FF0E-C564-43CB-896D-BF4A3E812080",
+    "guides": [
+    ]
+  }
+}
