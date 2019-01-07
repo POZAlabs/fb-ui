@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "simple-line-icons",
-              "size": 10
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3FE2E874-C559-44D0-B94F-88FEAEED0503",
-    "height": 10,
+    "height": 16,
     "width": 15,
     "x": 4,
     "y": 9
   },
-  "glyphBounds": "{{2, -1}, {11, 11}}",
+  "glyphBounds": "{{0, 0}, {16, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "657864DF-1E0E-4265-9062-B4B5BC1D8F5E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,7 +91,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "simple-line-icons",
-            "size": 10
+            "size": 16
           }
         },
         "paragraphStyle": {

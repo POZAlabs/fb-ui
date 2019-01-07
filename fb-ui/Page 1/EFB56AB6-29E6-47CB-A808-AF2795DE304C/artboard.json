@@ -70,24 +70,12 @@
       "id": "896F4C45-81F5-4B28-8227-5B53AD30A175"
     },
     {
-      "class": "rectangle",
-      "id": "52959D3E-C70E-4A05-9C51-A6AD6A3D6A1E"
-    },
-    {
-      "class": "text",
-      "id": "9DDE9420-0706-4DA4-B061-1F84A8363802"
+      "class": "group",
+      "id": "BC9960AD-0B27-4A2F-A9E5-CE592BCFF7AF"
     },
     {
       "class": "group",
-      "id": "4A03B2DE-D6A5-4117-AFF9-8F54A08A4457"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F2856A19-DCF9-4989-AFE5-DF72BFC65C91"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1AF98C58-12DD-4217-840C-C7D7391954F8"
+      "id": "08603CD7-1134-4878-A6DF-4BCC392EE53A"
     }
   ],
   "layout": {
@@ -105,8 +93,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "UM.",
-  "nameIsFixed": false,
+  "name": "UM.FEEDBACK",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

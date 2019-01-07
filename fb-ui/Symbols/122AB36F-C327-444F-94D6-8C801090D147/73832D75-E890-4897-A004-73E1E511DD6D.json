@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73832D75-E890-4897-A004-73E1E511DD6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF5624CA-1E2D-48D9-BC17-8CA61F34DC1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AB303AF-52ED-4763-872C-1E9633CA059A",
+    "height": 48,
+    "width": 308,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/__search",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A610BF8-ADE8-47A8-8178-0D99D92F76A6",
+      "overrideName": "AF329844-8924-47E1-8A33-052600794125_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8F8BC4E-E2D8-464D-8972-6CDFCDDFFA9C",
+      "overrideName": "AAC9D766-F498-4DFC-B15B-724B7EAB1B80_stringValue",
+      "value": "원하는 이미지를 검색해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A847F66C-AACA-41BE-ACCD-7F6383C49B6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A20B47AB-A05F-452B-B2F9-4C24366495F4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

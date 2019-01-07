@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A30522D-EAA0-4411-9CE0-9A9CB9BE8B85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E7FABEF-C018-4FD6-B530-85FF0A87DB78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A662BF51-1058-46FD-8697-9900DC2AECB5",
+    "height": 24,
+    "width": 242,
+    "x": 0,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "editor/__Rec/__card/--hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "07191C7B-A653-4A3D-AF14-2243A39333C1_stringValue",
+      "value": "양고기가 잔뜩 있는 생일잔치에 가고 싶은 날이야"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.85,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5FE8983E-92E7-4A64-B455-96E58C513DEF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "84F1E456-4183-47BD-A9C6-2F747DFE6278",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC497830-4E0A-470C-9D4F-B586105878DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1546585189.677332,
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_0294579f-87a1-4ca0-a997-02e94444742f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_7ee99d1f-3cba-4c5f-bdd4-20f6a2c2295a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

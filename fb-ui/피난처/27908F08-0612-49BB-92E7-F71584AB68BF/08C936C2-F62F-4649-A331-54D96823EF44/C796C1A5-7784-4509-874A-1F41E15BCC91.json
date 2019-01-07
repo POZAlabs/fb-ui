@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C796C1A5-7784-4509-874A-1F41E15BCC91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31568DFD-08D5-4961-A02B-89A46F7B59D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "471B0990-52F0-40C3-98FE-F94AD3983295",
+    "height": 24,
+    "width": 140,
+    "x": 0,
+    "y": 192
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wordBlock/--normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CB0C4998-9C53-49D0-B023-CAE971CFDCF7_stringValue",
+      "value": "양고기 먹고 천둥은 우르릉"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.85,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C7E26E87-805D-40BE-8C1F-5EAD07D8827A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "CDEC3364-D623-428B-AD07-12A404CA56D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B52A62E7-9D4C-4D56-8EFE-CD6E7466B3DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1546585189.733603,
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_a622f814-b8b8-41d7-bb37-b867ace899d1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_a48177c0-4552-4f00-9f7f-12108c834bdc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

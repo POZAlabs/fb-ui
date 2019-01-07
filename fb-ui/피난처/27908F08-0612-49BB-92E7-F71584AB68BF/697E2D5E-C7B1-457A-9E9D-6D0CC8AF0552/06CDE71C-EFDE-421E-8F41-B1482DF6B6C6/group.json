@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06CDE71C-EFDE-421E-8F41-B1482DF6B6C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C9FCC1D-00C5-4AFC-9E06-D2CA4B6E90CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EAE1D1C-4A34-4D91-9416-C7E261A5A94A",
+    "height": 526,
+    "width": 252,
+    "x": 264.5316455696203,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "29C1B684-01C5-468A-BF3C-5171CCE943FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "B9E4B5E3-1F46-47C4-B2CD-EEA65EDEDD54"
+    },
+    {
+      "class": "group",
+      "id": "1A6F004E-8EA8-43A9-8431-D556AC8E3FD8"
+    }
+  ],
+  "name": "music/__info",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "265D3BA6-B0A3-4CC2-B19E-B5C4035053A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

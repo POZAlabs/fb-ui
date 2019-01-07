@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1109,
+  "changeIdentifier": 1135,
   "clippingMaskMode": 0,
   "do_objectID": "303F3A00-A360-456A-8185-F7C4550D849A",
   "exportOptions": {
@@ -61,25 +61,13 @@
       "id": "906ADB77-077A-4A64-A9C5-503C4261F292"
     },
     {
-      "class": "symbolInstance",
-      "id": "53ADFDF1-ECB0-4A53-9221-22402D8DCF8B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FA39180E-1F20-4BE6-9CE6-1536735AEABA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76BE3617-2126-409D-8C4E-D8063A9D454D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "082752E2-1E2D-485B-A916-E1CD8C217C61"
+      "class": "group",
+      "id": "41E9D524-FD72-4B76-A653-C30BBA627CFA"
     }
   ],
   "name": "LR/__sketch Copy 2",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "697E2D5E-C7B1-457A-9E9D-6D0CC8AF0552",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46EF8D01-51C9-42DC-A29D-CBD08A46AD2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02825F3E-BA76-4532-9624-AA3BD009115D",
+    "height": 623,
+    "width": 517,
+    "x": 716,
+    "y": 219
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "20C12AEB-4717-422B-A1B8-F1552BD3E15B"
+    },
+    {
+      "class": "group",
+      "id": "06CDE71C-EFDE-421E-8F41-B1482DF6B6C6"
+    },
+    {
+      "class": "group",
+      "id": "394BE22E-6469-4FCE-B453-B0F1C2AEA28E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F11FC020-5BB5-4628-9AC6-FB736A411AE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "813EF8B6-D253-4C9D-8861-68ED6ACC6A38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BA45289-A5FA-4898-9E7C-3E8BC43A018E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9BB3043-6946-488B-BB27-9BDEA2F6F4BD"
+    }
+  ],
+  "name": "editor/__musicPlayer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "421A3574-1798-4583-8845-D09E5E43D17B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

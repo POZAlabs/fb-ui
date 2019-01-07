@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 757,
+  "changeIdentifier": 770,
   "clippingMaskMode": 0,
   "do_objectID": "B1CFC134-11D0-40DC-8F34-79C01A4FB581",
   "exportOptions": {
@@ -57,25 +57,17 @@
       "id": "9D3C848C-063C-469E-96F7-375782994AD8"
     },
     {
-      "class": "symbolInstance",
-      "id": "3CE0291F-C2F1-4250-B234-801FEFDA22B9"
+      "class": "group",
+      "id": "5E2C93E2-B49D-4338-A247-D4917F735578"
     },
     {
       "class": "symbolInstance",
       "id": "154CB51E-0326-48CB-BA9B-5D48C616226F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3D8863DD-074A-457A-BF93-B8EC169FCC42"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6174098F-1A17-4CEA-9677-F432529E2E3E"
     }
   ],
   "name": "WR/__rhymeNote",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

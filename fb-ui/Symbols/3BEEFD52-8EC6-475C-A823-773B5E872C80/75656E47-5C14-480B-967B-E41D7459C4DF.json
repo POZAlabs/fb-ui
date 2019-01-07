@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "simple-line-icons",
-              "size": 18
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4F2CBF3A-A2E2-443C-9E64-AA124719E177",
-    "height": 18,
-    "width": 18,
-    "x": 3,
+    "height": 16,
+    "width": 16,
+    "x": 4,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {18, 19}}",
+  "glyphBounds": "{{0, 0}, {16, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "simple-line-icons",
-            "size": 18
+            "size": 16
           }
         },
         "paragraphStyle": {
@@ -99,7 +99,7 @@
           "alignment": 2
         }
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

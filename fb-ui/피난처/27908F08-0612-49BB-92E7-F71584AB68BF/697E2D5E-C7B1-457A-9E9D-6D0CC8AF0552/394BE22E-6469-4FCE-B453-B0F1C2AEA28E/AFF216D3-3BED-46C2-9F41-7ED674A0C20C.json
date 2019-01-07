@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AFF216D3-3BED-46C2-9F41-7ED674A0C20C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDCA7489-D980-4E9C-BE1A-1ABAA7AC90C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCFA5B7B-A9AE-4451-9E4F-94B4C616D01C",
+    "height": 88,
+    "width": 258,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__item/__player",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "433B7DB6-FF02-4932-AB27-E7348D501D44_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/981a135d26b5799e2fc6ed713379a431f8e0fc5c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9DB54462-D70D-4EB4-AF9D-4DD6004CC216_stringValue",
+      "value": "Make Sure Your Ice Is Safe"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2A293E8-D7DA-41F6-96CA-A0EAD99F0602_stringValue",
+      "value": "Yes Jammy"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF68FDA1-EB11-4039-ABED-CF5539E5CBF9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8E2CA44-EDE0-40AD-8466-A4243A45682D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
