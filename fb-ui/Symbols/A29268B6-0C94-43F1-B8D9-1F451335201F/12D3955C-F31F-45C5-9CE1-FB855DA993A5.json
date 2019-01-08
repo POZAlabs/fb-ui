@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.56,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,32 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Regular",
-              "size": 14
+              "name": "AppleSDGothicNeo-Heavy",
+              "size": 32
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 90,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "이 노래는 영국에서 최초로 시작되어 일년에 한 바퀴 돌면서 받는 사람에게 행운을 주었고 지금은 당신에게로 옮겨진 이 편지는 4일 안에 당신 곁을 떠나야 합니다. "
+    "string": "Heading/__1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4205512D-A21F-42DE-85B6-6C40F286CC65",
+  "do_objectID": "12D3955C-F31F-45C5-9CE1-FB855DA993A5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "58FAC899-7A54-4F32-912A-81CF8645D609",
+    "do_objectID": "EEFD8CD6-745E-47CB-80AE-F7A9BA3743E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "36F31364-E43D-49DB-8B17-76C3F5E819EA",
-    "height": 44,
-    "width": 508,
+    "do_objectID": "543D6C59-B3EA-4BC0-AE72-DFA6B16E57E0",
+    "height": 39,
+    "width": 171,
     "x": 24,
-    "y": 106
+    "y": 24
   },
-  "glyphBounds": "{{0, 3}, {495, 35}}",
+  "glyphBounds": "{{2, 4}, {167, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,25 +65,26 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "이 노래는 영국에서 최초로 시작되어",
+  "name": "Move Like Jagger",
   "nameIsFixed": false,
-  "resizingConstraint": 43,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "2735FE37-84C1-4FA8-B784-5001F71DAE89",
+  "sharedStyleID": "6AFFE99D-D2F7-4B82-B605-29784872FEF7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C201CFA0-70CB-47E3-ACE6-353327FB845C",
+    "do_objectID": "90A6D86A-D0F5-4D19-A6D6-1F5F9B106192",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "3B479C50-AFA5-48CB-92BA-0B3380928EF1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.56,
+          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -93,15 +92,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Regular",
-            "size": 14
+            "name": "AppleSDGothicNeo-Heavy",
+            "size": 32
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -109,11 +106,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

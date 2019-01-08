@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 112,
+    "height": 144,
     "width": 556,
     "x": 496,
     "y": 80
@@ -33,9 +33,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A70174C5-EE53-4F50-9B12-1131774B7DD0",
-      "overrideName": "C1C2D985-14ED-4F54-B40C-312EC3F7089E_stringValue",
+      "do_objectID": "BF81CC13-3366-4C73-B341-A1B210F0D4DB",
+      "overrideName": "12D3955C-F31F-45C5-9CE1-FB855DA993A5_stringValue",
       "value": "Sugar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B6DF036-579F-4B59-BF31-AA7F4DBE5C91",
+      "overrideName": "0878BA9A-2743-4525-B2E0-EA0B2B15A0C8_stringValue",
+      "value": "아티스트 없음"
     }
   ],
   "resizingConstraint": 63,
@@ -50,7 +56,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "933452A6-CADF-4B3A-A625-CDD583FFB5D5",
+  "symbolID": "869292A9-E39A-42D1-BDC7-7736DC9EAE9D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

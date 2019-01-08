@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "-"
+    "string": "락"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 7,
-    "x": 229,
+    "width": 13,
+    "x": 223,
     "y": 0
   },
-  "glyphBounds": "{{0, 7}, {6, 2}}",
+  "glyphBounds": "{{0, 1}, {12, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "-",
+  "name": "락",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
