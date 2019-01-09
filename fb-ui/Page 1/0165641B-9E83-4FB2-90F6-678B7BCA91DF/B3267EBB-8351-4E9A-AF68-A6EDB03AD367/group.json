@@ -2,19 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E5AE4788-839B-4182-960A-26FCDB274043",
+  "do_objectID": "B3267EBB-8351-4E9A-AF68-A6EDB03AD367",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -24,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128,
-    "width": 128,
-    "x": 127,
-    "y": 0
+    "height": 24,
+    "width": 24,
+    "x": 99,
+    "y": 821
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -40,14 +31,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "F28BC83F-E0CF-47B7-A4BF-9D3442FED300"
+      "id": "B5AF6693-EDC5-4E4C-B967-1B9742851A2F"
     },
     {
       "class": "shapeGroup",
-      "id": "C6887D0C-3F73-47B5-85CB-31347ADA553F"
+      "id": "49269BC1-BCCA-4592-A5AF-A6038C266F7A"
     }
   ],
-  "name": "Group",
+  "name": "icon/__add",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

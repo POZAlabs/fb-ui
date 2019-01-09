@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C6887D0C-3F73-47B5-85CB-31347ADA553F",
+  "do_objectID": "49269BC1-BCCA-4592-A5AF-A6038C266F7A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 110,
-    "width": 110.0160531687073,
-    "x": 8.99999999999983,
-    "y": 7
+    "height": 16,
+    "width": 16,
+    "x": 4,
+    "y": 4
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,39 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "61730912-C78D-4BC9-AC07-8AFA64E95CC4"
+      "class": "rectangle",
+      "id": "D2CB2AAA-FDE0-48D6-8328-B72FACA5463A"
     },
     {
-      "class": "shapePath",
-      "id": "269B5D94-2593-4CF0-8CA6-8C3108CEDAB3"
-    },
-    {
-      "class": "shapePath",
-      "id": "FE6D10F6-5293-4F34-B94E-0D041CD69D24"
-    },
-    {
-      "class": "shapePath",
-      "id": "9043D489-8312-4D0D-8BC7-334DB8FF4DF5"
-    },
-    {
-      "class": "shapePath",
-      "id": "246EE6B7-3987-42BE-B507-0E0B5AFFBB4B"
-    },
-    {
-      "class": "shapePath",
-      "id": "15C4CEF6-1672-48D9-8FFC-45AF81B9F278"
-    },
-    {
-      "class": "shapePath",
-      "id": "789F6EC7-40C6-4C21-B9BB-083D41DC045A"
-    },
-    {
-      "class": "shapePath",
-      "id": "3C0F4295-90AC-4A37-885C-9B1B81563C20"
+      "class": "rectangle",
+      "id": "9E6E3079-9E84-4F3F-A052-BD17EDF1F1C8"
     }
   ],
   "name": "Combined Shape",
@@ -70,6 +46,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
     "endMarkerType": 0,
     "fills": [
       {
@@ -77,9 +69,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

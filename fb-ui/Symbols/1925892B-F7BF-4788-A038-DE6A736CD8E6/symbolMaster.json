@@ -1,17 +1,20 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 1,
+    "alpha": 0.56,
     "blue": 0,
+    "do_objectID": "C7DB4700-2B89-43EF-9BCE-77DAE606DE06",
     "green": 0,
-    "red": 1
+    "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 537,
   "clippingMaskMode": 0,
-  "do_objectID": "91E90F5E-8F0C-4389-90F1-E1B209B34AAB",
+  "do_objectID": "1925892B-F7BF-4788-A038-DE6A736CD8E6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "80444E24-503C-49EA-9FD1-2417F60289C6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,21 +25,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 141,
-    "width": 509,
-    "x": 17127,
-    "y": 6574
+    "do_objectID": "3D029ECD-C3FE-4A7A-9E92-04BD6E95AA9C",
+    "height": 103,
+    "width": 308,
+    "x": 9393,
+    "y": 3052
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "6C6E1B9F-FF86-44CD-85B9-B326972475D3",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,14 +50,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "E5AE4788-839B-4182-960A-26FCDB274043"
+      "class": "rectangle",
+      "id": "6C2DE6B0-92DF-4077-8E1B-E0C579945512"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9818C4B-C43A-4155-8B86-C0243A6E85EA"
+    },
+    {
+      "class": "text",
+      "id": "1D7B669D-E3C5-4BF4-AA69-7A6D3401C45F"
+    },
+    {
+      "class": "text",
+      "id": "18930CF0-EA19-4D1E-BDBC-91D1322A0261"
+    },
+    {
+      "class": "text",
+      "id": "87D5F288-14FD-435F-A64B-5D8FB91C3BE7"
     }
   ],
-  "name": "Artboard Copy",
+  "name": "music/__lyrics copy",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -60,11 +82,13 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "4AEAC1D9-4ECC-48D8-BF9F-E1FBC5A268F0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C026C2AE-39FD-4448-BED7-0B72E5EB1160",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
@@ -74,6 +98,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "6C6F3D7B-D982-458B-898E-9AD0A4D33735",
     "guides": [
     ]
   }
