@@ -8,13 +8,22 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 755,
+  "changeIdentifier": 890,
   "clippingMaskMode": 0,
   "do_objectID": "879CA93F-2C59-4FC8-96F2-14A5362E120F",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "A9378829-8D2A-4633-BF30-82DC38C95B70",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,11 +36,11 @@
     "do_objectID": "2EF9A675-A189-4146-A4C7-C23AE4E7F686",
     "height": 24,
     "width": 24,
-    "x": 4339,
-    "y": 1977
+    "x": 4252,
+    "y": 2144
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,12 +65,12 @@
       "id": "CFD51A23-8A5C-4C7D-9D95-BC6BECEB4D8F"
     },
     {
-      "class": "text",
-      "id": "90B8A696-D4A5-47AF-8251-C7993E4B13BA"
+      "class": "shapeGroup",
+      "id": "FD3D8DD9-D1B6-4B32-B8BD-FB4637A7698B"
     }
   ],
-  "name": "icon/__plane copy 22",
-  "nameIsFixed": false,
+  "name": "icon/__overflow",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

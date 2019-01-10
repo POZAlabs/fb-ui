@@ -8,13 +8,22 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 833,
+  "changeIdentifier": 838,
   "clippingMaskMode": 0,
   "do_objectID": "42002D67-9841-4876-B669-F3F9F056ED33",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "777E2504-088B-484A-B6B7-8D644DB8FE1A",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -60,8 +69,8 @@
       "id": "9CBC0691-B156-4C63-8518-000F9B2A6DAA"
     }
   ],
-  "name": "icon/__plane copy 19",
-  "nameIsFixed": false,
+  "name": "icon/cancel",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

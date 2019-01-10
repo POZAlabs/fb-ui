@@ -1,44 +1,10 @@
 {
-  "_class": "text",
-  "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "simple-line-icons",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 0
-      }
-    ],
-    "string": ""
-  },
-  "automaticallyDrawOnUnderlyingPath": false,
+  "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FCB3AEA5-4696-4412-9201-9529EEAD40F4",
-  "dontSynchroniseWithSymbol": false,
+  "do_objectID": "90333B49-C4A9-4190-820C-93E86F2DF2AA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8F982A9A-42BD-470E-81C2-CBC5FC9AFD79",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,33 +14,57 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "E908404A-1243-4C55-A0F4-5324A155F67E",
+    "constrainProportions": true,
     "height": 16,
-    "width": 16,
-    "x": 4,
+    "width": 16.046875,
+    "x": 3.953125,
     "y": 4
   },
-  "glyphBounds": "{{-1, 0}, {17, 16}}",
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "575C8EA5-6BAD-491E-AF3A-115CB343D4A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B923C9D-A3DD-4973-8D0E-26AA84768520"
+    }
+  ],
   "name": "Magnifier - simple-line-icons",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "932B2302-81EC-494E-96FC-1746D6F75B32",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E0BA0308-3BCB-4476-BF67-48A8C2150877",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
@@ -103,12 +93,26 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_2f472f54-189d-4090-80f5-25c99868fe36",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16.04688
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a41d969e-b466-41c0-9f6f-5358324cdbcd",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
-  }
+  },
+  "windingRule": 1
 }
