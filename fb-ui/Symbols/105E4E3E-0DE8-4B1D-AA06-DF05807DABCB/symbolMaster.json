@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 848,
+  "changeIdentifier": 877,
   "clippingMaskMode": 0,
   "do_objectID": "105E4E3E-0DE8-4B1D-AA06-DF05807DABCB",
   "exportOptions": {
@@ -60,18 +60,6 @@
       "id": "53E971B2-64E5-4B41-8B86-B5A4282A82BA"
     },
     {
-      "class": "rectangle",
-      "id": "18152F5D-A63F-4A69-B95A-D4B8D86F77D5"
-    },
-    {
-      "class": "text",
-      "id": "3D474D74-01E0-402A-9A85-5999D842D464"
-    },
-    {
-      "class": "text",
-      "id": "ACE1AD67-008B-4320-BBB8-EDAE97F1AC89"
-    },
-    {
       "class": "group",
       "id": "8D23C113-732A-4F81-9A9D-D3BCE92F1EF0"
     },
@@ -86,6 +74,22 @@
     {
       "class": "symbolInstance",
       "id": "2A7B40D7-00B2-4F7E-B844-9519D121CF4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83A42561-9E0E-4DA6-A306-C03A54FCA2D7"
+    },
+    {
+      "class": "rectangle",
+      "id": "6063A110-EA59-4044-8CA9-4E8A66761685"
+    },
+    {
+      "class": "text",
+      "id": "B8041A67-055E-4DFA-AA48-6A240F419720"
+    },
+    {
+      "class": "text",
+      "id": "5DAEE9E3-21AC-4C42-9757-0A8657F3009B"
     }
   ],
   "name": "WR/__playlist",

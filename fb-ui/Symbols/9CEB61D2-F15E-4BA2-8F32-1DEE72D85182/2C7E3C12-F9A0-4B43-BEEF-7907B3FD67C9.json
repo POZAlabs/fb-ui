@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.56,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Regular",
-              "size": 14
+              "name": "AppleSDGothicNeo-Bold",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -28,20 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 48,
         "location": 0
       }
     ],
-    "string": "Peter Gundry"
+    "string": "Christmas Happy Jazz Live Radio - Relaxing Music"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EE80CFEB-1F8A-448C-8B80-3932974AA672",
+  "do_objectID": "2C7E3C12-F9A0-4B43-BEEF-7907B3FD67C9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4453BA2F-051C-40A1-AA7D-91A158F33CA9",
+    "do_objectID": "651ADEA6-2770-4DCB-B124-99D3F0868A6B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "68E2BCAA-8FC4-4429-B917-1E11A832D329",
-    "height": 22,
-    "width": 79,
+    "do_objectID": "F9C4B256-B7D1-4384-B634-D6D106DCE363",
+    "height": 44,
+    "width": 284,
     "x": 333,
-    "y": 333
+    "y": 337
   },
-  "glyphBounds": "{{1, 4}, {77, 13}}",
+  "glyphBounds": "{{0, 3}, {244, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,26 +67,26 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Peter Gundry",
+  "name": "Christmas Happy Jazz",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "2735FE37-84C1-4FA8-B784-5001F71DAE89",
+  "sharedStyleID": "F1AF0867-B0FD-4701-902E-DD84DA0C8CD9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EE274585-39E1-48F7-8A06-55B2285888AB",
+    "do_objectID": "A86D9217-E662-4BD3-B1C2-B5D2672297D6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "161DA8C2-3B85-4370-9647-C72B3C1113E6",
+      "do_objectID": "70136AA8-848D-47C4-82C4-19C25322A344",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.56,
+          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -94,8 +94,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Regular",
-            "size": 14
+            "name": "AppleSDGothicNeo-Bold",
+            "size": 16
           }
         },
         "paragraphStyle": {
@@ -110,11 +110,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

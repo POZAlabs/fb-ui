@@ -1,16 +1,15 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
-    "alpha": 0.56,
-    "blue": 0,
-    "green": 0,
-    "red": 0
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 760,
   "clippingMaskMode": 0,
-  "do_objectID": "67A92C23-D3DC-47D2-87C0-A04A15F01484",
+  "do_objectID": "1C99A543-6161-4835-8BA4-C6C2E8F81234",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,22 +22,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 623,
-    "width": 632,
-    "x": 10491,
-    "y": 1274
+    "height": 660,
+    "width": 838,
+    "x": 5449,
+    "y": 5475
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      382
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,40 +48,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "922F0B9E-7965-4FC8-A29C-5289707E4297"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FA808104-008E-44A5-9A40-AE047481F3B5"
-    },
-    {
-      "class": "group",
-      "id": "F9083178-E4C3-493A-BF1C-10329326D6DC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8DF6FBC2-AAA4-495C-986D-EBD89CCD6FED"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FEFC0D2C-524F-49EF-ADA6-924988FA47B8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0888BCE9-BF1D-4CC1-80FA-396D34C6A9A2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CE41C775-36A8-44D9-8628-04FBF7EC82A7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "54E7143D-156C-4783-A871-9733866E426B"
+      "class": "bitmap",
+      "id": "7415CCE4-323D-4B27-8A50-15C8240DA489"
     }
   ],
-  "name": "WR/__playlist",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -95,7 +66,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "16474AD4-4B73-4FDF-A2A5-8E4B151FA305",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
