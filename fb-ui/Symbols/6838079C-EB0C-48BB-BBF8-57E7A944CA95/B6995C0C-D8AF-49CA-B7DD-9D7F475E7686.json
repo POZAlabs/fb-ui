@@ -9,37 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5450980392156861,
-            "green": 0.7411764705882353,
-            "red": 0.1372549019607843
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Heavy",
-              "size": 32
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 6,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "header"
+    "string": "Yes Jammy"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53ABC5DD-E23E-4811-A580-F7B50DFF879E",
+  "do_objectID": "B6995C0C-D8AF-49CA-B7DD-9D7F475E7686",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "75151A65-C158-4914-8403-DA6DFC0CF98E",
+    "do_objectID": "9E865131-95F6-43D0-8040-AE1F13111E58",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D56725F4-108D-481A-8E2E-860645BBAF3E",
-    "height": 39,
-    "width": 104,
-    "x": 44,
-    "y": 1042
+    "do_objectID": "CEDCF753-730C-4247-B60A-358908690FF8",
+    "height": 22,
+    "width": 67,
+    "x": 30,
+    "y": 258
   },
-  "glyphBounds": "{{1, 4}, {102, 24}}",
+  "glyphBounds": "{{0, 6}, {66, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "header",
+  "name": "Safe And Clean Copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,33 +75,35 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9A51182E-AED1-4E98-A08D-B617EDA023BC",
+    "do_objectID": "F7050C85-F562-4F6B-BA58-E58E945DB378",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1AF66A18-A913-4678-BD90-507B390C2393",
+      "do_objectID": "B02CBF3E-BCDE-4A68-9BC7-9FB5A366C816",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5450980392156861,
-          "green": 0.7411764705882353,
-          "red": 0.1372549019607843
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Heavy",
-            "size": 32
+            "name": "AppleSDGothicNeo-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
       "verticalAlignment": 0
     },
