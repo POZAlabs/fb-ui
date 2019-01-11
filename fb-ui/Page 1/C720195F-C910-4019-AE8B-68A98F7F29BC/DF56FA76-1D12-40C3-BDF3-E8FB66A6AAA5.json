@@ -23,14 +23,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
           }
         },
-        "length": 43,
+        "length": 59,
         "location": 0
       }
     ],
-    "string": "당신의 영감을 극대화 할 수 있도록, 그리고 음악을 더 행복하게 즐길수 있도록"
+    "string": "당신의 영감을 극대화 할 수 있도록, 그리고 음악을 더 행복하게 즐길수 있도록\n여기는 두번째 줄 공간입니다"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A90ACFD6-3BE0-4C9E-BE03-D266463B7B59",
-    "height": 29,
+    "height": 72,
     "width": 719,
     "x": 361,
-    "y": 430
+    "y": 414
   },
-  "glyphBounds": "{{1, 2}, {717, 23}}",
+  "glyphBounds": "{{1, 5}, {717, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +100,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
         }
       },
       "verticalAlignment": 0

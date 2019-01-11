@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1C2A640E-F4D6-4D70-AD8B-9FF7BCFA5ED5",
+  "do_objectID": "6F7A48EF-F44F-4F73-BFFE-100B41BAC107",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9681D11A-7B44-458B-827F-69770E8D9FF7",
+    "do_objectID": "7A42E17A-66A3-413D-99C4-899178C72204",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6E12B16D-677C-4C45-9AAD-7706509F4F77",
+    "do_objectID": "21558F0D-543F-471B-944D-E7AB28004516",
     "height": 48,
     "width": 139,
-    "x": 650,
+    "x": 805,
     "y": 534
   },
   "hasClickThrough": false,
@@ -33,14 +33,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "D7E76754-39F9-4E47-9D35-2F636FC3EC4E"
+      "id": "30F8A3B4-09A4-4C84-B514-B543578960E6"
     },
     {
       "class": "text",
-      "id": "CE2256C4-76E1-4E09-86F2-D3F3573D485F"
+      "id": "D1210077-97EE-4DA1-A1D8-BD0B7602C756"
     }
   ],
-  "name": "Button",
+  "name": "Button Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,7 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7DBF6BAA-FB6D-4418-B78B-D1A285D63D98",
+    "do_objectID": "4EE93A83-34BC-443A-920B-E3CD662A31C7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -60,7 +60,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": 154.5,
             "enabled": 1,
             "modelID": "constraint_8b724155-0784-41fa-af20-62270d08b06d",
             "model_class": "ADModelConstraint",
