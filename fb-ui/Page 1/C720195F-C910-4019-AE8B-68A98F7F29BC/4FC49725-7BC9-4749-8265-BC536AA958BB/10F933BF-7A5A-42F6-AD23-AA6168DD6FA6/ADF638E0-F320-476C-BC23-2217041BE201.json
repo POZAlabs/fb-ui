@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2F96A320-CEE0-4CB2-82CB-92831F9A9B7A",
+  "do_objectID": "ADF638E0-F320-476C-BC23-2217041BE201",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0D108217-AC8B-4819-8819-A7AF5FCA8882",
+    "do_objectID": "7FB48FB2-35AD-415F-BC91-D61FD7D1EAA4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "357435FB-3C97-4025-862E-67C06FD097D0",
-    "height": 16,
-    "width": 16,
-    "x": 4,
-    "y": 4
+    "do_objectID": "2D5E62D3-C12B-4289-BFCA-62BE3D66426E",
+    "height": 768,
+    "width": 1440,
+    "x": 0,
+    "y": 251
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -39,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -100,17 +100,17 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "4DE889F1-BCDB-45BD-A857-F680BE28F73E",
+    "do_objectID": "810BFC7F-89AF-4768-A6FC-7751954DE461",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.72,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 0.56,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,

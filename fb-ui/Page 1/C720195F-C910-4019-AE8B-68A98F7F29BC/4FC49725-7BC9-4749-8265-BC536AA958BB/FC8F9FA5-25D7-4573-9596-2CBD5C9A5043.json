@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "12E5204D-AA63-45FB-83D1-BC7C5454E4AB",
+  "do_objectID": "FC8F9FA5-25D7-4573-9596-2CBD5C9A5043",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,12 +17,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 13,
-    "width": 20,
-    "x": 739,
-    "y": 742
+    "height": 768,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Mask",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -110,7 +110,7 @@
           "red": 0
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
