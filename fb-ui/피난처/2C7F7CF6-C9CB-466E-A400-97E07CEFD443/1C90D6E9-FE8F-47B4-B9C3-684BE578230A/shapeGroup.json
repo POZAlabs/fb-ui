@@ -1,0 +1,163 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C90D6E9-FE8F-47B4-B9C3-684BE578230A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "077DEE0B-8AD6-481A-921E-9AFA603B4566",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C9AB74FB-F4F9-4F6D-B3B1-D8D02E6369DD",
+    "height": 126,
+    "width": 358.9600000000001,
+    "x": 728,
+    "y": 313
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5EE5D9DB-B928-4658-86B6-E6DF305E676E"
+    },
+    {
+      "class": "shapePath",
+      "id": "8454B92B-2A44-45EF-AA62-6CEC786675C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "293DCD9F-6A35-4850-AC08-A80FCC583E40"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A4D23E4-B47F-4900-A2F0-BC604843BC83"
+    },
+    {
+      "class": "shapePath",
+      "id": "4BAC50A0-FA8A-4383-8EB8-AADADE218E58"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F3EC73F-AD97-412C-9ACB-52F08F987882"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE66E302-C3C3-465A-A0C5-1B7729A3C24E"
+    },
+    {
+      "class": "shapePath",
+      "id": "0822B575-E80E-4E0C-A390-3D5B764DE1E4"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "do_objectID": "20EBE365-ADDC-41A3-912F-1317423D9239",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "9BEE808C-8EA1-41EF-AD7F-5C35CEC7E657",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AppleSDGothicNeo-Heavy",
+            "size": 140
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 126,
+            "enabled": 1,
+            "modelID": "constraint_74e0bca7-f119-4769-942d-3596ed30421b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 358.96
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7d058278-ffa6-4f94-9fc1-b09d9f4eb39d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

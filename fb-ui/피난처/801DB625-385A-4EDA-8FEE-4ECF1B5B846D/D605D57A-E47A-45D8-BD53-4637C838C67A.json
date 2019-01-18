@@ -1,0 +1,98 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "D605D57A-E47A-45D8-BD53-4637C838C67A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A77C541B-97F9-4070-8291-9C94BF617A30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1B355027-A75B-495F-96FF-DF1BDC73CCE3",
+    "height": 960,
+    "width": 1440,
+    "x": 0,
+    "y": -96
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/67371c24aaf378ae540dfc2db2e0caaa2e2ad8fe.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60F7FC2E-7CCF-42AA-8FFF-95E1D5103EF0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2701877042675172,
+          "green": 0.3151041666666667,
+          "red": 0.04189328794126156
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 9,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1900,
+            "enabled": 1,
+            "modelID": "constraint_930c6c85-d154-44d8-b004-41b33e83b07f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 2850
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c0978976-5c7a-4861-9fc4-5309b2b20f9a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
