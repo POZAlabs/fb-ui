@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 636,
+  "changeIdentifier": 655,
   "clippingMaskMode": 0,
   "do_objectID": "A29268B6-0C94-43F1-B8D9-1F451335201F",
   "exportOptions": {
@@ -50,15 +50,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "66EF4EE2-1432-42C9-8850-A61C290B909D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AD5043E0-3E7A-4032-82E2-D7898751D623"
     },
     {
       "class": "text",
@@ -79,6 +75,10 @@
     {
       "class": "symbolInstance",
       "id": "96FE2878-6691-44BD-83FD-398B435E2DAE"
+    },
+    {
+      "class": "group",
+      "id": "873DE047-2EA3-4004-BF03-A86758DF92B4"
     }
   ],
   "name": "music/__-header copy",

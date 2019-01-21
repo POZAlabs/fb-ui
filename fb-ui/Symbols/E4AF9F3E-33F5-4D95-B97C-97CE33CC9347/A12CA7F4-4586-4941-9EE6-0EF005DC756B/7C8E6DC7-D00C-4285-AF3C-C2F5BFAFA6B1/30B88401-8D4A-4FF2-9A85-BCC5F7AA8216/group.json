@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7F6FE07B-4396-4C4C-976E-B2C0D969275A",
+  "do_objectID": "30B88401-8D4A-4FF2-9A85-BCC5F7AA8216",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "26EDFB62-DB84-4AC1-8C8D-CE72B8535A28",
+    "do_objectID": "79E16495-3DD5-459A-80AE-C372AE5907F0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,49 +16,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A2DE8D06-344F-4FCE-9A4E-CF3386A2C544",
-    "height": 144,
-    "width": 165,
-    "x": 871,
-    "y": 120
+    "do_objectID": "4B53A9A0-CE1F-4486-93D0-1E137ADFB042",
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 0
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "input/__dropdown",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "A9F383CB-43D0-47EE-837E-E6604B4AA5B8",
-      "overrideName": "C5EE5334-9EAD-4337-B6CB-BAEA978B3D24_symbolID",
-      "value": ""
+      "class": "shapePath",
+      "id": "0BFCB991-3BCA-45EC-95E9-DBFC81C53572"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA9412DA-9088-4DD3-A4A7-7EC311C0A7E8"
     }
   ],
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C741347F-E5C9-4976-9016-B4F6249D90E5",
+    "do_objectID": "A46C4383-0A0A-4037-80D0-A293377951B1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B4BA3685-F0B0-4E14-AF58-5416F6AA41A2",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }
