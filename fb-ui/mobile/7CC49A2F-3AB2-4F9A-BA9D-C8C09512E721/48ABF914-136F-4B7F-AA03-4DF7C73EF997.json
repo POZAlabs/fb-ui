@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "48ABF914-136F-4B7F-AA03-4DF7C73EF997",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED15C2DE-116B-47AD-88A4-1C588826ACA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1200388-61A8-4EEE-91EB-9BD3D17793A9",
+    "height": 70,
+    "width": 384,
+    "x": 80,
+    "y": 200
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/__field copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9622D948-8A78-4B78-9FF6-F8A43E0C1DF2_stringValue",
+      "value": "이메일"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E91B806-7E79-4D90-B9BE-CBD0689E6C1D",
+      "overrideName": "337C38A7-DB22-4FDE-A96A-C9814D5D385F/E41F26AF-20D9-409D-9597-8D173E6F5CC6_stringValue",
+      "value": "가입시 사용한 이메일을 입력해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C787F265-4A40-4D15-A72A-48A10F9D5203",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEDE55A9-4ED1-4BF0-A1AB-0A76799737D9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

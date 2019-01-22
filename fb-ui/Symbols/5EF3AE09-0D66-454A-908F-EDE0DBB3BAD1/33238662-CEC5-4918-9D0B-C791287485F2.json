@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.5450980392156861,
+            "green": 0.7411764705882353,
+            "red": 0.1372549019607843
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "simple-line-icons",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -55,7 +55,7 @@
     "x": 4,
     "y": 4
   },
-  "glyphBounds": "{{1, 0}, {14, 16}}",
+  "glyphBounds": "{{2, -1}, {12, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "932B2302-81EC-494E-96FC-1746D6F75B32",
+  "sharedStyleID": "69591AA2-AD56-4606-940B-549E082820D4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,15 +83,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.5450980392156861,
+          "green": 0.7411764705882353,
+          "red": 0.1372549019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "simple-line-icons",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {

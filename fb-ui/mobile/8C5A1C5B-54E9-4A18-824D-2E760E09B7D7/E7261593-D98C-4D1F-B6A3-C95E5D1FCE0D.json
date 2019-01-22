@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7261593-D98C-4D1F-B6A3-C95E5D1FCE0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E2D7909-C6AE-4481-B7A3-29F3B628E8D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7609F30B-4827-4CAD-B008-BBF139E5F70F",
+    "height": 70,
+    "width": 384,
+    "x": 428,
+    "y": 302
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/__field copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9622D948-8A78-4B78-9FF6-F8A43E0C1DF2_stringValue",
+      "value": "변경할 비밀번호"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E91B806-7E79-4D90-B9BE-CBD0689E6C1D",
+      "overrideName": "337C38A7-DB22-4FDE-A96A-C9814D5D385F/E41F26AF-20D9-409D-9597-8D173E6F5CC6_stringValue",
+      "value": "특수문자가 포함된 8자리 이상 비밀번호를 설정해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7C3AEDB-66CC-4734-8625-606F2E5A6AED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEDE55A9-4ED1-4BF0-A1AB-0A76799737D9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
