@@ -8,10 +8,10 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.56,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "alpha": 1,
+            "blue": 0.5450980392156861,
+            "green": 0.7411764705882353,
+            "red": 0.1372549019607843
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -22,26 +22,24 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Sub-title/__1"
+    "string": "포자쓰짱짱쓰"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0173D6A2-4AC7-4A1F-8719-00EC5C17ED4A",
+  "do_objectID": "8CE12C40-A8A6-4657-A672-A2BBD50EFFD7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4143D051-80A4-4FE2-9948-71F0EFD7B136",
+    "do_objectID": "548B7B74-E363-4572-9515-F017D23815C7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DADF91B1-0863-48BC-8654-E9C25AE81BF2",
-    "height": 22,
-    "width": 71,
-    "x": 24,
-    "y": 100
+    "do_objectID": "FA125531-7434-4CDB-8292-EA2547DFFB55",
+    "height": 17,
+    "width": 73,
+    "x": 20,
+    "y": 57
   },
-  "glyphBounds": "{{0, 4}, {70, 12}}",
+  "glyphBounds": "{{0, 1}, {73, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,28 +65,29 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sub-title/__1",
+  "name": "Heading/__5",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "2735FE37-84C1-4FA8-B784-5001F71DAE89",
+  "sharedStyleID": "358C5936-D15C-435D-870A-9AA5F2973B13",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B2D42EB4-A1FD-41F0-B062-5E409213CB09",
+    "do_objectID": "DB2D80BC-DC5F-48B4-879A-AA04BCB87D99",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "7AAEAE42-174D-4132-986B-4D12C5E84D40",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.56,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 1,
+          "blue": 0.5450980392156861,
+          "green": 0.7411764705882353,
+          "red": 0.1372549019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -99,9 +98,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

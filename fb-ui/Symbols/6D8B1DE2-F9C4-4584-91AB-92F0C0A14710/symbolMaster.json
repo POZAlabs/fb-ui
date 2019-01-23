@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 677,
+  "changeIdentifier": 688,
   "clippingMaskMode": 0,
   "do_objectID": "6D8B1DE2-F9C4-4584-91AB-92F0C0A14710",
   "exportOptions": {
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 138,
+    "height": 90,
     "width": 648,
     "x": 9106,
     "y": 378
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,24 +49,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9658A153-C895-41A0-AF29-D657E847E1FF"
-    },
-    {
-      "class": "text",
-      "id": "A65CC992-DAA9-47C1-80DA-CCE5FBD6A5FD"
-    },
-    {
-      "class": "text",
-      "id": "BF60FB96-D4BA-40CF-A0A5-B3C7AFCC7381"
-    },
-    {
-      "class": "text",
-      "id": "0173D6A2-4AC7-4A1F-8719-00EC5C17ED4A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D2A90627-A633-41F5-A4DA-BFC0BA950BBF"
+      "class": "group",
+      "id": "AAFA11AA-F24F-4F2B-835F-758A394531D0"
     }
   ],
   "name": "editor/__header",
