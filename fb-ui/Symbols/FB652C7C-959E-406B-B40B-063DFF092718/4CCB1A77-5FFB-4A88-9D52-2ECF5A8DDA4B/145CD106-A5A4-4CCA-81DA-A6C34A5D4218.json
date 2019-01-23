@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.24,
+            "alpha": 0.72,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,30 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleSDGothicNeo-Light",
-              "size": 16
+              "name": "AppleSDGothicNeo-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 5,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Music"
+    "string": "음악"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "57B22E20-116B-442A-B137-F01B80F208BC",
+  "do_objectID": "145CD106-A5A4-4CCA-81DA-A6C34A5D4218",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2FD4229-6804-4F05-94A3-6BC74F23FE05",
+    "do_objectID": "B1C81986-682A-490D-8A12-BF6E4F0D0A43",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "270134B4-435C-4172-B3ED-77DE7408437D",
-    "height": 19,
-    "width": 38,
-    "x": 304,
-    "y": 19
+    "do_objectID": "D6F68A2C-1244-40D9-AFB4-BA149ABB2B71",
+    "height": 22,
+    "width": 28,
+    "x": 77,
+    "y": 5
   },
-  "glyphBounds": "{{1, 2}, {37, 12}}",
+  "glyphBounds": "{{2, 1}, {24, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,25 +65,25 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Music",
+  "name": "음악",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "EAF7A0C5-CFFE-4B9B-B393-23FC98063060",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "945CB4C2-E5FD-490B-A8AF-83D4D4A16054",
+    "do_objectID": "3EC97F3F-A715-4BCB-A578-A93FB66EC727",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "BB88479D-1181-4E98-8B3C-7BA40AC474A7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.24,
+          "alpha": 0.72,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -91,13 +91,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleSDGothicNeo-Light",
-            "size": 16
+            "name": "AppleSDGothicNeo-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 1
       },
@@ -105,11 +105,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

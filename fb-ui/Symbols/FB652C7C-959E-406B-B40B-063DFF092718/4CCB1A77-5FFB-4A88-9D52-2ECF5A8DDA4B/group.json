@@ -1,18 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 929,
   "clippingMaskMode": 0,
-  "do_objectID": "CE61BCB2-C673-4804-B49D-886D69AD781F",
+  "do_objectID": "4CCB1A77-5FFB-4A88-9D52-2ECF5A8DDA4B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "44CC7C21-7094-44F6-BB08-B03F8CA3431D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,61 +16,64 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 184,
-    "width": 221,
-    "x": 6194,
-    "y": -1709
+    "do_objectID": "A440EB75-393C-4C45-A846-3A7756BEAE71",
+    "height": 32,
+    "width": 210,
+    "x": 224,
+    "y": 12
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "6ABC3EC7-C2EF-4F62-BAA3-3D5301D0195F"
+      "id": "6CAFCEB0-041D-44C9-B678-2E8D69B86842"
+    },
+    {
+      "class": "text",
+      "id": "3FCD3897-480C-431B-9B28-D984AC21E4E2"
+    },
+    {
+      "class": "text",
+      "id": "145CD106-A5A4-4CCA-81DA-A6C34A5D4218"
+    },
+    {
+      "class": "text",
+      "id": "3F780369-9693-41D6-AFB3-F508E4341779"
+    },
+    {
+      "class": "rectangle",
+      "id": "03AFE90F-1613-494D-9D8A-251084E2C9B6"
+    },
+    {
+      "class": "rectangle",
+      "id": "E55C8AFB-9C79-461D-88A3-2E1B33BEE7A0"
     }
   ],
-  "name": "../background-layer",
+  "name": "Group Copy 3",
   "nameIsFixed": false,
-  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7EFA1121-8A9A-401A-A93C-89A616AA2C56",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2E104957-14B0-44C5-BA58-88FB2A7535D9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

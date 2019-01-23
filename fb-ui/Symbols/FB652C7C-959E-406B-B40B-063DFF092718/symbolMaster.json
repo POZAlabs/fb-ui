@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 735,
+  "changeIdentifier": 755,
   "clippingMaskMode": 0,
   "do_objectID": "FB652C7C-959E-406B-B40B-063DFF092718",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 56,
     "width": 1440,
-    "x": 3687,
-    "y": 2426
+    "x": 6176,
+    "y": -597
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,16 +73,8 @@
       "id": "B7855EE4-BFB7-42AF-8C30-4FDC980D90B7"
     },
     {
-      "class": "text",
-      "id": "C8CDC3E6-108F-4FC9-8027-F372BBADB63D"
-    },
-    {
-      "class": "text",
-      "id": "57B22E20-116B-442A-B137-F01B80F208BC"
-    },
-    {
-      "class": "text",
-      "id": "34954145-6AB3-4627-A04B-B063D1551369"
+      "class": "group",
+      "id": "4CCB1A77-5FFB-4A88-9D52-2ECF5A8DDA4B"
     }
   ],
   "name": "../Header",
