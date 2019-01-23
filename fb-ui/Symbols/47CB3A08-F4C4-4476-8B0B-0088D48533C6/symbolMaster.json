@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1238,
+  "changeIdentifier": 1324,
   "clippingMaskMode": 0,
   "do_objectID": "47CB3A08-F4C4-4476-8B0B-0088D48533C6",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,32 +57,8 @@
       "id": "8B1D3033-B7FD-4DB4-971D-7671E7668660"
     },
     {
-      "class": "symbolInstance",
-      "id": "2F29BAF1-505F-4127-98B6-29241A8D3070"
-    },
-    {
-      "class": "rectangle",
-      "id": "269FCE57-A4B6-4D34-A8FC-2F9931F3D0DD"
-    },
-    {
-      "class": "rectangle",
-      "id": "FD1A0E16-5810-4012-96BA-2241B1F005D6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E699B26F-36E1-4595-9503-F235B9B30EE2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "15365F4C-5534-4EA7-85A1-4FF2DD5E7924"
-    },
-    {
-      "class": "text",
-      "id": "916EF98F-87D5-48F1-B15C-5DA4DE467C80"
-    },
-    {
-      "class": "text",
-      "id": "F2576075-9ECA-432F-83D0-4D90E802D3BA"
+      "class": "group",
+      "id": "D8502FC7-995C-481E-9711-B950A6312DF2"
     },
     {
       "class": "symbolInstance",

@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 760,
+  "changeIdentifier": 1025,
   "clippingMaskMode": 0,
   "do_objectID": "67A92C23-D3DC-47D2-87C0-A04A15F01484",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,20 +65,12 @@
       "id": "8DF6FBC2-AAA4-495C-986D-EBD89CCD6FED"
     },
     {
-      "class": "symbolInstance",
-      "id": "FEFC0D2C-524F-49EF-ADA6-924988FA47B8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0888BCE9-BF1D-4CC1-80FA-396D34C6A9A2"
+      "class": "group",
+      "id": "D39F2553-E61D-4E32-9BEE-33C4513ABC38"
     },
     {
       "class": "symbolInstance",
       "id": "CE41C775-36A8-44D9-8628-04FBF7EC82A7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "54E7143D-156C-4783-A871-9733866E426B"
     }
   ],
   "name": "WR/__playlist",
