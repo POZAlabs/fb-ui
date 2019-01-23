@@ -8,13 +8,22 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 764,
+  "changeIdentifier": 773,
   "clippingMaskMode": 0,
   "do_objectID": "CC668834-FE81-4211-898B-52EC94898E3F",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "981F6A7D-5870-43F4-A154-F4C872FD6954",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -56,8 +65,8 @@
       "id": "B8DB3BC3-A3DE-49EE-8424-D97B537E246C"
     },
     {
-      "class": "text",
-      "id": "42F92762-42B0-4B4A-87B7-BF3767C8F5F2"
+      "class": "shapeGroup",
+      "id": "EF61C74A-20ED-4D1B-B1FB-F58858D83CAE"
     }
   ],
   "name": "icon/__plane copy 17",

@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "EF3CEC3B-333F-4A5A-BD56-E93AED87589F",
     "height": 25,
-    "width": 305,
+    "width": 260,
     "x": 0,
     "y": 0
   },
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -42,10 +42,6 @@
     {
       "class": "symbolInstance",
       "id": "229934F6-9E73-4E44-897B-5B8457A32495"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DE94C0A5-4C0E-4A3E-8CAF-B0E8266CFD9F"
     },
     {
       "class": "symbolInstance",
@@ -69,9 +65,10 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "align": 0,
         "isCollapsing": 1,
         "resizesContainer": 1,
-        "spacing": 4,
+        "spacing": 8,
         "stackType": 1
       },
       "kViewTypeKey": "ADModelStackView"

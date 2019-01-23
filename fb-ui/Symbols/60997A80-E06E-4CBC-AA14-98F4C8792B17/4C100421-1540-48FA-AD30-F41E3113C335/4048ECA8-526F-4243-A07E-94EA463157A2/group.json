@@ -18,9 +18,9 @@
     "constrainProportions": false,
     "do_objectID": "852B03BB-47BE-4C23-A0FC-289328AB5DCA",
     "height": 25,
-    "width": 290,
+    "width": 310,
     "x": 0,
-    "y": 29
+    "y": 33
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -49,11 +49,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B2A4584B-88DA-422B-9B8B-4DDF60D0D0A7"
+      "id": "4E13C21C-BF0F-4426-896D-1BE418444CE4"
     },
     {
       "class": "symbolInstance",
-      "id": "4E13C21C-BF0F-4426-896D-1BE418444CE4"
+      "id": "5041689A-E777-48CE-9B9F-C40264E58A92"
     }
   ],
   "name": "Stacked Group Copy 2",
@@ -73,9 +73,10 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "align": 0,
         "isCollapsing": 1,
         "resizesContainer": 1,
-        "spacing": 4,
+        "spacing": 8,
         "stackType": 1
       },
       "kViewTypeKey": "ADModelStackView"
