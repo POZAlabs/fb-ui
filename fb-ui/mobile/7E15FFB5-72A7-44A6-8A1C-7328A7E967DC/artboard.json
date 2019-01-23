@@ -31,7 +31,7 @@
     "y": 5711
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,15 +59,15 @@
       "id": "A5EC7F04-CE20-4D41-84EB-326DEFE362A8"
     },
     {
-      "class": "symbolInstance",
-      "id": "6856CC57-53C1-4DE3-8FAC-076486E6CE61"
+      "class": "group",
+      "id": "7407763E-5E7B-4D2B-82F5-725FF9A68074"
     },
     {
       "class": "group",
-      "id": "7407763E-5E7B-4D2B-82F5-725FF9A68074"
+      "id": "51F51C38-16F6-46CA-94BE-B548782502DB"
     }
   ],
-  "name": "music",
+  "name": "mobile/__music",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

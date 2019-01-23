@@ -17,14 +17,12 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleSDGothicNeo-Regular",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -53,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "11ADA7F0-EEF2-4718-93B0-31515E29DD2C",
-    "height": 22,
-    "width": 102,
+    "height": 17,
+    "width": 89,
     "x": 16,
-    "y": 16
+    "y": 20
   },
-  "glyphBounds": "{{0, 3}, {101, 15}}",
+  "glyphBounds": "{{0, 1}, {88, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,26 +93,24 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AppleSDGothicNeo-Regular",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

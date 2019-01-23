@@ -30,7 +30,7 @@
     "y": 5711
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,11 +90,11 @@
       "id": "3F06B09D-05C3-4D41-87E7-700998BB3DFC"
     },
     {
-      "class": "symbolInstance",
-      "id": "8075EF31-71F9-4F1E-899B-599D8CC60996"
+      "class": "group",
+      "id": "CFEE5F46-B203-41D5-8597-0A425D8C265F"
     }
   ],
-  "name": "rhyme-note",
+  "name": "mobile/__rhyme-note",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
