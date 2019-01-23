@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C6BC2A0-E15F-4799-90A0-505B17FD7062",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CE21EBA-C8CA-4A72-8747-D9C52E54D1E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "783DDC0B-D9A7-4D60-B81B-3F2AF83D9773",
+    "height": 584,
+    "width": 320,
+    "x": 0,
+    "y": 72
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CEBDDB97-030F-41A0-9C77-95D58347A40E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94DCDFDB-7164-47EF-AAFE-8B4BFB91F9C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BDCCFE29-B63C-4DF2-B0FC-32B44F1B3637"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8DDDF77-B402-4560-AD7D-0BC9CAAAD084"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74AF4B6C-9848-4A54-87D4-B084D28CF328"
+    },
+    {
+      "class": "group",
+      "id": "CA6F6F2A-E279-4D81-8976-3F50209C5943"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D09DC42A-BD0A-4905-92F3-EA9B554EFD5B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

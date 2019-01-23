@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "00F89EB6-AC08-4EC7-A7CE-0B8248298A80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1409506-A1D6-48BE-9E5B-31DE6AD0D11D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A6E7C88-4283-4D3C-93EF-D80F3160FD1A",
+    "height": 21,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B6A11BE-4C89-44FF-8325-8B47F4F881F6"
+    },
+    {
+      "class": "group",
+      "id": "2B9BDAAF-868C-4761-B614-F7387EE1E3DA"
+    }
+  ],
+  "name": "status bar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9425CBA-E622-440A-90B9-317AA5E2F878",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 21,
+            "enabled": 1,
+            "modelID": "constraint_53025bb1-4de0-4fa8-a481-b0b2c041d36b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 320
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_597280a2-aab8-4dd8-95c4-de21f13192f2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
