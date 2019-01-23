@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1457,
+  "changeIdentifier": 1852,
   "clippingMaskMode": 0,
   "do_objectID": "6838079C-EB0C-48BB-BBF8-57E7A944CA95",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 524,
     "width": 308,
-    "x": 11240,
-    "y": 2515
+    "x": 10901,
+    "y": 2584
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -57,32 +57,12 @@
       "id": "3AFB3F88-0140-4FBF-857A-323BA4D6C6BF"
     },
     {
-      "class": "rectangle",
-      "id": "987E7F0E-11BA-4ED8-92C8-20784C5AAC31"
-    },
-    {
-      "class": "rectangle",
-      "id": "7989F033-4CF9-4E2F-A7A2-86447AD8A9D7"
-    },
-    {
-      "class": "rectangle",
-      "id": "8630D5B5-3C0D-4B4A-85A7-9FE4CA6F464C"
+      "class": "group",
+      "id": "3661A534-9BD3-4726-B2AB-49DD6C322FCD"
     },
     {
       "class": "group",
-      "id": "B9077DEC-9D72-4365-8F57-E31A718D27CD"
-    },
-    {
-      "class": "text",
-      "id": "1B963445-C671-4A4E-91C5-A8CBBE4B1F0C"
-    },
-    {
-      "class": "text",
-      "id": "B6995C0C-D8AF-49CA-B7DD-9D7F475E7686"
-    },
-    {
-      "class": "text",
-      "id": "6C446E28-C889-4950-9C7D-589F13E9DC38"
+      "id": "4A3E3A56-0C27-408B-A58F-8FE2BE46C43C"
     }
   ],
   "name": "music/__info",

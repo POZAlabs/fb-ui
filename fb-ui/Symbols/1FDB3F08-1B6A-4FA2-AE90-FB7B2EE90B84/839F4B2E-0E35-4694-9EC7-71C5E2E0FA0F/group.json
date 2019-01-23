@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D364184B-873C-4042-838F-74473E06B2F4",
-    "height": 83,
-    "width": 305,
+    "height": 107,
+    "width": 290,
     "x": 16,
     "y": 179
   },
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -64,7 +64,7 @@
         "align": 2,
         "isCollapsing": 1,
         "resizesContainer": 1,
-        "spacing": 4,
+        "spacing": 16,
         "stackType": 0
       },
       "kViewTypeKey": "ADModelStackView"
