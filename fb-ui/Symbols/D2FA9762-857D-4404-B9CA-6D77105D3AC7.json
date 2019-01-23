@@ -28,7 +28,7 @@
     "y": -1933
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,20 +44,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "DBB3E4C6-5842-43B2-B0DC-80B4D6AD3B83"
-    },
-    {
-      "class": "slice",
-      "id": "ED290A46-B6F0-4693-A288-26F23307BFF7"
-    },
-    {
-      "class": "text",
-      "id": "E08CB301-052F-4D78-A1C4-C626A3D24D5D"
-    }
   ],
   "name": "Artboard",
   "nameIsFixed": false,
