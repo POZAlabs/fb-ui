@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,12 +8,20 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
   "clippingMaskMode": 0,
-  "do_objectID": "6C28A0F7-C8B8-43E5-886C-E06E52ECB568",
+  "do_objectID": "224233E7-F928-4671-9764-409D890C05A0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 500,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 1
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,10 +31,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4,
-    "width": 35,
-    "x": 13194,
-    "y": 2468
+    "height": 500,
+    "width": 500,
+    "x": 0,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -38,7 +46,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -46,15 +53,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "21F3FDB0-8B8F-43EC-A768-B4E40757FF6B"
+      "id": "516D9669-0F02-487F-83DF-C6BA3CB316C7"
+    },
+    {
+      "class": "text",
+      "id": "542DEF05-21BC-4306-8360-0078BD48031A"
+    },
+    {
+      "class": "text",
+      "id": "0E53FF73-CD89-4ACF-8FF4-67B3DB150AE6"
     }
   ],
-  "name": "UNDER",
-  "nameIsFixed": false,
+  "name": "LOGO",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,7 +82,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "75B8F4EE-5169-4546-AA51-BCBD79747E53",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

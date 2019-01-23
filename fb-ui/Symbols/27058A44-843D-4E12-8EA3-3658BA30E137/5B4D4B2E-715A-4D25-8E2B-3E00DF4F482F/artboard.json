@@ -1,19 +1,27 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
   "clippingMaskMode": 0,
-  "do_objectID": "6C28A0F7-C8B8-43E5-886C-E06E52ECB568",
+  "do_objectID": "5B4D4B2E-715A-4D25-8E2B-3E00DF4F482F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,12 +31,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4,
-    "width": 35,
-    "x": 13194,
-    "y": 2468
+    "height": 148,
+    "width": 148,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -37,8 +45,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInExport": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -46,14 +53,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "21F3FDB0-8B8F-43EC-A768-B4E40757FF6B"
+      "class": "oval",
+      "id": "0BEF45FE-0EAC-4836-ADC3-FB35FCD9FFAF"
+    },
+    {
+      "class": "group",
+      "id": "76447135-2AC5-472B-9FE8-C7315D2B7B00"
     }
   ],
-  "name": "UNDER",
+  "name": "Artboard Copy",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -67,7 +78,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "75B8F4EE-5169-4546-AA51-BCBD79747E53",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
