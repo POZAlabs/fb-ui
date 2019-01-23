@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 0.56,
-    "blue": 0,
-    "green": 0,
-    "red": 0
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D3489A76-DB00-4A9E-A1BA-DB5319A6406F",
+  "do_objectID": "07C19E56-A99E-41F6-9A20-A32F26CBFDFC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,54 +15,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1096,
-    "width": 3054,
-    "x": 12880,
-    "y": 17072
+    "height": 856,
+    "width": 641,
+    "x": 2127,
+    "y": 98
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "EFF623C3-4950-417D-9811-41B0E7EC4269"
-    },
-    {
-      "class": "group",
-      "id": "4A46590F-E512-4D75-A755-0439BD97B60B"
-    },
-    {
-      "class": "group",
-      "id": "07C19E56-A99E-41F6-9A20-A32F26CBFDFC"
+      "id": "EDD89CE7-635C-475B-BB37-C0851C53A273"
     },
     {
       "class": "symbolInstance",
-      "id": "D435C6D5-607F-43FB-AC85-96FAD8751D2C"
+      "id": "B8B2417D-98AA-41B6-914E-9096B4B15CBF"
+    },
+    {
+      "class": "group",
+      "id": "8D829E46-0B43-4170-8C15-61A64D024FFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A54F71C8-47EE-44C8-8A85-01711642E796"
     }
   ],
-  "name": "Artboard",
+  "name": "simple/__rhyme-note copy",
   "nameIsFixed": false,
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -82,11 +64,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

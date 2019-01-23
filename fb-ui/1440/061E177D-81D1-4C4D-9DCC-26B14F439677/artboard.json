@@ -27,8 +27,8 @@
     "do_objectID": "83176477-9366-438C-BF6E-A20F77AD9EAF",
     "height": 900,
     "width": 1440,
-    "x": 14090,
-    "y": 3800
+    "x": 13138,
+    "y": 3816
   },
   "grid": {
     "_class": "simpleGrid",
@@ -38,7 +38,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -88,7 +88,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 80,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1280

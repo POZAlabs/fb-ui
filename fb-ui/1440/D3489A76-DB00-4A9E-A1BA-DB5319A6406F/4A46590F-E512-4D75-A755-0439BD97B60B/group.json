@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 0.56,
-    "blue": 0,
-    "green": 0,
-    "red": 0
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D3489A76-DB00-4A9E-A1BA-DB5319A6406F",
+  "do_objectID": "4A46590F-E512-4D75-A755-0439BD97B60B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,54 +15,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1096,
-    "width": 3054,
-    "x": 12880,
-    "y": 17072
+    "height": 793,
+    "width": 641,
+    "x": 1454,
+    "y": 98
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "EFF623C3-4950-417D-9811-41B0E7EC4269"
-    },
-    {
-      "class": "group",
-      "id": "4A46590F-E512-4D75-A755-0439BD97B60B"
-    },
-    {
-      "class": "group",
-      "id": "07C19E56-A99E-41F6-9A20-A32F26CBFDFC"
+      "id": "669EB72C-0FC7-4A85-BCCF-50381216927D"
     },
     {
       "class": "symbolInstance",
-      "id": "D435C6D5-607F-43FB-AC85-96FAD8751D2C"
+      "id": "61DB7513-E3FC-4C74-B16D-142300E49436"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D2046E9-FA2F-45EB-B133-0C358A9154F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32C9F3A0-80F4-4E2F-B313-F2AEFE91E847"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "731AA0B7-18CF-412A-8808-30586D9040C7"
     }
   ],
-  "name": "Artboard",
+  "name": "simple/__recommend copy",
   "nameIsFixed": false,
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -82,11 +68,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
