@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BAE4D51D-000D-463B-B00C-502235CB9374",
+  "do_objectID": "BB9D8020-907F-4B47-98A8-4A9761C4AC0F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2D4429D8-E56A-4CFC-8B7D-D1E4B76D2C52",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 16,
-    "y": 91
+    "do_objectID": "7F97E402-0A27-4AEF-96E9-2CD23156BD14",
+    "height": 1,
+    "width": 632,
+    "x": 0,
+    "y": 89
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon/__plane copy 10",
+  "name": "../divider",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "7B0E7448-6A79-4C79-A1B9-05AD5938920D",
-      "overrideName": "20555C3D-963D-4F02-8944-FD6D12DDB186_textStyle",
-      "value": "69591AA2-AD56-4606-940B-549E082820D4"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,12 +41,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B363E52D-DF6D-4A4A-90CB-05F423667AB0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5B9A79E3-2B5F-4D11-9C0D-93586B99A44D",
+  "symbolID": "6B7D37D0-8B54-4713-B443-0857280DBBAB",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

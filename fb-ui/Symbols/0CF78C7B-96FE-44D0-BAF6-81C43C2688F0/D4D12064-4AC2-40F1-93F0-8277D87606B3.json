@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9181B29C-1B15-4B91-9123-737B59C3186E",
+  "do_objectID": "D4D12064-4AC2-40F1-93F0-8277D87606B3",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F5128969-AC81-4C44-84C7-FB6EF1E079E2",
+    "do_objectID": "76B63A41-45A1-4DB4-9473-1FFA5B50CF7D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EC0F4A07-59AC-4633-8570-D5334AF25DAC",
-    "height": 4,
-    "width": 70,
-    "x": 546,
-    "y": 27
+    "do_objectID": "84C9BE41-B68E-4F64-A6C3-9357CC9DCFD3",
+    "height": 90,
+    "width": 632,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,15 +31,15 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 5",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -81,6 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "DEE0AED4-2E07-482C-B0BB-DB1F78121585",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -131,17 +132,17 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "3ABB1C1A-7EC7-463F-A6CB-CCDF8ADC2B35",
+    "do_objectID": "72CBF70D-3FBF-4395-8EC7-C2EEF1239098",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2705882352941176,
-          "green": 0.2862745098039216,
-          "red": 0.2941176470588235
+          "alpha": 0.56,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "gradient": {

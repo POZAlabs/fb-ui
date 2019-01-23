@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "83524434-EA56-4436-B3F2-AD9D11382EAA",
+  "do_objectID": "C4B10A97-26B0-4A4D-85E2-366176096CF9",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BF22AF8A-CAD4-4C35-B384-B6A279687479",
+    "do_objectID": "F35608F1-D41C-4B22-BC36-8546627355BE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C3CE3045-2A03-4B15-9425-19850877DBC3",
-    "height": 18,
-    "width": 4,
-    "x": 6,
-    "y": 0
+    "do_objectID": "A9C1B28A-FB16-461B-8821-2CABA4BF02AF",
+    "height": 4,
+    "width": 107,
+    "x": 169,
+    "y": 60
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 3",
+  "name": "Rectangle Copy 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 4,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -90,48 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8470588235294118,
-          "green": 0.8470588235294118,
-          "red": 0.8470588235294118
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 0.72,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
         "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "9757EC83-FAAD-466B-A118-CA35273E7A3A",
+    "do_objectID": "B2F52B57-E9C4-43DE-BFAF-4995FCB0383F",
     "endMarkerType": 0,
     "fills": [
       {
@@ -139,42 +108,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5450980392156861,
+          "blue": 0.5450980392156862,
           "green": 0.7411764705882353,
           "red": 0.1372549019607843
         },
         "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 0.72,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,

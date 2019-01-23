@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1838,
+  "changeIdentifier": 1876,
   "clippingMaskMode": 0,
   "do_objectID": "0CF78C7B-96FE-44D0-BAF6-81C43C2688F0",
   "exportOptions": {
@@ -50,63 +50,55 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "C82A943C-DB20-4648-92F0-3F3F62095727"
+      "id": "A876E1F0-32DF-4C0A-B989-DD8442334B82"
     },
     {
       "class": "rectangle",
-      "id": "486749A2-6733-41E6-AF62-AAA254B3DD10"
+      "id": "D4D12064-4AC2-40F1-93F0-8277D87606B3"
     },
     {
       "class": "symbolInstance",
-      "id": "BAE4D51D-000D-463B-B00C-502235CB9374"
-    },
-    {
-      "class": "group",
-      "id": "547EA266-5EFD-447C-BE2A-863BDAB4C354"
+      "id": "BB9D8020-907F-4B47-98A8-4A9761C4AC0F"
     },
     {
       "class": "symbolInstance",
-      "id": "FAF59AD3-3456-4951-B684-29F46FBA6EBA"
+      "id": "F2799B89-3957-4D80-AACD-0476F8381A21"
     },
     {
       "class": "text",
-      "id": "E9B477A7-DB33-4B85-B51E-2D206D60C690"
-    },
-    {
-      "class": "text",
-      "id": "3111E1D3-487C-4975-A04B-F4AB8AB0A030"
-    },
-    {
-      "class": "rectangle",
-      "id": "72632388-70E3-490F-8CE9-24AF93258EA2"
-    },
-    {
-      "class": "rectangle",
-      "id": "4F1AEF93-4C32-40CD-B613-68690AE1717A"
-    },
-    {
-      "class": "rectangle",
-      "id": "7B643A96-3301-4A62-8B2B-CE2D896A8127"
-    },
-    {
-      "class": "rectangle",
-      "id": "9181B29C-1B15-4B91-9123-737B59C3186E"
-    },
-    {
-      "class": "rectangle",
-      "id": "67E67025-B231-4A63-99A0-32E360385502"
+      "id": "DFCE7DC4-CFD8-4B72-8C1C-D3A7CAA6FBA0"
     },
     {
       "class": "symbolInstance",
-      "id": "E17FFBC2-BA39-412C-A219-83D83F2F981F"
+      "id": "58B7437F-3E9E-4F38-AC23-67296F9A94B2"
     },
     {
       "class": "text",
-      "id": "45C46AC3-FABC-4236-B8F3-E12CFF29F061"
+      "id": "2D560D4F-84B3-4743-9429-C0EF324390FC"
+    },
+    {
+      "class": "text",
+      "id": "BDB56F8F-7A3D-45A5-8DFE-B742095C117D"
+    },
+    {
+      "class": "rectangle",
+      "id": "9FD61829-A955-4932-B745-2C32D2C777AF"
+    },
+    {
+      "class": "rectangle",
+      "id": "02597021-4A3C-42FA-AE99-C0E52FDF11D1"
+    },
+    {
+      "class": "rectangle",
+      "id": "C4B10A97-26B0-4A4D-85E2-366176096CF9"
+    },
+    {
+      "class": "text",
+      "id": "DDDE1A0B-4C20-4DE7-AD3E-F54FF719AC8D"
     },
     {
       "class": "symbolInstance",
-      "id": "ABD0F92F-D849-4A09-9AB0-8B3BDE701418"
+      "id": "F64C3A47-E572-496B-80F5-404AE7498CF6"
     }
   ],
   "name": "editor/__player",
