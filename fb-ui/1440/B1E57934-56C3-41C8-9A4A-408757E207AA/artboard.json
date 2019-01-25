@@ -27,8 +27,8 @@
     "do_objectID": "6AB761E6-2324-4DF9-AE27-CC0692AFC05B",
     "height": 901,
     "width": 1440,
-    "x": 11387,
-    "y": 7246
+    "x": 11351,
+    "y": 5615
   },
   "grid": {
     "_class": "simpleGrid",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -76,10 +76,6 @@
     {
       "class": "symbolInstance",
       "id": "748D7E23-C448-4469-8394-C07B470A6C44"
-    },
-    {
-      "class": "group",
-      "id": "7928F29C-76AC-450B-B476-610BE6F2D559"
     }
   ],
   "layout": {

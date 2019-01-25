@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F6BB662-D2E3-4FAB-91C2-A25DC1585C49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 623,
+    "width": 632,
+    "x": 75,
+    "y": 141
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FED55FDE-5933-4EDA-B712-501FCD49D38F"
+    },
+    {
+      "class": "group",
+      "id": "7C68A71C-4265-43CB-8D19-84CC85ACF08D"
+    },
+    {
+      "class": "group",
+      "id": "88958F32-0E39-4656-AEAB-5A19F3B5E950"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2EDE065-FBA8-48A6-9A5B-E942917F82D3"
+    }
+  ],
+  "name": "WR/__rhymeNote",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F75EDA19-FDFF-4C05-A6C0-68ED431CF771",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9746EE4A-8DB1-479F-8248-56825A0211BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C8C3F44-B034-4E25-8B88-99A59244F449",
+    "height": 37,
+    "width": 524,
+    "x": 0,
+    "y": 384
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/__text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E56BBE3B-1523-4332-8629-118229C911E7",
+      "overrideName": "01F5E9F4-282B-4660-B239-2AE4335A6FAB_stringValue",
+      "value": "악기정보"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5399A110-1973-41ED-8EA1-1FA704CEBAD5",
+      "overrideName": "0A640875-0A90-4777-AEE5-CDD9F12CA98F/86EB332A-2CC1-4FC7-9FAC-D14183C8F752_stringValue",
+      "value": "이 곡에 사용된 악기를 알려주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6C7959A-425B-45FF-BC64-6F0954FB1BB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E49FA921-C1DB-4F5D-8CEA-10821FDD1F7C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "437A96F8-2A2E-4AD7-836A-2E1AA0E30DD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3554F5F2-76CC-4BEA-BCA2-3D5A8E51A51C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71F6B370-DF0E-4E96-A2B2-46EB0BF6932D",
+    "height": 25,
+    "width": 298,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C08C90B7-4F10-4933-AF7E-277E9ABAB831"
+    },
+    {
+      "class": "group",
+      "id": "7B013FFE-C989-4B23-9520-64697A811F1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34AB679A-3BBB-403C-B359-FB14C31CFCCA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4A6EADA-ECAE-4B68-9ACF-11A4BE80B9D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F32D86BC-4994-4EAC-8F7B-BAD13B61131F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15BF31A2-95BE-4127-87BC-D8DC860E3A83"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B07B8014-16B3-422F-ABE0-4F84F50D6C38",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 8,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

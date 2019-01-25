@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.56,
+    "blue": 0,
+    "do_objectID": "1C544DC6-217A-43D1-8C9B-E6D7534BAB90",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1672,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CEB61D2-F15E-4BA2-8F32-1DEE72D85182",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5B52801-E9C4-4E51-A1E2-91E66A732885",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B3A9E1B-2EA1-45DB-9596-1FC698E34B58",
+    "height": 623,
+    "width": 632,
+    "x": 11151,
+    "y": 1274
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FD94CFA1-3DC8-4D19-824F-6F5E288063C2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "06ED4049-CA10-4A77-B81C-D54B3800EFF7"
+    },
+    {
+      "class": "group",
+      "id": "E1AB732D-6368-4804-B961-C5D2639C79EE"
+    },
+    {
+      "class": "group",
+      "id": "39EB58DB-7294-49A0-B53E-517F45F680BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D26FC240-85D3-49D7-88AD-5790A66446B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "EFC07D26-AAD3-46F9-97CF-E5CF98CC7683"
+    },
+    {
+      "class": "text",
+      "id": "2C7E3C12-F9A0-4B43-BEEF-7907B3FD67C9"
+    },
+    {
+      "class": "text",
+      "id": "6CE6567F-0E7D-48F5-A19F-55469971F788"
+    },
+    {
+      "class": "group",
+      "id": "F43953B7-AC90-4DFF-A8C2-1EEEE2B623CD"
+    }
+  ],
+  "name": "WR/__playlist Copy 4",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78D4F7DF-868E-4C29-89A6-26DD5F1470AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5435167-D2E6-412D-9DD8-3CCE53220275",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3C0BD1D8-6D66-4943-AC4B-BA1CE3627FDB",
+    "guides": [
+    ]
+  }
+}

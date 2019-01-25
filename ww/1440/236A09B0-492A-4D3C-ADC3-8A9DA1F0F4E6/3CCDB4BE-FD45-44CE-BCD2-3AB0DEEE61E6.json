@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3CCDB4BE-FD45-44CE-BCD2-3AB0DEEE61E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 901,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "background-image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D6B5E16-B938-4B44-AD1E-C7136195CF98",
+      "overrideName": "6FF9237C-86AD-495C-A5C8-59D711ACB388_symbolID",
+      "value": "6C67EA1A-3131-46DD-BE6D-A83C952BC2C3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AB330A9-5DD0-43EB-B408-9A19D15C3AAB",
+      "overrideName": "715D20E5-DA05-4418-A46F-DDCFF681D0DE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/26797acba0afded9038f0e2ef5a10b8d2cd954c4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C72B6252-E84D-46D0-A904-9C2D4D72A511",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

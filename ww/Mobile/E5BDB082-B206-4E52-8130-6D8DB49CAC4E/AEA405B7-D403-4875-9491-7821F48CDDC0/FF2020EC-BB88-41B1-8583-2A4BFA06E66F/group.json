@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF2020EC-BB88-41B1-8583-2A4BFA06E66F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF266212-4915-418C-8D23-C537320089BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7EECA83-8F97-4DB8-865F-636392618F34",
+    "height": 120,
+    "width": 320,
+    "x": 0,
+    "y": 296
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B40617F6-D39F-4C54-811F-28106CF3C819"
+    },
+    {
+      "class": "rectangle",
+      "id": "E29B77FF-04B3-4BA4-805D-EDE6B1320847"
+    },
+    {
+      "class": "text",
+      "id": "06E40A6F-F705-45B6-8E10-28D2F740414E"
+    },
+    {
+      "class": "text",
+      "id": "9E34BDAE-9225-4FF5-B6AA-598793494989"
+    },
+    {
+      "class": "text",
+      "id": "FACF9985-B21A-4974-A68C-5CBA8C10337F"
+    },
+    {
+      "class": "text",
+      "id": "2EE6CA5F-854B-4979-A76A-116E8F2703E1"
+    },
+    {
+      "class": "text",
+      "id": "5818A146-89E5-4FE4-AC0E-DDD2B2359B49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8984A291-E043-4E4C-B5B8-2C495524A765"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CED0B830-35E6-41B3-9071-19525B661E6B"
+    }
+  ],
+  "name": "list/__item/__music",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40A52670-28C6-4EB0-88D0-A626F0D72AAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

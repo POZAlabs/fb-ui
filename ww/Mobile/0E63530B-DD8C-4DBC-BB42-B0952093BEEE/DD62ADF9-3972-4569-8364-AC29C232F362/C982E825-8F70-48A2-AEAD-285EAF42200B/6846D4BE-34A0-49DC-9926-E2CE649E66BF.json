@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6846D4BE-34A0-49DC-9926-E2CE649E66BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92F2686A-893B-4055-A3C3-08326F734CAE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "767DEBF3-56CA-4878-9507-DCA500927205",
+    "height": 48,
+    "width": 287,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tab/__list copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88C431BE-E96B-4BE2-B291-13A500C2A1C0",
+      "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_textStyle",
+      "value": "0AEA155B-C781-4CC8-82CC-66C9B6A6C248"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0431D998-B406-4BF9-B6C7-CDE720ED0E5A",
+      "overrideName": "8F4E4F29-C74E-43C8-98F3-BDB42D3E3C9A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "378B7D1D-6A78-4CD8-B8C2-FCCABD97A32E",
+      "overrideName": "4CA163FA-D6A7-47D9-ABAF-E31F84327E92_stringValue",
+      "value": "프로필수정"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17B457E7-F00C-40C8-91B9-6F263C372C3F",
+      "overrideName": "60D4113D-B297-4305-8E18-E7665C7BD77E_stringValue",
+      "value": "비밀번호변경"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "26324791-C4C9-493A-B358-10E5DB972FA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4BC5A963-C4B9-46C6-8B40-06BF731D4160",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

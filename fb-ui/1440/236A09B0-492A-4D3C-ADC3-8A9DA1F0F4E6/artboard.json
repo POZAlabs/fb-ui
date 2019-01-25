@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "A3564CFD-DAF2-4465-8E69-64AB39264858",
-    "green": 1,
-    "red": 1
+    "blue": 0.4392156862745098,
+    "green": 0.4392156862745098,
+    "red": 0.4392156862745098
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -26,7 +25,7 @@
     "constrainProportions": false,
     "do_objectID": "A8D21214-F924-4298-992E-B89FF1209F11",
     "height": 901,
-    "width": 1440,
+    "width": 4097,
     "x": 11407,
     "y": 3816
   },
@@ -38,7 +37,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -80,6 +79,18 @@
     {
       "class": "symbolInstance",
       "id": "5A8A7CB1-5ACF-4A85-ADC0-DDEAE24EBBB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11F19CC7-36EF-4AB0-A05D-F33A2BC15357"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CC1CB04-DC20-421A-87B7-1885764DC9AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C7B3BDC-9FF7-40B4-A9F7-79A448136D93"
     }
   ],
   "layout": {

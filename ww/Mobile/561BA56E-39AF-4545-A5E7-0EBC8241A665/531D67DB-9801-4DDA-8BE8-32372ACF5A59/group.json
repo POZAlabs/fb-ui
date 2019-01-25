@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "531D67DB-9801-4DDA-8BE8-32372ACF5A59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A334345B-A795-4285-B30D-9F4E5EB8EA15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C339F5A-AB66-4697-B5C0-FAE51FB66F23",
+    "height": 152,
+    "width": 316,
+    "x": 0,
+    "y": 72
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4A071AFF-03D1-4FE3-8F3B-DEEB37DEF93D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DC4BA5E-CC12-4984-8B96-2EEE57FB3E04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E920A3B1-8F6A-407A-A0D5-21203B984845"
+    }
+  ],
+  "name": "Stacked Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44EA519C-EF8E-40A9-9AC1-8C7F3532ABBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

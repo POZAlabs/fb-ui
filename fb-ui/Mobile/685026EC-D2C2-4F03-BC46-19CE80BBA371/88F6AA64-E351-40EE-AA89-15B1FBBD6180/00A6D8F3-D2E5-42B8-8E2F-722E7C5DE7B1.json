@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "00A6D8F3-D2E5-42B8-8E2F-722E7C5DE7B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34A3EC6E-B3DD-41A1-92F5-0A05D3D1A118",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B2E40F6-6CD1-4838-87FF-419BAA44928F",
+    "height": 120,
+    "width": 320,
+    "x": 0,
+    "y": 104
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__item/__music",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1A6F7FFC-7F31-432E-AE80-B9862085F51D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f88010524035d8dea5369ea6113a1726bf5130eb.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FC2F318-A3E9-47CA-BC38-1404F74C98ED_stringValue",
+      "value": "Loni Bowcher"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "05D27C9F-89CA-4416-8E0E-68BF35F5E08D_stringValue",
+      "value": "No Title"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47D1D5CD-9F24-458C-A3D9-4DE3E03918D9_stringValue",
+      "value": "180RPM"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A878596-E61C-4060-BE34-9BD9D2EAE87B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "236694F2-FB35-4EA7-ACDE-605C0D0201C9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

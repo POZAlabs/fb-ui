@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0303E6AB-48E5-4557-9196-D73E29EECDB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB75AD6E-FE0F-4D22-ACC9-59E352091CD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4CAD6CE-82D5-43F7-933E-D6726B2D583E",
+    "height": 120,
+    "width": 320,
+    "x": 0,
+    "y": 176
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A1F38A6C-06BC-4E5A-80CC-608C87DE8AB6"
+    },
+    {
+      "class": "text",
+      "id": "FE0965F0-0D19-44D0-9E57-53B6222A100C"
+    },
+    {
+      "class": "text",
+      "id": "6DC5563E-7A96-4F7E-A1B8-C33A469400D5"
+    },
+    {
+      "class": "text",
+      "id": "A24DEF1B-CAA3-40EC-9040-0D4519BE55DE"
+    },
+    {
+      "class": "text",
+      "id": "D7EECD9F-DF5C-4240-8D9E-814CC723ABFC"
+    },
+    {
+      "class": "text",
+      "id": "91DC29F8-A12E-43E0-8F71-7E419BA9812C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D019FC98-A600-483B-92F3-31CE98BB0ECF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB2D07D7-7DD9-4CCC-B9EC-6C8E65C97640"
+    }
+  ],
+  "name": "list/__item/__music copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B8E7570-30B0-4694-B9DB-DEA38E19A3C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

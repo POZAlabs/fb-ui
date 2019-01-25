@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.56,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1159,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFC79949-989B-463C-B86B-8D8F14CF2909",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 755,
+    "width": 648,
+    "x": 11143,
+    "y": 378
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "935A2F0B-F29B-4145-9E45-2B712D980BD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3E96908-2263-4788-BF3B-36CA8070B013"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADB3F313-9148-47E0-9195-886BB94B0EB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "857D075A-8DA4-4AAD-8FB1-1C015EE82F03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC963C70-07AC-4B07-9C31-D6D8B10EF795"
+    }
+  ],
+  "name": "editor/__LR",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "120A042A-39C4-428C-B5AA-2168CB2EC819",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

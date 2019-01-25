@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "270F0C1E-700C-4FD3-AE3E-86EDC7211CB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A082B0CE-5515-4960-9415-3BC13124E792",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3CB09F7-13BE-4691-B814-E3AEC4FFE243",
+    "height": 33,
+    "width": 69,
+    "x": 1291,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/__medium",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1548F9CA-E31F-47B7-AFAC-E5A09E0C14FA",
+      "overrideName": "A243C1DA-4C0F-4A0A-859E-7AEF67C6E907_stringValue",
+      "value": "로그인"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC2AB8B1-9F7A-48D6-B689-EA2B012163EA",
+      "overrideName": "AE516B02-52E6-4001-812A-E676DC17B0C3_layerStyle",
+      "value": "4FD3BB63-0762-4452-8967-8209C0884CC2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D121016A-95E5-4681-8E0A-377D96C51016",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CCC46F33-4532-46E3-BEAC-DD39059D419A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1548244626.128156
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

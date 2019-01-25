@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F7A48EF-F44F-4F73-BFFE-100B41BAC107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A42E17A-66A3-413D-99C4-899178C72204",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21558F0D-543F-471B-944D-E7AB28004516",
+    "height": 48,
+    "width": 139,
+    "x": 805,
+    "y": 534
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "30F8A3B4-09A4-4C84-B514-B543578960E6"
+    },
+    {
+      "class": "text",
+      "id": "D1210077-97EE-4DA1-A1D8-BD0B7602C756"
+    }
+  ],
+  "name": "Button Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EE93A83-34BC-443A-920B-E3CD662A31C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 154.5,
+            "enabled": 1,
+            "modelID": "constraint_8b724155-0784-41fa-af20-62270d08b06d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_120bc18d-ff7e-4b2b-ba2d-67f143be753b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

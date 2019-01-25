@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7BCA53F-970E-4158-AA2E-3256BFC30907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D8A3DC2-189C-4F63-B324-C47A010A3514",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B07E85C-CD03-4CC2-B073-4410B275FDA6",
+    "height": 88,
+    "width": 316,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/__item/__player",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D278858-14AA-427B-96F0-C530D611DFD6",
+      "overrideName": "433B7DB6-FF02-4932-AB27-E7348D501D44_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/981a135d26b5799e2fc6ed713379a431f8e0fc5c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "998AC31B-A9C8-402D-B333-4691C87A40DC",
+      "overrideName": "9DB54462-D70D-4EB4-AF9D-4DD6004CC216_stringValue",
+      "value": "Make Sure Your Ice Is Safe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CAAFE62-9C89-4BE0-9259-1A4066CB593C",
+      "overrideName": "F2A293E8-D7DA-41F6-96CA-A0EAD99F0602_stringValue",
+      "value": "Yes Jammy"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94565868-37BF-403B-A5EA-04627413AD49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8E2CA44-EDE0-40AD-8466-A4243A45682D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
